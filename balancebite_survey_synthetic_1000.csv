@@ -1,0 +1,1001 @@
+Age_Bracket,City,Monthly_Income,Dietary_Style,Weekly_Workouts,Orders_Per_Week,Avg_Spend_Order,Primary_Occasions,Interest_Calorie_Control,Alcohol_Consumption_Freq,Drink_Preference,Max_Set_Calories,Favourite_Flavours,Spirits_Enjoyed,Openness_Zero_Proof,Fair_Price_Bundle,Importance_Local_Ingredients,Likely_Try_30_Days,Likely_Reorder_Score,Preferred_Loyalty_Benefit
+25-34,Pune,38416.0,Omni,0,0,3778.0,"Lunch, Post-work drinks, Weekend treat",5,1× week,Equal,400,Spicy,"Rum, Whisky",Never,1 000-1 200,3,Yes,3,Points
+25-34,Hyderabad,21260.0,Omni,2,3,976.0,Weekend treat,3,1-2× month,Mocktails,400,Smoky,"Rum, Whisky",Maybe,800-1 000,2,No,1,Free delivery
+35-44,Bengaluru,26704.0,Omni,6,1,1162.0,"Dinner, Lunch",5,1-2× month,Mocktails,500,"Fruity, Spicy","Rum, Tequila",Yes definitely,>1 200,5,No,2,Free delivery
+18-24,Mumbai,20000.0,Omni,5,1,842.0,Lunch,4,1× week,Cocktails,600,"Earthy, Herbal","Rum, Vodka",Yes definitely,>1 200,5,Yes,3,Nutrition consult
+35-44,Mumbai,20000.0,Vegan,3,1,969.0,Post-work drinks,2,1-2× month,Cocktails,600,"Earthy, Fruity",Whisky,Maybe,>1 200,4,Yes,5,Nutrition consult
+25-34,Bengaluru,21606.0,Omni,0,2,1058.0,"Lunch, Post-work drinks",4,1-2× month,Equal,500,Herbal,Rum,Maybe,1 000-1 200,3,Yes,4,Cocktail upgrade
+35-44,Kolkata,20103.0,Keto,2,3,1055.0,"Lunch, Post-work drinks",5,1-2× month,Cocktails,500,Earthy,Gin,Maybe,1 000-1 200,5,Yes,4,Free delivery
+25-34,Pune,30279.0,Vegetarian,1,5,1209.0,Dinner,5,1-2× month,Mocktails,500,"Herbal, Spicy",Tequila,Maybe,<800,4,Maybe,2,Free delivery
+18-24,Bengaluru,50441.0,Omni,4,1,2000.0,Weekend treat,5,1× week,Mocktails,400,Smoky,"Rum, Vodka",Unlikely,800-1 000,3,Yes,4,Points
+25-34,Hyderabad,36134.0,Omni,6,0,1554.0,Dinner,5,Never,Mocktails,700,"Citrus, Smoky, Spicy",None,Yes definitely,>1 200,3,Maybe,3,Free delivery
+18-24,Kolkata,31037.0,Omni,1,3,1520.0,Weekend treat,5,2-3× week,Equal,600,Spicy,"Rum, Whisky",Yes definitely,800-1 000,5,Maybe,2,Free delivery
+18-24,Bengaluru,47913.0,Omni,3,1,2000.0,Post-work drinks,4,1× week,Mocktails,600,Fruity,Whisky,Unlikely,1 000-1 200,2,Yes,4,Points
+45-54,Hyderabad,27096.0,Vegetarian,2,0,1429.0,"Post-work drinks, Weekend treat",5,1-2× month,Cocktails,600,Spicy,"Gin, Rum, Tequila",Yes definitely,>1 200,5,No,2,Points
+55+,Pune,20976.0,Omni,5,1,1117.0,"Dinner, Weekend treat",4,1× week,Equal,600,"Citrus, Spicy",Whisky,Maybe,<800,4,No,2,Nutrition consult
+35-44,Chennai,20000.0,Vegan,4,4,906.0,"Post-work drinks, Weekend treat",5,1-2× month,Mocktails,600,Spicy,Vodka,Maybe,1 000-1 200,5,No,1,Points
+18-24,Bengaluru,20000.0,Vegetarian,0,0,1036.0,Post-work drinks,5,1-2× month,Cocktails,500,Smoky,Vodka,Unlikely,800-1 000,4,Yes,3,Points
+35-44,Pune,20000.0,Vegetarian,1,1,1019.0,Post-work drinks,2,Never,Mocktails,700,Herbal,None,Yes definitely,1 000-1 200,5,Yes,3,Points
+35-44,Hyderabad,33107.0,Vegetarian,1,1,1689.0,Lunch,4,1× week,Cocktails,400,"Citrus, Herbal",Gin,Yes definitely,<800,5,Maybe,2,Points
+18-24,Bengaluru,66027.0,Vegetarian,0,1,2000.0,"Lunch, Post-work drinks, Weekend treat",5,1-2× month,Equal,600,"Citrus, Earthy, Fruity, Smoky",Rum,Yes definitely,<800,4,Yes,4,Points
+35-44,Bengaluru,39252.0,Omni,7,3,1777.0,Lunch,4,Never,Mocktails,400,"Citrus, Fruity, Spicy",None,Yes definitely,<800,2,Maybe,3,Free delivery
+35-44,Delhi,32740.0,Vegetarian,5,2,1440.0,Dinner,5,1-2× month,Cocktails,600,Herbal,Vodka,Unlikely,>1 200,4,Yes,5,Cocktail upgrade
+25-34,Chennai,21497.0,Keto,2,3,1086.0,Weekend treat,4,2-3× week,Cocktails,400,"Fruity, Smoky, Spicy","Gin, Tequila",Never,<800,3,No,2,Points
+25-34,Delhi,50867.0,Vegetarian,4,0,2000.0,Weekend treat,5,Never,Mocktails,500,Smoky,None,Yes definitely,800-1 000,5,Yes,3,Points
+18-24,Mumbai,21198.0,Vegan,3,0,1068.0,Weekend treat,2,Daily,Cocktails,500,Spicy,Rum,Unlikely,>1 200,5,Maybe,2,Points
+25-34,Pune,26623.0,Omni,2,0,1165.0,"Dinner, Lunch",2,Never,Mocktails,600,Citrus,None,Yes definitely,1 000-1 200,4,No,2,Free delivery
+55+,Mumbai,27954.0,Other,0,2,1417.0,"Lunch, Post-work drinks, Weekend treat",5,1-2× month,Mocktails,600,"Earthy, Fruity, Spicy",Rum,Maybe,1 000-1 200,4,No,2,Cocktail upgrade
+25-34,Hyderabad,20000.0,Omni,1,2,940.0,"Lunch, Post-work drinks, Weekend treat",2,Daily,Avoid all,600,Fruity,Rum,Maybe,800-1 000,5,No,2,Cocktail upgrade
+35-44,Hyderabad,39543.0,Vegan,0,0,1768.0,Weekend treat,4,2-3× week,Avoid all,400,"Fruity, Smoky",Tequila,Maybe,800-1 000,5,No,1,Free delivery
+18-24,Kolkata,26981.0,Vegetarian,6,3,1284.0,Weekend treat,4,1-2× month,Cocktails,700,Spicy,"Gin, Rum, Whisky",Maybe,800-1 000,5,Maybe,2,Points
+35-44,Bengaluru,29540.0,Vegetarian,5,1,1497.0,Dinner,4,Never,Mocktails,600,Earthy,None,Yes definitely,1 000-1 200,5,Yes,3,Points
+25-34,Bengaluru,23198.0,Omni,4,1,1200.0,"Dinner, Lunch, Post-work drinks",5,2-3× week,Equal,400,"Earthy, Fruity",Whisky,Never,1 000-1 200,3,Yes,5,Points
+25-34,Mumbai,20000.0,Omni,5,2,1049.0,Weekend treat,5,Never,Mocktails,500,"Earthy, Fruity",None,Yes definitely,<800,3,Yes,3,Points
+18-24,Delhi,79269.0,Omni,4,2,2000.0,Post-work drinks,3,2-3× week,Equal,400,"Herbal, Spicy","Rum, Tequila",Maybe,1 000-1 200,5,Yes,4,Points
+25-34,Bengaluru,42971.0,Keto,2,2,1820.0,"Dinner, Weekend treat",2,1-2× month,Mocktails,500,"Fruity, Smoky",Vodka,Maybe,800-1 000,1,Yes,4,Cocktail upgrade
+25-34,Hyderabad,26785.0,Omni,2,2,1419.0,Weekend treat,5,1-2× month,Cocktails,500,"Earthy, Fruity, Smoky","Gin, Vodka",Maybe,1 000-1 200,4,Yes,5,Free delivery
+18-24,Mumbai,21806.0,Omni,0,4,1031.0,Dinner,2,1-2× month,Cocktails,700,"Fruity, Herbal",Vodka,Yes definitely,800-1 000,5,No,1,Nutrition consult
+45-54,Bengaluru,20000.0,Vegetarian,0,1,1054.0,Lunch,4,1-2× month,Cocktails,400,Herbal,"Vodka, Whisky",Maybe,800-1 000,4,Yes,4,Points
+18-24,Mumbai,20000.0,Vegetarian,4,2,1076.0,"Post-work drinks, Weekend treat",5,1-2× month,Cocktails,700,"Fruity, Smoky","Gin, Vodka, Whisky",Unlikely,>1 200,3,Maybe,2,Nutrition consult
+25-34,Kolkata,32392.0,Omni,0,0,2909.0,"Lunch, Post-work drinks, Weekend treat",5,1× week,Mocktails,500,"Herbal, Spicy",Tequila,Unlikely,800-1 000,5,Yes,4,Nutrition consult
+25-34,Mumbai,23587.0,Omni,6,2,1226.0,Weekend treat,3,2-3× week,Mocktails,500,"Citrus, Earthy, Smoky",Vodka,Yes definitely,1 000-1 200,4,Maybe,4,Points
+25-34,Chennai,27983.0,Vegetarian,5,1,1272.0,Dinner,5,Never,Mocktails,600,Fruity,None,Yes definitely,<800,4,Maybe,2,Nutrition consult
+35-44,Hyderabad,20000.0,Omni,0,4,1028.0,Post-work drinks,4,1-2× month,Mocktails,700,"Earthy, Spicy",Tequila,Yes definitely,1 000-1 200,4,Maybe,4,Points
+35-44,Pune,20000.0,Vegetarian,3,1,1047.0,"Lunch, Post-work drinks",5,2-3× week,Equal,500,"Fruity, Herbal, Smoky","Gin, Vodka",Yes definitely,>1 200,5,Yes,5,Points
+25-34,Mumbai,48487.0,Omni,1,1,2000.0,"Lunch, Weekend treat",4,2-3× week,Cocktails,500,Fruity,"Vodka, Whisky",Unlikely,1 000-1 200,3,Yes,3,Points
+45-54,Delhi,74379.0,Omni,3,0,2000.0,Post-work drinks,5,Never,Mocktails,500,"Herbal, Spicy",None,Yes definitely,<800,5,Maybe,2,Free delivery
+45-54,Mumbai,110576.0,Omni,4,2,2000.0,Post-work drinks,5,1-2× month,Cocktails,500,"Earthy, Fruity",Tequila,Yes definitely,800-1 000,5,No,2,Points
+18-24,Mumbai,45009.0,Omni,0,1,2000.0,Weekend treat,5,Never,Mocktails,400,"Citrus, Smoky, Spicy",None,Yes definitely,1 000-1 200,3,Maybe,2,Nutrition consult
+45-54,Kolkata,66537.0,Omni,1,4,2000.0,Weekend treat,1,Never,Mocktails,500,"Citrus, Spicy",None,Yes definitely,<800,3,Maybe,4,Points
+25-34,Delhi,20000.0,Vegetarian,1,2,1061.0,"Lunch, Weekend treat",4,1-2× month,Equal,600,"Citrus, Earthy, Smoky",Vodka,Yes definitely,>1 200,4,No,1,Free delivery
+25-34,Hyderabad,20000.0,Vegan,7,2,958.0,Dinner,4,1-2× month,Cocktails,600,Spicy,"Rum, Tequila",Yes definitely,1 000-1 200,3,Maybe,4,Free delivery
+18-24,Pune,30971.0,Vegetarian,3,0,1537.0,"Dinner, Post-work drinks",5,1-2× month,Cocktails,500,"Smoky, Spicy",Tequila,Yes definitely,800-1 000,5,Yes,4,Free delivery
+25-34,Chennai,36889.0,Omni,3,5,1500.0,Weekend treat,5,Never,Mocktails,400,"Citrus, Spicy",None,Yes definitely,800-1 000,4,Yes,4,Nutrition consult
+18-24,Mumbai,26390.0,Vegetarian,2,1,1433.0,Lunch,5,2-3× week,Mocktails,500,"Fruity, Herbal","Gin, Whisky",Maybe,800-1 000,2,No,1,Free delivery
+25-34,Kolkata,42158.0,Vegetarian,3,4,1948.0,"Dinner, Weekend treat",3,1-2× month,Cocktails,700,"Fruity, Smoky",Vodka,Never,<800,5,No,2,Free delivery
+35-44,Delhi,26324.0,Vegan,5,1,1321.0,"Lunch, Weekend treat",5,Never,Mocktails,500,Earthy,None,Yes definitely,800-1 000,3,Yes,4,Free delivery
+25-34,Bengaluru,20000.0,Vegetarian,5,2,1104.0,Weekend treat,4,Never,Mocktails,600,"Earthy, Fruity",None,Yes definitely,<800,5,Maybe,4,Points
+35-44,Delhi,95263.0,Vegan,7,2,2000.0,"Lunch, Post-work drinks, Weekend treat",5,1-2× month,Equal,500,"Herbal, Smoky",Rum,Yes definitely,800-1 000,3,Yes,4,Cocktail upgrade
+25-34,Delhi,20000.0,Keto,4,0,1068.0,"Dinner, Weekend treat",5,2-3× week,Equal,500,"Earthy, Herbal",Tequila,Maybe,800-1 000,5,Yes,5,Points
+25-34,Mumbai,20000.0,Vegetarian,1,0,944.0,Post-work drinks,5,2-3× week,Equal,700,"Earthy, Fruity, Herbal",Whisky,Yes definitely,800-1 000,5,Maybe,4,Free delivery
+25-34,Hyderabad,20000.0,Vegan,1,0,1016.0,Lunch,5,2-3× week,Equal,600,"Herbal, Smoky, Spicy","Gin, Tequila",Unlikely,1 000-1 200,2,Yes,4,Points
+18-24,Mumbai,20238.0,Vegan,2,2,1032.0,Weekend treat,4,2-3× week,Cocktails,600,"Citrus, Smoky",Tequila,Maybe,800-1 000,5,Maybe,4,Nutrition consult
+35-44,Hyderabad,46849.0,Vegetarian,0,4,2000.0,"Lunch, Post-work drinks, Weekend treat",5,Never,Mocktails,600,Citrus,None,Yes definitely,<800,4,Maybe,4,Points
+18-24,Delhi,29885.0,Vegetarian,1,2,1400.0,Dinner,4,1× week,Cocktails,600,Spicy,"Rum, Whisky",Maybe,>1 200,4,Maybe,2,Nutrition consult
+18-24,Delhi,22035.0,Vegetarian,1,2,1099.0,"Dinner, Lunch, Weekend treat",1,2-3× week,Avoid all,700,Smoky,Vodka,Unlikely,<800,5,Yes,3,Nutrition consult
+35-44,Bengaluru,20000.0,Omni,4,3,780.0,"Dinner, Lunch, Weekend treat",4,Never,Mocktails,600,Earthy,None,Yes definitely,1 000-1 200,3,No,2,Points
+35-44,Delhi,44083.0,Omni,0,0,1943.0,"Dinner, Weekend treat",5,1-2× month,Equal,500,Citrus,"Rum, Tequila",Never,800-1 000,5,Maybe,4,Points
+18-24,Mumbai,29974.0,Vegetarian,2,0,1470.0,Dinner,2,1× week,Cocktails,500,Smoky,"Rum, Tequila",Maybe,<800,4,Yes,5,Free delivery
+18-24,Delhi,104794.0,Omni,3,4,2000.0,"Lunch, Weekend treat",5,Never,Mocktails,500,"Earthy, Herbal",None,Yes definitely,<800,3,No,2,Nutrition consult
+25-34,Mumbai,30170.0,Omni,1,0,1203.0,Post-work drinks,2,1-2× month,Cocktails,500,"Earthy, Smoky",Tequila,Unlikely,1 000-1 200,3,Yes,3,Free delivery
+45-54,Mumbai,72881.0,Vegan,3,3,2000.0,"Post-work drinks, Weekend treat",4,2-3× week,Cocktails,600,"Citrus, Fruity, Herbal, Smoky",Tequila,Maybe,1 000-1 200,4,Maybe,3,Free delivery
+25-34,Mumbai,22557.0,Other,1,0,1145.0,"Lunch, Weekend treat",5,1× week,Mocktails,500,"Citrus, Smoky",Vodka,Unlikely,800-1 000,5,No,2,Free delivery
+18-24,Delhi,49024.0,Vegetarian,4,1,2000.0,"Dinner, Weekend treat",5,1-2× month,Avoid all,400,"Earthy, Spicy",Whisky,Unlikely,1 000-1 200,4,No,2,Points
+25-34,Hyderabad,242411.0,Vegetarian,0,3,2000.0,Weekend treat,5,Never,Mocktails,500,"Citrus, Smoky",None,Yes definitely,>1 200,3,No,2,Points
+25-34,Delhi,20000.0,Omni,7,1,1032.0,Post-work drinks,5,1-2× month,Equal,400,"Citrus, Earthy",Vodka,Never,1 000-1 200,3,Yes,3,Cocktail upgrade
+25-34,Mumbai,61416.0,Omni,0,0,2000.0,Dinner,5,1× week,Mocktails,600,Earthy,Rum,Unlikely,1 000-1 200,5,Yes,3,Points
+45-54,Mumbai,25034.0,Keto,1,2,1098.0,Weekend treat,1,Never,Mocktails,700,"Herbal, Spicy",None,Yes definitely,>1 200,1,No,1,Points
+25-34,Hyderabad,49489.0,Omni,3,5,2000.0,"Dinner, Weekend treat",2,1× week,Cocktails,600,"Citrus, Spicy","Rum, Vodka",Yes definitely,1 000-1 200,5,No,2,Cocktail upgrade
+25-34,Mumbai,29991.0,Vegetarian,0,2,1445.0,Weekend treat,4,1× week,Cocktails,600,"Citrus, Earthy, Fruity",Whisky,Never,<800,5,Yes,5,Nutrition consult
+45-54,Delhi,51752.0,Vegan,4,3,2000.0,Dinner,5,2-3× week,Cocktails,500,"Earthy, Herbal, Spicy","Gin, Whisky",Yes definitely,800-1 000,4,Yes,4,Free delivery
+25-34,Mumbai,29535.0,Vegetarian,3,2,1311.0,Post-work drinks,4,2-3× week,Mocktails,500,"Herbal, Spicy",Whisky,Yes definitely,800-1 000,4,Yes,4,Nutrition consult
+35-44,Chennai,40840.0,Omni,6,0,1862.0,"Dinner, Lunch, Weekend treat",5,1-2× month,Cocktails,500,"Fruity, Spicy","Vodka, Whisky",Maybe,800-1 000,3,Maybe,3,Nutrition consult
+25-34,Delhi,24988.0,Vegetarian,0,2,1184.0,"Dinner, Lunch, Weekend treat",5,Never,Mocktails,500,"Citrus, Earthy, Fruity",None,Yes definitely,800-1 000,5,Yes,5,Points
+45-54,Hyderabad,27636.0,Omni,0,2,1309.0,Dinner,4,2-3× week,Equal,500,"Earthy, Fruity",Gin,Yes definitely,1 000-1 200,3,Maybe,3,Points
+25-34,Hyderabad,35897.0,Vegan,0,0,1562.0,"Lunch, Weekend treat",1,1× week,Mocktails,500,Spicy,Rum,Yes definitely,800-1 000,4,Yes,5,Points
+25-34,Chennai,36789.0,Omni,0,0,1834.0,"Post-work drinks, Weekend treat",5,Never,Mocktails,500,Herbal,None,Yes definitely,800-1 000,4,Yes,4,Free delivery
+25-34,Kolkata,34698.0,Omni,1,2,1800.0,"Dinner, Post-work drinks",5,1× week,Mocktails,600,"Citrus, Earthy, Fruity, Smoky","Gin, Vodka",Maybe,<800,4,No,1,Points
+18-24,Bengaluru,20000.0,Vegetarian,4,4,1124.0,Weekend treat,4,1-2× month,Cocktails,700,"Citrus, Smoky","Vodka, Whisky",Never,1 000-1 200,5,Maybe,2,Free delivery
+35-44,Chennai,20000.0,Omni,0,5,911.0,"Dinner, Lunch",4,1-2× month,Cocktails,500,Herbal,Rum,Maybe,1 000-1 200,5,Yes,5,Cocktail upgrade
+18-24,Kolkata,44600.0,Vegan,4,3,1955.0,"Dinner, Weekend treat",5,Never,Mocktails,500,"Citrus, Spicy",None,Yes definitely,800-1 000,5,Yes,5,Free delivery
+45-54,Pune,104368.0,Vegetarian,0,2,2000.0,"Post-work drinks, Weekend treat",4,Never,Mocktails,500,"Citrus, Smoky",None,Yes definitely,<800,1,Yes,5,Points
+25-34,Bengaluru,20000.0,Vegetarian,0,2,986.0,Weekend treat,5,Never,Mocktails,400,Earthy,None,Yes definitely,1 000-1 200,4,Yes,5,Cocktail upgrade
+25-34,Mumbai,21983.0,Omni,3,0,1009.0,"Dinner, Lunch",4,Daily,Equal,600,Smoky,Gin,Maybe,1 000-1 200,4,Yes,3,Free delivery
+25-34,Delhi,36236.0,Vegetarian,0,1,1725.0,Dinner,4,Never,Mocktails,500,Smoky,None,Yes definitely,1 000-1 200,3,Maybe,2,Cocktail upgrade
+35-44,Pune,20000.0,Omni,2,4,997.0,"Lunch, Post-work drinks",2,1-2× month,Cocktails,500,Citrus,Rum,Unlikely,1 000-1 200,4,Yes,4,Cocktail upgrade
+35-44,Delhi,20000.0,Omni,5,0,1183.0,Post-work drinks,5,1-2× month,Mocktails,600,"Earthy, Herbal, Spicy",Gin,Unlikely,1 000-1 200,4,Yes,4,Points
+35-44,Mumbai,30648.0,Omni,0,0,1380.0,"Lunch, Post-work drinks, Weekend treat",5,1× week,Cocktails,500,Fruity,Vodka,Maybe,1 000-1 200,4,Yes,3,Nutrition consult
+25-34,Mumbai,46529.0,Vegetarian,1,1,1985.0,"Dinner, Lunch",2,1× week,Equal,600,Smoky,Vodka,Maybe,<800,5,Maybe,4,Points
+35-44,Kolkata,20000.0,Omni,6,1,1036.0,Lunch,5,1-2× month,Cocktails,600,"Herbal, Spicy",Vodka,Never,800-1 000,3,Yes,5,Cocktail upgrade
+45-54,Kolkata,24541.0,Vegetarian,2,4,1210.0,Lunch,5,1× week,Mocktails,400,"Citrus, Earthy, Herbal",Rum,Maybe,>1 200,5,Yes,3,Cocktail upgrade
+18-24,Bengaluru,35311.0,Omni,2,2,1685.0,Weekend treat,3,1× week,Mocktails,600,"Citrus, Smoky",Gin,Maybe,1 000-1 200,3,Yes,3,Cocktail upgrade
+18-24,Delhi,20000.0,Vegetarian,4,2,1059.0,"Lunch, Post-work drinks",4,1-2× month,Equal,500,Earthy,Gin,Yes definitely,1 000-1 200,1,Maybe,4,Points
+18-24,Delhi,20000.0,Vegetarian,5,2,791.0,Lunch,5,1-2× month,Mocktails,400,"Citrus, Earthy, Fruity, Smoky",Whisky,Maybe,800-1 000,5,Yes,4,Free delivery
+25-34,Bengaluru,83602.0,Vegetarian,4,1,2000.0,"Post-work drinks, Weekend treat",5,1-2× month,Cocktails,400,"Earthy, Smoky, Spicy",Tequila,Maybe,1 000-1 200,5,Maybe,3,Points
+25-34,Mumbai,35033.0,Vegetarian,7,4,1465.0,Dinner,5,1-2× month,Mocktails,600,"Fruity, Herbal, Smoky",Gin,Yes definitely,800-1 000,5,Yes,4,Points
+25-34,Mumbai,29071.0,Omni,6,1,1186.0,Weekend treat,5,2-3× week,Equal,500,"Citrus, Fruity, Herbal, Smoky, Spicy","Gin, Tequila",Unlikely,1 000-1 200,4,Yes,3,Points
+35-44,Chennai,32700.0,Omni,4,2,1398.0,Post-work drinks,5,Never,Mocktails,400,Smoky,None,Yes definitely,800-1 000,3,Yes,5,Nutrition consult
+25-34,Chennai,26589.0,Omni,0,4,2378.0,Weekend treat,3,1× week,Cocktails,500,"Citrus, Spicy","Gin, Tequila, Vodka, Whisky",Unlikely,<800,4,No,1,Points
+25-34,Chennai,20000.0,Vegetarian,2,5,1057.0,Weekend treat,4,1-2× month,Cocktails,400,"Citrus, Spicy","Gin, Tequila, Whisky",Yes definitely,800-1 000,5,Maybe,2,Nutrition consult
+18-24,Chennai,20000.0,Omni,2,0,1009.0,Post-work drinks,5,2-3× week,Mocktails,500,"Citrus, Fruity",Gin,Maybe,1 000-1 200,4,Yes,4,Free delivery
+35-44,Mumbai,20000.0,Omni,4,2,949.0,"Post-work drinks, Weekend treat",4,2-3× week,Equal,600,"Fruity, Herbal",Gin,Yes definitely,1 000-1 200,5,Maybe,2,Cocktail upgrade
+25-34,Bengaluru,31708.0,Vegan,1,3,1393.0,"Dinner, Lunch",5,Never,Mocktails,500,Earthy,None,Yes definitely,800-1 000,5,Maybe,4,Cocktail upgrade
+25-34,Mumbai,46185.0,Omni,5,3,2000.0,Weekend treat,4,Daily,Cocktails,500,"Earthy, Herbal","Gin, Vodka",Yes definitely,>1 200,4,Yes,4,Cocktail upgrade
+35-44,Bengaluru,25750.0,Other,3,2,1275.0,Lunch,3,2-3× week,Cocktails,400,"Citrus, Spicy",Gin,Yes definitely,1 000-1 200,4,Maybe,2,Free delivery
+45-54,Kolkata,72717.0,Omni,2,3,2000.0,"Post-work drinks, Weekend treat",4,1-2× month,Mocktails,600,"Citrus, Earthy",Rum,Maybe,800-1 000,5,Maybe,2,Points
+25-34,Chennai,210183.0,Omni,5,2,2000.0,Dinner,5,1× week,Cocktails,600,"Fruity, Herbal, Smoky","Tequila, Vodka",Maybe,1 000-1 200,2,Yes,5,Free delivery
+35-44,Hyderabad,20000.0,Omni,0,1,1013.0,Dinner,5,2-3× week,Equal,600,"Fruity, Herbal",Rum,Unlikely,1 000-1 200,3,No,1,Points
+25-34,Kolkata,20000.0,Other,0,1,1085.0,"Dinner, Lunch, Weekend treat",1,1× week,Equal,500,"Earthy, Fruity",Rum,Unlikely,800-1 000,5,Maybe,2,Nutrition consult
+25-34,Kolkata,38664.0,Omni,3,2,1708.0,"Lunch, Weekend treat",2,Never,Mocktails,400,"Earthy, Fruity, Herbal, Smoky",None,Yes definitely,1 000-1 200,3,Maybe,2,Free delivery
+45-54,Kolkata,45373.0,Keto,0,0,2000.0,Dinner,3,2-3× week,Cocktails,500,"Citrus, Earthy, Fruity","Rum, Whisky",Never,>1 200,4,Yes,5,Free delivery
+45-54,Hyderabad,38534.0,Omni,1,1,2000.0,"Lunch, Post-work drinks",5,1× week,Equal,500,"Fruity, Herbal, Smoky",Vodka,Maybe,1 000-1 200,4,Maybe,3,Points
+25-34,Hyderabad,28789.0,Vegetarian,2,2,1407.0,Lunch,2,1-2× month,Cocktails,500,Herbal,"Vodka, Whisky",Yes definitely,<800,3,No,1,Points
+25-34,Mumbai,24035.0,Omni,0,0,1162.0,Weekend treat,2,1-2× month,Equal,500,Citrus,Vodka,Maybe,800-1 000,5,Yes,3,Points
+25-34,Kolkata,76547.0,Other,0,1,2000.0,Dinner,4,1-2× month,Cocktails,600,Smoky,Vodka,Unlikely,1 000-1 200,3,Maybe,4,Points
+18-24,Delhi,29134.0,Vegetarian,0,1,1304.0,Post-work drinks,4,1-2× month,Cocktails,500,Spicy,"Rum, Tequila, Vodka",Unlikely,<800,2,Yes,5,Points
+25-34,Mumbai,39716.0,Vegetarian,5,2,1812.0,"Lunch, Post-work drinks",3,2-3× week,Cocktails,500,Spicy,"Gin, Tequila",Yes definitely,<800,4,Yes,4,Free delivery
+25-34,Delhi,43067.0,Vegan,3,1,2000.0,"Lunch, Post-work drinks",5,1-2× month,Cocktails,600,"Herbal, Spicy","Rum, Tequila, Vodka",Maybe,1 000-1 200,5,No,1,Points
+25-34,Hyderabad,47472.0,Omni,0,1,2000.0,Dinner,3,2-3× week,Cocktails,400,"Citrus, Fruity, Herbal, Spicy","Tequila, Whisky",Yes definitely,1 000-1 200,4,Yes,3,Nutrition consult
+35-44,Delhi,76135.0,Omni,2,0,2000.0,Dinner,4,Daily,Cocktails,400,"Earthy, Smoky","Gin, Tequila",Yes definitely,800-1 000,3,Yes,5,Cocktail upgrade
+18-24,Pune,39471.0,Vegetarian,5,5,1745.0,Lunch,4,Daily,Cocktails,500,"Herbal, Smoky","Rum, Whisky",Maybe,1 000-1 200,3,Maybe,4,Points
+25-34,Delhi,20000.0,Other,2,1,913.0,Dinner,4,Never,Mocktails,500,"Citrus, Fruity, Herbal, Spicy",None,Yes definitely,1 000-1 200,4,Yes,5,Points
+35-44,Mumbai,20829.0,Omni,2,1,1023.0,"Lunch, Post-work drinks",5,2-3× week,Equal,500,Smoky,"Gin, Rum, Vodka",Unlikely,<800,5,Yes,5,Cocktail upgrade
+18-24,Bengaluru,26705.0,Vegan,2,1,1307.0,Lunch,3,Never,Mocktails,600,"Citrus, Earthy",None,Yes definitely,800-1 000,4,Yes,4,Points
+35-44,Chennai,36519.0,Omni,0,4,1670.0,"Lunch, Post-work drinks, Weekend treat",4,2-3× week,Equal,400,"Citrus, Fruity","Gin, Tequila, Whisky",Unlikely,800-1 000,4,Maybe,2,Nutrition consult
+35-44,Hyderabad,21472.0,Omni,4,1,984.0,Dinner,4,2-3× week,Cocktails,700,Citrus,"Gin, Tequila",Unlikely,1 000-1 200,3,Yes,5,Free delivery
+35-44,Chennai,51736.0,Vegan,3,0,2000.0,Weekend treat,4,Never,Mocktails,500,"Herbal, Spicy",None,Yes definitely,800-1 000,2,Yes,3,Free delivery
+45-54,Bengaluru,20852.0,Omni,4,3,1012.0,Weekend treat,3,Never,Mocktails,500,Fruity,None,Yes definitely,800-1 000,3,Yes,5,Cocktail upgrade
+25-34,Bengaluru,38158.0,Other,3,1,1602.0,"Post-work drinks, Weekend treat",5,Never,Mocktails,600,Fruity,None,Yes definitely,1 000-1 200,4,Maybe,2,Free delivery
+35-44,Kolkata,30642.0,Omni,0,3,1563.0,Post-work drinks,3,1-2× month,Cocktails,400,"Earthy, Smoky, Spicy",Rum,Maybe,<800,5,Yes,3,Free delivery
+35-44,Mumbai,42353.0,Omni,0,1,1807.0,Lunch,3,2-3× week,Cocktails,600,"Citrus, Fruity, Smoky",Whisky,Unlikely,800-1 000,5,Yes,5,Points
+25-34,Hyderabad,35855.0,Vegetarian,7,2,1553.0,"Lunch, Post-work drinks",5,1× week,Cocktails,400,Fruity,"Tequila, Whisky",Unlikely,1 000-1 200,1,Yes,5,Points
+18-24,Delhi,20344.0,Vegetarian,1,3,999.0,Dinner,5,Never,Mocktails,600,Earthy,None,Yes definitely,1 000-1 200,5,Yes,4,Free delivery
+35-44,Chennai,48598.0,Omni,3,0,2000.0,Post-work drinks,5,1-2× month,Cocktails,400,Citrus,"Gin, Rum, Vodka",Yes definitely,1 000-1 200,3,Maybe,3,Free delivery
+18-24,Delhi,20000.0,Omni,2,0,981.0,Dinner,4,Daily,Mocktails,600,Smoky,"Gin, Vodka",Maybe,1 000-1 200,5,Maybe,2,Nutrition consult
+35-44,Mumbai,46142.0,Omni,1,1,1971.0,Weekend treat,1,1-2× month,Mocktails,700,Earthy,Gin,Unlikely,<800,5,Maybe,3,Points
+18-24,Mumbai,25418.0,Vegetarian,2,0,1052.0,Weekend treat,5,2-3× week,Equal,700,Smoky,"Gin, Tequila",Maybe,>1 200,2,Yes,4,Points
+35-44,Bengaluru,32181.0,Vegetarian,1,2,1450.0,"Lunch, Post-work drinks",3,1-2× month,Equal,500,Smoky,Tequila,Maybe,>1 200,5,Yes,3,Points
+18-24,Pune,20000.0,Omni,3,0,1018.0,Post-work drinks,3,2-3× week,Mocktails,500,"Earthy, Fruity, Herbal",Rum,Maybe,<800,3,Yes,4,Cocktail upgrade
+35-44,Kolkata,27622.0,Omni,2,2,1338.0,"Lunch, Weekend treat",2,1× week,Avoid all,500,Fruity,Gin,Unlikely,>1 200,5,No,2,Free delivery
+25-34,Chennai,39969.0,Vegetarian,0,2,1669.0,Weekend treat,5,1-2× month,Cocktails,400,Citrus,"Rum, Tequila",Maybe,>1 200,3,Maybe,3,Nutrition consult
+18-24,Delhi,26613.0,Vegetarian,0,1,1216.0,Lunch,4,2-3× week,Avoid all,400,"Smoky, Spicy",Tequila,Unlikely,800-1 000,4,No,1,Points
+35-44,Delhi,20000.0,Vegetarian,0,0,1089.0,"Post-work drinks, Weekend treat",5,Never,Mocktails,500,"Earthy, Fruity",None,Yes definitely,800-1 000,1,Yes,3,Cocktail upgrade
+25-34,Bengaluru,36391.0,Vegetarian,1,1,1919.0,Post-work drinks,5,2-3× week,Equal,500,"Herbal, Smoky","Gin, Tequila, Whisky",Unlikely,1 000-1 200,4,Yes,4,Cocktail upgrade
+18-24,Mumbai,20000.0,Vegan,5,1,1020.0,Post-work drinks,5,1× week,Mocktails,400,"Fruity, Smoky, Spicy",Gin,Unlikely,1 000-1 200,3,Yes,3,Free delivery
+25-34,Bengaluru,20000.0,Omni,0,0,898.0,Post-work drinks,5,Daily,Cocktails,600,"Citrus, Earthy, Herbal",Tequila,Unlikely,1 000-1 200,4,Yes,4,Free delivery
+25-34,Pune,80000.0,Vegetarian,3,0,2000.0,"Post-work drinks, Weekend treat",4,1× week,Cocktails,600,"Smoky, Spicy","Gin, Tequila, Whisky",Maybe,>1 200,1,Yes,4,Nutrition consult
+18-24,Bengaluru,20000.0,Keto,5,2,1016.0,"Post-work drinks, Weekend treat",5,1-2× month,Equal,600,"Fruity, Spicy","Rum, Vodka",Unlikely,>1 200,3,Maybe,3,Cocktail upgrade
+45-54,Chennai,34606.0,Keto,2,1,1752.0,"Lunch, Post-work drinks, Weekend treat",3,2-3× week,Equal,500,Smoky,Vodka,Yes definitely,1 000-1 200,1,Maybe,3,Nutrition consult
+35-44,Bengaluru,73172.0,Vegan,0,3,2000.0,"Dinner, Weekend treat",4,1-2× month,Cocktails,600,"Earthy, Fruity, Smoky","Tequila, Whisky",Yes definitely,800-1 000,3,No,1,Points
+25-34,Kolkata,21958.0,Omni,1,1,1093.0,"Lunch, Post-work drinks, Weekend treat",4,1× week,Cocktails,600,"Herbal, Spicy","Rum, Vodka",Maybe,<800,5,Yes,4,Free delivery
+25-34,Pune,57699.0,Vegetarian,0,1,2000.0,Dinner,5,Never,Mocktails,500,Fruity,None,Yes definitely,800-1 000,4,No,1,Cocktail upgrade
+18-24,Delhi,43897.0,Omni,1,1,2000.0,"Lunch, Weekend treat",3,Never,Mocktails,500,"Citrus, Fruity",None,Yes definitely,800-1 000,3,Maybe,3,Free delivery
+45-54,Delhi,29987.0,Vegetarian,3,1,1318.0,Dinner,1,Daily,Cocktails,600,Citrus,"Rum, Vodka, Whisky",Unlikely,1 000-1 200,3,Yes,4,Free delivery
+18-24,Pune,36436.0,Omni,2,3,1691.0,Dinner,5,1-2× month,Cocktails,500,Herbal,Rum,Maybe,1 000-1 200,5,Yes,5,Cocktail upgrade
+18-24,Mumbai,20000.0,Vegetarian,6,1,1972.0,Post-work drinks,4,1-2× month,Equal,400,Earthy,"Gin, Rum, Vodka",Maybe,1 000-1 200,4,Yes,5,Cocktail upgrade
+35-44,Mumbai,20000.0,Omni,0,0,931.0,"Dinner, Post-work drinks",4,1× week,Mocktails,600,"Citrus, Fruity","Gin, Rum",Yes definitely,>1 200,5,Maybe,4,Free delivery
+35-44,Chennai,29287.0,Omni,1,4,1543.0,"Post-work drinks, Weekend treat",4,1× week,Cocktails,500,"Herbal, Smoky, Spicy","Rum, Whisky",Unlikely,1 000-1 200,5,Yes,4,Points
+25-34,Hyderabad,20000.0,Omni,0,1,1086.0,"Post-work drinks, Weekend treat",4,Never,Mocktails,500,"Earthy, Herbal, Spicy",None,Yes definitely,>1 200,2,Maybe,3,Free delivery
+18-24,Mumbai,36261.0,Keto,4,3,1547.0,Dinner,3,1-2× month,Cocktails,500,Earthy,"Gin, Tequila, Whisky",Maybe,1 000-1 200,4,Yes,5,Cocktail upgrade
+45-54,Delhi,28205.0,Keto,5,0,1106.0,"Lunch, Weekend treat",5,1× week,Mocktails,500,"Citrus, Herbal, Spicy",Rum,Unlikely,1 000-1 200,5,No,2,Free delivery
+35-44,Mumbai,20000.0,Omni,0,0,1074.0,"Dinner, Post-work drinks, Weekend treat",5,1× week,Mocktails,400,"Citrus, Fruity","Gin, Whisky",Yes definitely,<800,3,No,1,Free delivery
+25-34,Hyderabad,20000.0,Omni,6,2,944.0,Dinner,5,1-2× month,Cocktails,500,"Citrus, Fruity, Smoky","Vodka, Whisky",Unlikely,1 000-1 200,3,Maybe,4,Points
+18-24,Hyderabad,22367.0,Omni,3,1,1016.0,"Post-work drinks, Weekend treat",4,2-3× week,Cocktails,500,Fruity,Gin,Maybe,<800,5,Yes,4,Nutrition consult
+25-34,Mumbai,31393.0,Vegan,5,3,3263.0,Lunch,5,1-2× month,Equal,500,"Earthy, Herbal",Tequila,Yes definitely,>1 200,5,Yes,3,Cocktail upgrade
+18-24,Mumbai,23118.0,Omni,7,0,1219.0,"Dinner, Lunch",5,Never,Mocktails,500,Smoky,None,Yes definitely,1 000-1 200,4,No,1,Points
+25-34,Mumbai,20000.0,Vegetarian,3,3,779.0,"Dinner, Post-work drinks",1,Never,Mocktails,600,"Earthy, Herbal, Spicy",None,Yes definitely,1 000-1 200,1,Maybe,3,Nutrition consult
+25-34,Chennai,40665.0,Omni,0,2,1889.0,Dinner,5,1× week,Cocktails,500,"Earthy, Spicy",Rum,Unlikely,1 000-1 200,5,Maybe,3,Points
+35-44,Mumbai,72774.0,Omni,0,1,2000.0,"Post-work drinks, Weekend treat",3,Never,Mocktails,500,"Citrus, Spicy",None,Yes definitely,>1 200,4,Yes,3,Cocktail upgrade
+35-44,Chennai,44785.0,Omni,6,2,1882.0,Weekend treat,5,1-2× month,Cocktails,600,"Citrus, Herbal","Gin, Whisky",Yes definitely,1 000-1 200,3,Maybe,4,Free delivery
+18-24,Hyderabad,20000.0,Omni,1,0,804.0,Lunch,5,Never,Mocktails,500,"Smoky, Spicy",None,Yes definitely,<800,4,Yes,5,Cocktail upgrade
+55+,Kolkata,20785.0,Vegetarian,0,0,1096.0,Dinner,5,1-2× month,Equal,600,Spicy,"Rum, Tequila",Unlikely,>1 200,3,Yes,4,Points
+35-44,Bengaluru,48775.0,Omni,0,3,2000.0,Post-work drinks,5,1× week,Cocktails,600,Fruity,Gin,Maybe,1 000-1 200,4,No,2,Nutrition consult
+25-34,Chennai,20000.0,Vegetarian,6,3,1889.0,Weekend treat,5,1-2× month,Cocktails,700,"Fruity, Spicy",Tequila,Never,1 000-1 200,5,Maybe,2,Nutrition consult
+35-44,Delhi,79176.0,Vegetarian,3,1,2000.0,Post-work drinks,3,1× week,Mocktails,400,"Citrus, Fruity","Gin, Tequila",Unlikely,1 000-1 200,4,Maybe,2,Points
+35-44,Kolkata,20000.0,Omni,0,2,1306.0,Lunch,3,2-3× week,Mocktails,500,"Earthy, Herbal, Smoky",Tequila,Maybe,<800,1,Yes,3,Cocktail upgrade
+35-44,Mumbai,38034.0,Omni,4,6,1641.0,Dinner,2,2-3× week,Mocktails,700,"Citrus, Smoky",Tequila,Maybe,1 000-1 200,2,Yes,3,Cocktail upgrade
+45-54,Mumbai,20000.0,Omni,0,2,1964.0,Weekend treat,3,Never,Mocktails,400,Herbal,None,Yes definitely,<800,5,Maybe,3,Nutrition consult
+25-34,Delhi,20579.0,Omni,1,2,988.0,Post-work drinks,2,Never,Mocktails,600,"Earthy, Spicy",None,Yes definitely,<800,4,No,1,Points
+25-34,Kolkata,30639.0,Omni,0,2,1319.0,"Post-work drinks, Weekend treat",3,1-2× month,Cocktails,500,"Citrus, Earthy, Spicy",Vodka,Maybe,1 000-1 200,2,Yes,4,Nutrition consult
+35-44,Kolkata,33409.0,Vegan,7,3,1344.0,Weekend treat,5,Never,Mocktails,500,Herbal,None,Yes definitely,1 000-1 200,4,Yes,5,Points
+25-34,Bengaluru,20530.0,Omni,6,0,1056.0,"Lunch, Post-work drinks",5,1× week,Mocktails,600,"Citrus, Herbal",Gin,Yes definitely,1 000-1 200,4,Maybe,3,Free delivery
+18-24,Mumbai,20000.0,Keto,7,2,1083.0,"Dinner, Lunch, Post-work drinks",4,1-2× month,Equal,500,Citrus,Gin,Yes definitely,1 000-1 200,5,Maybe,3,Free delivery
+45-54,Mumbai,31663.0,Vegetarian,4,0,1504.0,Post-work drinks,5,1-2× month,Cocktails,500,"Citrus, Herbal","Gin, Tequila",Never,<800,3,Yes,4,Points
+35-44,Mumbai,20000.0,Vegetarian,7,2,950.0,Weekend treat,5,2-3× week,Cocktails,400,"Citrus, Smoky",Tequila,Yes definitely,800-1 000,4,Maybe,3,Free delivery
+18-24,Bengaluru,52042.0,Omni,0,1,2000.0,"Dinner, Lunch",3,Never,Mocktails,600,"Smoky, Spicy",None,Yes definitely,<800,4,Yes,3,Points
+35-44,Mumbai,20000.0,Vegetarian,2,4,1076.0,Dinner,4,Never,Mocktails,400,"Smoky, Spicy",None,Yes definitely,1 000-1 200,4,Maybe,3,Cocktail upgrade
+35-44,Pune,39429.0,Vegetarian,1,4,1631.0,"Dinner, Lunch, Weekend treat",5,2-3× week,Equal,500,Smoky,Rum,Maybe,>1 200,1,Maybe,3,Points
+25-34,Mumbai,20000.0,Omni,5,4,961.0,Lunch,4,1-2× month,Equal,400,Fruity,Vodka,Yes definitely,800-1 000,4,Yes,5,Free delivery
+25-34,Hyderabad,42345.0,Vegetarian,6,2,1975.0,"Dinner, Lunch, Weekend treat",5,Never,Mocktails,400,Herbal,None,Yes definitely,800-1 000,4,Yes,4,Cocktail upgrade
+25-34,Hyderabad,20000.0,Omni,1,1,939.0,"Lunch, Post-work drinks",5,Never,Mocktails,600,"Citrus, Spicy",None,Yes definitely,1 000-1 200,3,Yes,4,Free delivery
+18-24,Bengaluru,23097.0,Vegetarian,3,5,1195.0,Post-work drinks,5,1× week,Mocktails,600,Fruity,"Tequila, Vodka",Maybe,800-1 000,1,Maybe,2,Points
+18-24,Pune,61946.0,Omni,3,2,2000.0,"Lunch, Weekend treat",2,Never,Mocktails,500,"Fruity, Smoky",None,Yes definitely,800-1 000,5,Maybe,2,Points
+25-34,Mumbai,28889.0,Omni,0,2,1325.0,Dinner,3,1× week,Cocktails,600,Herbal,"Tequila, Vodka",Unlikely,1 000-1 200,4,Yes,5,Free delivery
+25-34,Bengaluru,20991.0,Omni,4,3,1095.0,Lunch,5,1-2× month,Cocktails,700,Herbal,"Gin, Whisky",Yes definitely,>1 200,5,Maybe,3,Free delivery
+35-44,Pune,69418.0,Omni,1,0,2000.0,Post-work drinks,4,2-3× week,Mocktails,400,"Fruity, Spicy","Gin, Whisky",Maybe,1 000-1 200,4,Maybe,3,Free delivery
+18-24,Delhi,69858.0,Vegetarian,0,1,2000.0,"Dinner, Post-work drinks",3,Never,Mocktails,600,Citrus,None,Yes definitely,<800,4,Yes,5,Points
+35-44,Pune,130711.0,Keto,6,2,2000.0,"Dinner, Weekend treat",5,1-2× month,Equal,500,Earthy,Whisky,Unlikely,800-1 000,5,Maybe,4,Cocktail upgrade
+25-34,Delhi,24289.0,Vegan,2,2,1203.0,Dinner,4,1× week,Cocktails,400,"Citrus, Herbal, Spicy","Gin, Vodka, Whisky",Maybe,<800,5,No,1,Nutrition consult
+35-44,Pune,56425.0,Omni,7,0,2000.0,Post-work drinks,5,1× week,Mocktails,400,Earthy,Rum,Never,800-1 000,4,Yes,4,Free delivery
+18-24,Delhi,33321.0,Omni,1,0,1558.0,"Lunch, Weekend treat",1,1× week,Mocktails,400,"Citrus, Herbal","Rum, Whisky",Yes definitely,<800,5,No,2,Cocktail upgrade
+25-34,Mumbai,28167.0,Omni,0,2,1275.0,Weekend treat,1,2-3× week,Cocktails,400,Herbal,"Rum, Vodka",Maybe,800-1 000,5,Maybe,3,Cocktail upgrade
+25-34,Bengaluru,25476.0,Vegan,4,1,1159.0,Lunch,4,2-3× week,Equal,400,Fruity,Rum,Maybe,800-1 000,5,Yes,4,Points
+25-34,Delhi,38957.0,Omni,2,3,1521.0,"Lunch, Post-work drinks",5,Never,Mocktails,400,Citrus,None,Yes definitely,800-1 000,4,Yes,4,Points
+35-44,Mumbai,20000.0,Keto,5,1,1078.0,Post-work drinks,4,1-2× month,Cocktails,600,"Citrus, Spicy",Vodka,Unlikely,1 000-1 200,5,Yes,3,Nutrition consult
+25-34,Mumbai,37529.0,Vegetarian,5,1,1813.0,"Dinner, Lunch, Post-work drinks, Weekend treat",5,1× week,Cocktails,500,Spicy,"Rum, Vodka, Whisky",Maybe,1 000-1 200,5,Yes,5,Points
+35-44,Mumbai,20000.0,Vegetarian,1,4,932.0,"Lunch, Weekend treat",2,Never,Mocktails,700,"Citrus, Herbal, Smoky",None,Yes definitely,1 000-1 200,5,Yes,4,Nutrition consult
+25-34,Delhi,44573.0,Omni,3,1,1906.0,Dinner,5,1× week,Cocktails,400,Fruity,Rum,Yes definitely,1 000-1 200,5,Yes,5,Cocktail upgrade
+25-34,Bengaluru,20000.0,Omni,0,1,1191.0,Post-work drinks,5,Daily,Cocktails,600,"Citrus, Earthy, Fruity, Herbal, Smoky","Rum, Whisky",Maybe,1 000-1 200,4,Yes,3,Cocktail upgrade
+25-34,Mumbai,20000.0,Omni,3,4,2207.0,Lunch,5,1× week,Mocktails,700,"Citrus, Smoky",Whisky,Maybe,<800,3,Yes,4,Free delivery
+35-44,Delhi,38792.0,Omni,0,0,1946.0,Weekend treat,5,2-3× week,Mocktails,400,"Citrus, Earthy","Tequila, Whisky",Maybe,1 000-1 200,5,Yes,3,Free delivery
+18-24,Bengaluru,37595.0,Omni,2,1,1980.0,Dinner,4,1-2× month,Cocktails,400,"Herbal, Smoky","Gin, Rum, Whisky",Maybe,<800,3,No,2,Cocktail upgrade
+25-34,Kolkata,20000.0,Omni,3,3,892.0,"Dinner, Lunch",4,Never,Mocktails,600,Earthy,None,Yes definitely,<800,4,Maybe,4,Points
+35-44,Hyderabad,20895.0,Vegetarian,5,0,862.0,Weekend treat,3,Daily,Cocktails,500,Fruity,Rum,Maybe,1 000-1 200,2,Yes,3,Free delivery
+35-44,Kolkata,26868.0,Vegetarian,1,1,1216.0,Weekend treat,4,2-3× week,Equal,500,"Citrus, Earthy, Fruity, Smoky, Spicy",Vodka,Unlikely,800-1 000,4,Yes,3,Points
+45-54,Mumbai,21899.0,Vegetarian,3,1,1060.0,Weekend treat,5,1-2× month,Equal,500,"Citrus, Spicy",Rum,Maybe,>1 200,3,Yes,4,Free delivery
+25-34,Bengaluru,34613.0,Other,2,1,1487.0,Lunch,4,Never,Mocktails,600,Herbal,None,Yes definitely,800-1 000,4,Maybe,3,Cocktail upgrade
+45-54,Hyderabad,103210.0,Vegetarian,1,1,2000.0,Post-work drinks,2,1-2× month,Cocktails,600,Spicy,"Rum, Tequila",Yes definitely,<800,4,Maybe,3,Cocktail upgrade
+25-34,Mumbai,43213.0,Omni,1,0,3885.0,Post-work drinks,3,1-2× month,Mocktails,400,Spicy,"Gin, Tequila, Vodka",Never,1 000-1 200,4,Maybe,3,Cocktail upgrade
+35-44,Delhi,36599.0,Omni,1,2,1583.0,Dinner,4,2-3× week,Mocktails,500,Smoky,Rum,Unlikely,>1 200,1,No,1,Free delivery
+25-34,Hyderabad,20000.0,Vegetarian,6,1,985.0,Weekend treat,4,1-2× month,Cocktails,600,"Herbal, Spicy",Gin,Unlikely,1 000-1 200,4,Maybe,4,Nutrition consult
+25-34,Delhi,27680.0,Vegetarian,0,2,1365.0,"Dinner, Weekend treat",4,Never,Mocktails,400,"Earthy, Fruity",None,Yes definitely,1 000-1 200,5,Maybe,3,Points
+18-24,Mumbai,20688.0,Omni,1,2,902.0,Dinner,4,1-2× month,Equal,400,Herbal,Vodka,Maybe,<800,2,Maybe,4,Cocktail upgrade
+18-24,Mumbai,85564.0,Omni,6,3,2000.0,"Dinner, Post-work drinks, Weekend treat",4,Never,Mocktails,400,Earthy,None,Yes definitely,<800,3,Maybe,3,Nutrition consult
+45-54,Mumbai,46065.0,Omni,0,2,3664.0,Weekend treat,5,1-2× month,Mocktails,500,"Herbal, Spicy",Whisky,Yes definitely,800-1 000,3,Yes,5,Points
+25-34,Mumbai,37851.0,Omni,2,4,1818.0,"Dinner, Post-work drinks, Weekend treat",2,1-2× month,Cocktails,600,"Fruity, Spicy","Tequila, Vodka",Never,800-1 000,5,Maybe,3,Cocktail upgrade
+18-24,Chennai,52652.0,Omni,2,4,2000.0,"Lunch, Weekend treat",5,2-3× week,Cocktails,600,"Herbal, Spicy",Tequila,Yes definitely,800-1 000,4,Yes,4,Nutrition consult
+25-34,Mumbai,57094.0,Omni,1,1,2000.0,"Dinner, Lunch",4,1× week,Cocktails,500,"Citrus, Earthy, Herbal",Whisky,Maybe,1 000-1 200,3,Maybe,3,Points
+25-34,Hyderabad,57358.0,Vegetarian,3,2,2000.0,"Dinner, Post-work drinks",3,1-2× month,Cocktails,500,Fruity,Rum,Maybe,800-1 000,1,Yes,4,Points
+45-54,Mumbai,20000.0,Vegetarian,2,1,994.0,Weekend treat,4,2-3× week,Cocktails,400,Citrus,Rum,Unlikely,1 000-1 200,5,Maybe,3,Cocktail upgrade
+25-34,Mumbai,20000.0,Omni,1,2,936.0,Weekend treat,4,1-2× month,Mocktails,400,Earthy,Vodka,Yes definitely,800-1 000,4,Yes,4,Free delivery
+35-44,Hyderabad,25361.0,Vegetarian,3,2,1314.0,Weekend treat,5,Daily,Equal,500,"Citrus, Earthy",Vodka,Unlikely,<800,3,No,1,Cocktail upgrade
+25-34,Hyderabad,41364.0,Vegetarian,1,1,1775.0,"Lunch, Post-work drinks",3,Daily,Mocktails,700,Spicy,Vodka,Maybe,1 000-1 200,5,Maybe,3,Nutrition consult
+35-44,Bengaluru,27234.0,Omni,1,2,1143.0,Lunch,5,Never,Mocktails,500,"Earthy, Fruity, Herbal, Smoky",None,Yes definitely,800-1 000,3,Maybe,3,Cocktail upgrade
+45-54,Mumbai,25133.0,Omni,0,2,1251.0,"Post-work drinks, Weekend treat",2,Never,Mocktails,500,Fruity,None,Yes definitely,1 000-1 200,5,Yes,5,Free delivery
+35-44,Pune,20000.0,Omni,3,2,1123.0,Post-work drinks,2,1-2× month,Equal,600,Earthy,Vodka,Yes definitely,>1 200,4,Maybe,4,Points
+45-54,Mumbai,47392.0,Vegetarian,1,4,2000.0,Lunch,3,Never,Mocktails,600,"Fruity, Spicy",None,Yes definitely,1 000-1 200,5,Yes,3,Free delivery
+35-44,Bengaluru,20000.0,Vegan,5,2,1229.0,"Dinner, Post-work drinks",3,2-3× week,Mocktails,600,"Earthy, Smoky","Rum, Tequila",Maybe,>1 200,5,Yes,4,Cocktail upgrade
+35-44,Hyderabad,20000.0,Keto,1,3,916.0,"Dinner, Lunch",4,Never,Mocktails,400,"Citrus, Earthy",None,Yes definitely,1 000-1 200,5,Yes,4,Points
+45-54,Bengaluru,20000.0,Other,0,0,1002.0,Post-work drinks,5,1× week,Cocktails,500,Spicy,Vodka,Unlikely,800-1 000,5,Maybe,3,Nutrition consult
+25-34,Delhi,41616.0,Omni,0,1,1852.0,Lunch,4,Never,Mocktails,400,"Citrus, Smoky",None,Yes definitely,>1 200,5,Maybe,2,Nutrition consult
+45-54,Bengaluru,27410.0,Omni,1,2,1192.0,Dinner,5,Never,Mocktails,400,"Fruity, Herbal",None,Yes definitely,>1 200,3,Yes,3,Cocktail upgrade
+25-34,Bengaluru,28478.0,Vegan,5,0,1543.0,"Post-work drinks, Weekend treat",5,1-2× month,Avoid all,500,"Citrus, Earthy, Herbal, Spicy",Whisky,Never,1 000-1 200,3,Maybe,4,Nutrition consult
+25-34,Mumbai,20000.0,Vegan,1,3,948.0,Weekend treat,1,1-2× month,Cocktails,500,"Citrus, Fruity, Herbal","Gin, Vodka",Yes definitely,800-1 000,4,Yes,4,Cocktail upgrade
+25-34,Delhi,24768.0,Omni,1,0,1158.0,Lunch,5,Never,Mocktails,600,Fruity,None,Yes definitely,<800,2,No,1,Free delivery
+45-54,Mumbai,24062.0,Vegan,0,2,1185.0,"Dinner, Post-work drinks",5,2-3× week,Equal,600,Herbal,Vodka,Unlikely,800-1 000,3,Yes,4,Free delivery
+35-44,Mumbai,27422.0,Vegetarian,4,2,1100.0,"Dinner, Post-work drinks",4,1× week,Cocktails,500,"Citrus, Smoky","Rum, Vodka",Maybe,<800,3,No,1,Free delivery
+25-34,Pune,33587.0,Omni,7,1,1489.0,Post-work drinks,5,1-2× month,Mocktails,500,Citrus,"Gin, Tequila, Whisky",Yes definitely,>1 200,5,No,1,Points
+25-34,Hyderabad,20000.0,Vegetarian,4,1,960.0,Post-work drinks,4,Never,Mocktails,500,Spicy,None,Yes definitely,800-1 000,4,Maybe,3,Free delivery
+25-34,Kolkata,22463.0,Vegetarian,0,3,1179.0,Post-work drinks,4,Never,Mocktails,600,Fruity,None,Yes definitely,800-1 000,4,Yes,3,Cocktail upgrade
+18-24,Bengaluru,21927.0,Keto,0,5,1004.0,Post-work drinks,3,1× week,Mocktails,600,Herbal,"Gin, Vodka",Maybe,1 000-1 200,3,Yes,5,Nutrition consult
+25-34,Pune,37796.0,Keto,0,1,1863.0,Lunch,4,Never,Mocktails,600,Citrus,None,Yes definitely,>1 200,4,Yes,5,Points
+45-54,Bengaluru,39382.0,Omni,2,4,1834.0,Dinner,4,2-3× week,Equal,600,Citrus,Tequila,Unlikely,1 000-1 200,5,Yes,3,Points
+35-44,Delhi,20000.0,Vegetarian,2,1,1049.0,Weekend treat,3,1× week,Mocktails,500,"Citrus, Earthy",Tequila,Never,1 000-1 200,5,Yes,4,Nutrition consult
+25-34,Bengaluru,23284.0,Omni,0,5,1098.0,Dinner,3,1× week,Equal,500,Citrus,Gin,Yes definitely,1 000-1 200,4,Maybe,4,Points
+35-44,Mumbai,46836.0,Vegetarian,1,2,2000.0,"Post-work drinks, Weekend treat",5,1-2× month,Equal,400,"Earthy, Herbal, Spicy",Tequila,Unlikely,1 000-1 200,3,Yes,3,Points
+18-24,Mumbai,25562.0,Vegetarian,5,2,1199.0,"Lunch, Weekend treat",5,2-3× week,Equal,700,Smoky,Tequila,Maybe,800-1 000,2,Maybe,3,Points
+35-44,Mumbai,59989.0,Other,4,4,2000.0,"Lunch, Post-work drinks",5,1× week,Cocktails,600,Spicy,Rum,Maybe,1 000-1 200,4,Maybe,3,Cocktail upgrade
+18-24,Mumbai,77489.0,Omni,1,2,2000.0,Weekend treat,4,2-3× week,Equal,500,"Earthy, Smoky",Whisky,Maybe,1 000-1 200,1,Yes,4,Points
+35-44,Bengaluru,100200.0,Omni,2,1,2000.0,"Lunch, Weekend treat",2,Never,Mocktails,600,"Earthy, Herbal, Spicy",None,Yes definitely,800-1 000,3,Maybe,2,Free delivery
+18-24,Mumbai,25758.0,Vegan,1,1,1172.0,Lunch,1,1-2× month,Mocktails,500,"Earthy, Spicy","Tequila, Vodka",Maybe,800-1 000,2,Yes,3,Cocktail upgrade
+45-54,Hyderabad,20000.0,Vegetarian,2,2,1100.0,Dinner,5,1-2× month,Cocktails,700,"Citrus, Fruity, Smoky","Rum, Vodka",Yes definitely,1 000-1 200,5,Maybe,2,Cocktail upgrade
+25-34,Bengaluru,25403.0,Vegetarian,0,3,1255.0,Post-work drinks,5,1× week,Cocktails,500,Citrus,Tequila,Unlikely,800-1 000,5,Maybe,3,Points
+18-24,Pune,40947.0,Omni,0,3,1951.0,Post-work drinks,4,Never,Mocktails,600,Earthy,None,Yes definitely,<800,4,Yes,3,Free delivery
+18-24,Chennai,67729.0,Omni,0,1,2000.0,"Lunch, Weekend treat",5,2-3× week,Cocktails,500,"Fruity, Smoky, Spicy","Gin, Vodka",Never,800-1 000,5,Yes,5,Nutrition consult
+25-34,Pune,80000.0,Vegetarian,4,4,2000.0,Lunch,4,2-3× week,Equal,400,"Fruity, Smoky","Gin, Vodka",Maybe,800-1 000,3,No,2,Points
+35-44,Bengaluru,24096.0,Keto,0,1,1187.0,Weekend treat,5,1-2× month,Mocktails,500,Citrus,Vodka,Unlikely,800-1 000,2,Yes,4,Points
+18-24,Hyderabad,67941.0,Omni,3,1,2000.0,Post-work drinks,4,Never,Mocktails,600,Smoky,None,Yes definitely,1 000-1 200,1,Yes,5,Cocktail upgrade
+35-44,Hyderabad,33181.0,Omni,2,1,1558.0,"Lunch, Weekend treat",5,1× week,Cocktails,600,"Earthy, Fruity, Smoky","Gin, Rum",Maybe,<800,4,Yes,5,Points
+18-24,Pune,20000.0,Omni,5,1,1011.0,Post-work drinks,4,Never,Mocktails,500,Smoky,None,Yes definitely,1 000-1 200,4,Yes,3,Points
+55+,Bengaluru,72939.0,Other,0,0,2000.0,Lunch,5,1-2× month,Cocktails,400,Citrus,"Rum, Vodka",Yes definitely,1 000-1 200,3,Yes,4,Nutrition consult
+18-24,Chennai,24638.0,Omni,2,1,1279.0,"Dinner, Lunch",5,2-3× week,Cocktails,600,"Fruity, Herbal, Spicy",Rum,Never,>1 200,4,Yes,4,Points
+25-34,Delhi,28589.0,Omni,0,1,1281.0,"Post-work drinks, Weekend treat",4,1-2× month,Cocktails,400,Smoky,Rum,Maybe,>1 200,5,Yes,4,Cocktail upgrade
+45-54,Mumbai,22556.0,Omni,2,3,1105.0,Post-work drinks,5,Daily,Cocktails,500,"Citrus, Earthy, Smoky, Spicy","Rum, Vodka, Whisky",Maybe,800-1 000,3,No,2,Free delivery
+25-34,Hyderabad,31323.0,Vegetarian,1,3,1454.0,"Dinner, Lunch",3,1-2× month,Cocktails,500,Fruity,Gin,Unlikely,1 000-1 200,5,Maybe,4,Free delivery
+25-34,Delhi,20000.0,Other,2,4,1059.0,"Dinner, Weekend treat",3,1× week,Equal,500,Fruity,"Vodka, Whisky",Unlikely,800-1 000,2,Yes,4,Cocktail upgrade
+45-54,Mumbai,40853.0,Other,2,1,1805.0,"Lunch, Weekend treat",4,1× week,Cocktails,600,"Herbal, Smoky, Spicy",Rum,Yes definitely,<800,4,Yes,4,Free delivery
+25-34,Pune,20000.0,Vegetarian,7,1,788.0,Dinner,5,1× week,Mocktails,400,Smoky,"Rum, Vodka",Unlikely,<800,4,Maybe,4,Cocktail upgrade
+25-34,Mumbai,52242.0,Omni,0,1,2000.0,Lunch,3,Never,Mocktails,500,"Herbal, Smoky",None,Yes definitely,1 000-1 200,3,Yes,4,Cocktail upgrade
+25-34,Mumbai,20000.0,Omni,4,4,911.0,Weekend treat,5,1-2× month,Mocktails,500,"Fruity, Smoky","Vodka, Whisky",Yes definitely,1 000-1 200,1,Yes,4,Points
+35-44,Delhi,68507.0,Vegetarian,7,1,2000.0,"Dinner, Lunch, Post-work drinks",5,1× week,Equal,400,Spicy,"Rum, Vodka",Unlikely,1 000-1 200,3,Yes,4,Points
+35-44,Bengaluru,20000.0,Omni,2,1,992.0,Dinner,3,1-2× month,Cocktails,700,Smoky,"Gin, Tequila, Whisky",Unlikely,1 000-1 200,2,Maybe,4,Points
+35-44,Bengaluru,20000.0,Omni,0,2,1210.0,Dinner,2,1-2× month,Cocktails,500,"Citrus, Fruity","Rum, Whisky",Yes definitely,1 000-1 200,5,Yes,3,Points
+25-34,Mumbai,43863.0,Vegan,3,0,1991.0,Weekend treat,2,Never,Mocktails,500,"Earthy, Spicy",None,Yes definitely,<800,3,Yes,5,Nutrition consult
+18-24,Chennai,42694.0,Omni,7,1,3544.0,Lunch,4,2-3× week,Cocktails,600,"Fruity, Herbal","Gin, Tequila",Unlikely,1 000-1 200,5,No,2,Points
+18-24,Hyderabad,20000.0,Omni,5,2,993.0,"Dinner, Post-work drinks",5,Never,Mocktails,500,Herbal,None,Yes definitely,1 000-1 200,5,Maybe,3,Cocktail upgrade
+25-34,Bengaluru,57144.0,Vegetarian,3,1,4000.0,"Dinner, Lunch, Post-work drinks, Weekend treat",4,Never,Mocktails,600,Smoky,None,Yes definitely,<800,4,No,1,Free delivery
+35-44,Kolkata,20817.0,Vegan,5,1,881.0,Dinner,5,Never,Mocktails,400,Citrus,None,Yes definitely,>1 200,5,Maybe,4,Points
+25-34,Mumbai,35046.0,Omni,0,0,1752.0,"Lunch, Post-work drinks, Weekend treat",2,1× week,Equal,400,Earthy,"Rum, Tequila",Yes definitely,1 000-1 200,5,Yes,4,Free delivery
+35-44,Hyderabad,63358.0,Vegetarian,0,1,2000.0,Post-work drinks,2,Never,Mocktails,600,"Citrus, Fruity, Spicy",None,Yes definitely,>1 200,5,Maybe,2,Points
+35-44,Chennai,42838.0,Omni,4,4,1965.0,"Lunch, Post-work drinks, Weekend treat",4,1× week,Cocktails,700,"Earthy, Fruity, Smoky",Whisky,Yes definitely,1 000-1 200,3,Maybe,2,Cocktail upgrade
+18-24,Mumbai,26961.0,Keto,0,2,1441.0,"Lunch, Post-work drinks",3,Never,Mocktails,600,"Fruity, Herbal, Spicy",None,Yes definitely,1 000-1 200,5,Yes,4,Free delivery
+25-34,Delhi,20000.0,Keto,1,4,1041.0,Lunch,2,1× week,Equal,400,"Earthy, Spicy",Gin,Never,1 000-1 200,5,Maybe,2,Free delivery
+18-24,Mumbai,56796.0,Omni,0,2,2000.0,"Dinner, Post-work drinks",3,Never,Mocktails,400,"Earthy, Fruity, Spicy",None,Yes definitely,>1 200,5,Yes,4,Nutrition consult
+35-44,Delhi,26129.0,Keto,2,4,1190.0,"Lunch, Weekend treat",5,Never,Mocktails,600,"Citrus, Herbal",None,Yes definitely,1 000-1 200,5,No,2,Free delivery
+35-44,Pune,62189.0,Omni,2,1,2000.0,Dinner,5,2-3× week,Equal,400,"Citrus, Spicy",Rum,Unlikely,1 000-1 200,3,Yes,4,Nutrition consult
+25-34,Chennai,25754.0,Vegetarian,0,3,2400.0,Dinner,3,1× week,Cocktails,500,Herbal,"Vodka, Whisky",Yes definitely,<800,5,Yes,5,Free delivery
+35-44,Pune,26991.0,Vegetarian,0,5,1366.0,Lunch,5,Never,Mocktails,500,"Citrus, Smoky",None,Yes definitely,<800,3,Maybe,2,Cocktail upgrade
+35-44,Delhi,20000.0,Omni,0,0,2166.0,"Dinner, Lunch",4,2-3× week,Mocktails,600,Smoky,Tequila,Maybe,1 000-1 200,5,Yes,4,Points
+25-34,Pune,56385.0,Omni,4,2,2000.0,"Dinner, Lunch, Weekend treat",5,1-2× month,Mocktails,600,"Citrus, Smoky",Gin,Maybe,<800,2,Yes,5,Nutrition consult
+25-34,Bengaluru,59461.0,Omni,0,0,2000.0,Weekend treat,4,1-2× month,Mocktails,400,Earthy,"Rum, Tequila, Whisky",Maybe,1 000-1 200,4,Maybe,4,Free delivery
+25-34,Hyderabad,22723.0,Omni,5,2,1229.0,Dinner,5,1-2× month,Cocktails,600,"Herbal, Smoky, Spicy",Whisky,Maybe,>1 200,4,Yes,4,Points
+35-44,Hyderabad,20000.0,Omni,0,4,997.0,Weekend treat,4,2-3× week,Mocktails,600,"Citrus, Fruity","Rum, Tequila, Whisky",Maybe,<800,4,Yes,4,Free delivery
+18-24,Delhi,29993.0,Omni,2,0,1440.0,"Lunch, Post-work drinks, Weekend treat",5,1× week,Cocktails,500,"Earthy, Fruity, Herbal, Smoky",Rum,Yes definitely,>1 200,3,Maybe,3,Nutrition consult
+35-44,Kolkata,23689.0,Omni,7,1,1090.0,"Dinner, Lunch, Weekend treat",5,1× week,Cocktails,500,"Citrus, Spicy",Vodka,Maybe,800-1 000,3,Yes,5,Points
+18-24,Hyderabad,22885.0,Omni,4,2,1142.0,"Dinner, Weekend treat",2,1× week,Cocktails,500,Citrus,"Tequila, Whisky",Unlikely,1 000-1 200,4,No,1,Cocktail upgrade
+45-54,Mumbai,20000.0,Vegan,5,1,1059.0,Dinner,5,Never,Mocktails,400,Earthy,None,Yes definitely,1 000-1 200,4,Maybe,4,Free delivery
+18-24,Bengaluru,120038.0,Vegan,0,2,2000.0,Weekend treat,4,1-2× month,Cocktails,600,Earthy,Tequila,Maybe,1 000-1 200,4,Yes,4,Points
+18-24,Pune,20000.0,Vegetarian,1,3,1003.0,Weekend treat,5,Daily,Mocktails,500,Smoky,"Tequila, Vodka",Unlikely,<800,4,Maybe,3,Cocktail upgrade
+18-24,Mumbai,37108.0,Omni,3,0,1647.0,"Dinner, Lunch",5,1-2× month,Equal,500,"Citrus, Herbal, Spicy",Rum,Maybe,800-1 000,5,No,1,Free delivery
+25-34,Mumbai,47391.0,Omni,2,3,2000.0,"Lunch, Weekend treat",5,1-2× month,Avoid all,500,Fruity,Vodka,Maybe,1 000-1 200,4,Maybe,4,Points
+25-34,Bengaluru,20000.0,Vegetarian,2,1,1042.0,Lunch,2,Never,Mocktails,700,Earthy,None,Yes definitely,800-1 000,3,Yes,4,Points
+25-34,Delhi,35556.0,Omni,1,1,1616.0,Post-work drinks,4,1× week,Cocktails,600,Earthy,Whisky,Yes definitely,800-1 000,5,Yes,4,Free delivery
+45-54,Mumbai,22295.0,Vegetarian,1,4,1179.0,Weekend treat,2,Never,Mocktails,500,"Citrus, Earthy",None,Yes definitely,<800,3,No,2,Points
+25-34,Chennai,43383.0,Omni,0,0,1817.0,"Dinner, Lunch, Post-work drinks, Weekend treat",5,2-3× week,Equal,500,"Citrus, Earthy, Fruity, Herbal, Smoky",Gin,Maybe,800-1 000,3,Yes,5,Free delivery
+18-24,Delhi,29815.0,Vegan,2,1,1452.0,Weekend treat,2,2-3× week,Equal,400,Fruity,Gin,Maybe,1 000-1 200,4,No,1,Free delivery
+18-24,Mumbai,43430.0,Omni,5,0,2000.0,Post-work drinks,5,Never,Mocktails,500,"Earthy, Herbal, Smoky",None,Yes definitely,800-1 000,4,Yes,5,Free delivery
+35-44,Mumbai,27571.0,Omni,2,0,1429.0,Post-work drinks,3,1-2× month,Mocktails,500,Fruity,"Rum, Vodka, Whisky",Yes definitely,>1 200,1,Maybe,2,Free delivery
+35-44,Hyderabad,20000.0,Omni,5,1,1048.0,"Dinner, Lunch, Post-work drinks",3,1× week,Cocktails,700,"Citrus, Earthy, Fruity","Rum, Tequila",Unlikely,<800,5,Yes,4,Points
+18-24,Delhi,52308.0,Vegan,0,1,2000.0,"Lunch, Post-work drinks, Weekend treat",4,Never,Mocktails,600,Smoky,None,Yes definitely,1 000-1 200,3,Yes,3,Cocktail upgrade
+35-44,Delhi,42400.0,Vegetarian,0,1,1912.0,"Dinner, Post-work drinks",5,1× week,Mocktails,600,Smoky,"Gin, Vodka",Unlikely,>1 200,2,Maybe,4,Free delivery
+35-44,Chennai,25816.0,Omni,1,0,1147.0,Post-work drinks,4,1× week,Mocktails,600,Herbal,Gin,Unlikely,800-1 000,3,No,2,Points
+55+,Mumbai,46188.0,Omni,6,0,1908.0,"Lunch, Post-work drinks",5,1× week,Mocktails,500,Fruity,"Gin, Tequila, Vodka",Maybe,1 000-1 200,3,Maybe,4,Free delivery
+25-34,Kolkata,35021.0,Omni,0,1,1594.0,Lunch,5,1-2× month,Equal,600,"Smoky, Spicy","Gin, Tequila",Maybe,<800,5,Yes,5,Nutrition consult
+25-34,Bengaluru,20000.0,Omni,4,1,1725.0,Dinner,5,1× week,Cocktails,500,"Fruity, Spicy","Tequila, Whisky",Never,1 000-1 200,4,Maybe,3,Points
+25-34,Mumbai,20000.0,Omni,0,3,760.0,"Lunch, Weekend treat",4,1-2× month,Cocktails,600,Fruity,Whisky,Yes definitely,800-1 000,4,Yes,4,Cocktail upgrade
+25-34,Mumbai,64801.0,Omni,2,0,2000.0,"Lunch, Post-work drinks",4,2-3× week,Avoid all,500,Earthy,Whisky,Maybe,>1 200,5,Yes,4,Points
+25-34,Delhi,27111.0,Vegan,3,1,1158.0,"Lunch, Post-work drinks, Weekend treat",5,2-3× week,Cocktails,400,"Citrus, Smoky",Vodka,Unlikely,1 000-1 200,5,No,1,Free delivery
+25-34,Hyderabad,65719.0,Omni,2,0,4000.0,"Lunch, Weekend treat",4,1× week,Mocktails,700,"Fruity, Smoky, Spicy","Rum, Vodka",Maybe,1 000-1 200,4,Yes,5,Free delivery
+45-54,Mumbai,22490.0,Omni,2,5,1174.0,Dinner,1,1-2× month,Equal,500,"Fruity, Smoky",Rum,Yes definitely,800-1 000,4,No,2,Points
+18-24,Delhi,20000.0,Keto,4,1,978.0,Post-work drinks,5,1× week,Equal,600,"Fruity, Spicy",Vodka,Maybe,1 000-1 200,4,Maybe,2,Free delivery
+18-24,Chennai,28213.0,Omni,7,2,1286.0,Lunch,3,1× week,Equal,700,"Herbal, Smoky",Gin,Maybe,800-1 000,5,Yes,4,Points
+25-34,Hyderabad,20000.0,Keto,4,2,1007.0,"Dinner, Lunch, Post-work drinks",5,1× week,Avoid all,600,Smoky,"Gin, Tequila",Never,1 000-1 200,2,Maybe,3,Points
+18-24,Mumbai,38360.0,Omni,1,3,1733.0,Weekend treat,4,1-2× month,Cocktails,500,"Herbal, Smoky",Vodka,Never,<800,4,Yes,4,Free delivery
+25-34,Mumbai,29210.0,Vegan,3,0,1378.0,"Dinner, Lunch",5,2-3× week,Equal,500,"Citrus, Earthy, Spicy",Tequila,Yes definitely,1 000-1 200,5,No,1,Nutrition consult
+18-24,Mumbai,21297.0,Vegan,2,4,1158.0,Lunch,5,Never,Mocktails,400,Fruity,None,Yes definitely,800-1 000,4,No,1,Cocktail upgrade
+55+,Delhi,20000.0,Vegetarian,2,0,999.0,Post-work drinks,4,1-2× month,Mocktails,500,Smoky,"Gin, Whisky",Yes definitely,1 000-1 200,5,Yes,3,Free delivery
+25-34,Mumbai,20000.0,Omni,3,2,1026.0,"Lunch, Weekend treat",4,1-2× month,Mocktails,400,"Citrus, Fruity, Herbal",Gin,Yes definitely,>1 200,2,Maybe,2,Points
+45-54,Pune,21962.0,Vegetarian,1,2,1100.0,Dinner,1,Never,Mocktails,600,"Herbal, Smoky",None,Yes definitely,1 000-1 200,3,Yes,5,Free delivery
+25-34,Pune,46633.0,Vegetarian,1,3,2000.0,Dinner,4,Never,Mocktails,400,"Earthy, Herbal, Smoky",None,Yes definitely,1 000-1 200,5,Yes,5,Free delivery
+18-24,Chennai,20279.0,Omni,4,0,891.0,Weekend treat,5,1-2× month,Mocktails,600,"Citrus, Herbal",Whisky,Yes definitely,1 000-1 200,5,Maybe,3,Nutrition consult
+25-34,Hyderabad,39029.0,Vegetarian,0,1,1734.0,Weekend treat,5,2-3× week,Mocktails,600,Citrus,Tequila,Maybe,800-1 000,5,No,1,Cocktail upgrade
+25-34,Mumbai,20812.0,Omni,1,0,884.0,"Dinner, Lunch",3,1× week,Cocktails,500,"Fruity, Smoky, Spicy","Vodka, Whisky",Unlikely,>1 200,5,Yes,5,Points
+35-44,Mumbai,32812.0,Omni,2,2,1609.0,"Dinner, Post-work drinks",5,Never,Mocktails,600,"Citrus, Fruity",None,Yes definitely,800-1 000,5,Yes,4,Free delivery
+35-44,Mumbai,47325.0,Vegetarian,4,2,2000.0,"Dinner, Weekend treat",5,2-3× week,Cocktails,500,"Herbal, Spicy",Rum,Unlikely,800-1 000,3,Yes,5,Nutrition consult
+45-54,Mumbai,40965.0,Vegan,5,1,1741.0,Dinner,3,1-2× month,Cocktails,500,Citrus,"Tequila, Vodka",Unlikely,<800,5,Yes,4,Free delivery
+55+,Kolkata,20000.0,Keto,1,0,978.0,Dinner,4,2-3× week,Cocktails,500,"Fruity, Herbal",Rum,Never,800-1 000,2,Maybe,3,Nutrition consult
+18-24,Pune,20000.0,Vegetarian,1,0,930.0,Weekend treat,1,1-2× month,Equal,500,"Fruity, Herbal",Whisky,Never,800-1 000,3,Yes,3,Cocktail upgrade
+55+,Mumbai,22227.0,Omni,5,2,1166.0,"Lunch, Post-work drinks, Weekend treat",4,1-2× month,Cocktails,600,"Citrus, Fruity","Rum, Tequila",Maybe,>1 200,2,Yes,4,Nutrition consult
+45-54,Pune,33670.0,Vegetarian,5,1,1582.0,Weekend treat,5,1-2× month,Mocktails,500,"Citrus, Earthy","Gin, Rum, Tequila",Never,800-1 000,2,Maybe,2,Points
+25-34,Chennai,20560.0,Omni,1,3,1181.0,Post-work drinks,2,Never,Mocktails,600,Citrus,None,Yes definitely,1 000-1 200,3,Yes,5,Points
+25-34,Pune,20163.0,Omni,3,1,1060.0,Lunch,5,Never,Mocktails,500,"Herbal, Smoky, Spicy",None,Yes definitely,>1 200,5,Yes,4,Cocktail upgrade
+45-54,Mumbai,20000.0,Vegetarian,0,1,782.0,Weekend treat,5,2-3× week,Equal,400,Earthy,Tequila,Maybe,1 000-1 200,3,No,2,Cocktail upgrade
+18-24,Bengaluru,20000.0,Omni,2,5,843.0,Weekend treat,4,Never,Mocktails,600,"Citrus, Spicy",None,Yes definitely,800-1 000,5,Yes,3,Free delivery
+35-44,Mumbai,21800.0,Keto,6,1,874.0,"Lunch, Weekend treat",5,Never,Mocktails,500,Spicy,None,Yes definitely,1 000-1 200,5,No,2,Cocktail upgrade
+18-24,Delhi,20000.0,Omni,0,2,958.0,Weekend treat,3,Never,Mocktails,500,Citrus,None,Yes definitely,1 000-1 200,5,Yes,4,Free delivery
+25-34,Mumbai,40767.0,Vegetarian,1,5,1808.0,"Lunch, Post-work drinks",1,Never,Mocktails,500,"Earthy, Fruity, Herbal",None,Yes definitely,1 000-1 200,1,Yes,4,Points
+18-24,Delhi,20000.0,Vegetarian,2,1,973.0,"Dinner, Lunch, Weekend treat",5,2-3× week,Mocktails,400,"Citrus, Herbal, Smoky",Rum,Maybe,1 000-1 200,3,Yes,5,Points
+25-34,Mumbai,20635.0,Omni,3,3,1135.0,Post-work drinks,5,1× week,Cocktails,700,"Citrus, Fruity",Tequila,Maybe,800-1 000,3,Maybe,3,Free delivery
+35-44,Mumbai,52281.0,Omni,4,3,2000.0,Weekend treat,5,Never,Mocktails,500,Citrus,None,Yes definitely,1 000-1 200,5,Maybe,3,Points
+18-24,Mumbai,23744.0,Keto,2,2,1136.0,Dinner,5,1-2× month,Mocktails,400,"Citrus, Earthy, Herbal","Rum, Whisky",Yes definitely,1 000-1 200,5,Yes,4,Free delivery
+18-24,Delhi,20000.0,Omni,2,4,1086.0,"Dinner, Lunch",3,Never,Mocktails,500,Smoky,None,Yes definitely,1 000-1 200,4,Maybe,4,Points
+18-24,Pune,20000.0,Vegetarian,1,2,965.0,"Dinner, Weekend treat",4,1-2× month,Equal,500,"Earthy, Fruity, Smoky, Spicy",Gin,Maybe,1 000-1 200,4,Maybe,3,Cocktail upgrade
+25-34,Chennai,48056.0,Omni,6,2,2000.0,Dinner,5,Never,Mocktails,600,"Smoky, Spicy",None,Yes definitely,800-1 000,5,No,2,Nutrition consult
+18-24,Hyderabad,26862.0,Omni,0,1,1221.0,"Lunch, Post-work drinks",4,1× week,Cocktails,500,Smoky,Rum,Yes definitely,1 000-1 200,4,Maybe,3,Points
+25-34,Hyderabad,20000.0,Omni,0,4,1095.0,Dinner,5,Never,Mocktails,500,"Earthy, Smoky",None,Yes definitely,1 000-1 200,5,Yes,4,Free delivery
+45-54,Hyderabad,24258.0,Omni,0,4,1160.0,Dinner,4,1× week,Equal,500,"Citrus, Smoky",Whisky,Yes definitely,1 000-1 200,5,Maybe,3,Cocktail upgrade
+18-24,Bengaluru,23706.0,Omni,0,1,1245.0,"Lunch, Post-work drinks",4,2-3× week,Cocktails,500,Smoky,"Rum, Vodka",Unlikely,800-1 000,4,Maybe,3,Free delivery
+45-54,Mumbai,20000.0,Keto,3,3,1086.0,Dinner,3,1-2× month,Mocktails,600,"Earthy, Smoky",Vodka,Yes definitely,>1 200,5,Yes,5,Points
+25-34,Chennai,71320.0,Vegetarian,3,0,2000.0,"Lunch, Post-work drinks",5,1-2× month,Cocktails,500,Earthy,Tequila,Maybe,>1 200,4,Maybe,3,Nutrition consult
+18-24,Bengaluru,20574.0,Vegetarian,4,1,879.0,Dinner,5,1× week,Cocktails,500,"Citrus, Earthy",Whisky,Maybe,1 000-1 200,4,Maybe,4,Free delivery
+35-44,Pune,24787.0,Omni,2,0,1242.0,"Lunch, Weekend treat",5,Never,Mocktails,500,Fruity,None,Yes definitely,800-1 000,4,Maybe,2,Points
+18-24,Hyderabad,68945.0,Keto,6,4,2000.0,"Post-work drinks, Weekend treat",4,Never,Mocktails,500,"Citrus, Herbal",None,Yes definitely,>1 200,5,No,1,Free delivery
+25-34,Mumbai,20000.0,Omni,3,4,1055.0,Dinner,5,1-2× month,Equal,600,"Citrus, Herbal, Spicy","Gin, Rum, Tequila, Vodka, Whisky",Yes definitely,1 000-1 200,3,Yes,4,Cocktail upgrade
+45-54,Pune,34468.0,Omni,2,0,1553.0,Weekend treat,1,1× week,Cocktails,500,"Fruity, Spicy",Gin,Yes definitely,1 000-1 200,1,Maybe,2,Points
+25-34,Delhi,28452.0,Omni,2,4,1371.0,"Lunch, Weekend treat",4,Never,Mocktails,600,Earthy,None,Yes definitely,1 000-1 200,4,Yes,3,Points
+25-34,Delhi,21783.0,Omni,2,0,1092.0,"Dinner, Post-work drinks",5,Never,Mocktails,500,"Fruity, Herbal",None,Yes definitely,800-1 000,4,Yes,4,Free delivery
+45-54,Kolkata,45780.0,Omni,7,2,1964.0,"Post-work drinks, Weekend treat",5,1-2× month,Cocktails,700,"Citrus, Fruity","Gin, Rum",Yes definitely,1 000-1 200,4,No,1,Nutrition consult
+18-24,Mumbai,39485.0,Omni,2,1,1696.0,"Lunch, Post-work drinks",5,2-3× week,Mocktails,500,Earthy,Vodka,Yes definitely,<800,3,Maybe,4,Nutrition consult
+25-34,Bengaluru,22444.0,Omni,3,5,928.0,"Dinner, Lunch",4,Never,Mocktails,500,"Herbal, Spicy",None,Yes definitely,1 000-1 200,3,Maybe,4,Cocktail upgrade
+35-44,Bengaluru,51403.0,Omni,1,2,2000.0,"Dinner, Lunch",4,Never,Mocktails,600,"Citrus, Fruity, Herbal, Spicy",None,Yes definitely,1 000-1 200,4,Yes,4,Points
+25-34,Hyderabad,24887.0,Omni,7,2,1111.0,"Dinner, Lunch, Weekend treat",5,1-2× month,Cocktails,700,"Citrus, Earthy, Herbal",Rum,Maybe,800-1 000,4,Yes,5,Free delivery
+18-24,Kolkata,20000.0,Omni,3,2,1082.0,Lunch,4,1-2× month,Cocktails,600,"Earthy, Fruity, Smoky","Gin, Rum",Never,800-1 000,4,Yes,4,Points
+25-34,Delhi,20000.0,Vegetarian,1,1,1063.0,"Lunch, Post-work drinks, Weekend treat",4,1-2× month,Cocktails,500,Herbal,Vodka,Unlikely,1 000-1 200,3,Yes,3,Cocktail upgrade
+18-24,Mumbai,20000.0,Vegetarian,0,0,961.0,Weekend treat,5,1-2× month,Equal,500,Citrus,Vodka,Maybe,1 000-1 200,2,Maybe,2,Cocktail upgrade
+55+,Hyderabad,20000.0,Omni,2,1,952.0,Post-work drinks,5,1-2× month,Cocktails,500,"Citrus, Earthy, Herbal","Gin, Tequila",Unlikely,1 000-1 200,4,Yes,5,Points
+25-34,Bengaluru,24746.0,Omni,0,1,1296.0,Post-work drinks,4,1-2× month,Mocktails,500,"Citrus, Fruity, Herbal, Spicy",Rum,Never,1 000-1 200,5,Yes,4,Cocktail upgrade
+18-24,Mumbai,21608.0,Vegetarian,2,4,1113.0,"Lunch, Post-work drinks",2,Never,Mocktails,500,"Citrus, Fruity, Spicy",None,Yes definitely,>1 200,4,Yes,4,Cocktail upgrade
+18-24,Mumbai,51511.0,Omni,0,3,2000.0,Post-work drinks,2,1-2× month,Mocktails,500,Spicy,Vodka,Unlikely,800-1 000,4,Maybe,3,Free delivery
+18-24,Mumbai,53208.0,Vegetarian,4,1,2000.0,Lunch,5,1-2× month,Cocktails,400,"Fruity, Smoky, Spicy",Vodka,Maybe,>1 200,3,Yes,5,Nutrition consult
+45-54,Delhi,21055.0,Vegetarian,2,0,1248.0,"Dinner, Post-work drinks",4,1-2× month,Equal,600,"Earthy, Smoky, Spicy","Rum, Whisky",Unlikely,<800,5,Maybe,4,Cocktail upgrade
+18-24,Delhi,20000.0,Vegetarian,0,0,1014.0,Post-work drinks,4,1× week,Equal,600,Smoky,"Rum, Tequila, Whisky",Unlikely,800-1 000,1,Yes,4,Nutrition consult
+25-34,Mumbai,34174.0,Vegetarian,5,0,1528.0,"Dinner, Lunch",5,Never,Mocktails,400,"Fruity, Herbal",None,Yes definitely,>1 200,3,Maybe,3,Points
+35-44,Mumbai,20000.0,Omni,1,0,1114.0,Weekend treat,5,1-2× month,Cocktails,500,Fruity,"Tequila, Vodka",Maybe,1 000-1 200,5,Yes,5,Nutrition consult
+25-34,Hyderabad,24809.0,Keto,4,2,1289.0,"Lunch, Post-work drinks",5,1-2× month,Avoid all,600,Fruity,Rum,Yes definitely,800-1 000,4,Yes,3,Points
+25-34,Mumbai,29237.0,Omni,1,2,1566.0,Dinner,2,Never,Mocktails,400,"Fruity, Spicy",None,Yes definitely,1 000-1 200,5,Maybe,3,Points
+18-24,Hyderabad,26932.0,Omni,1,2,1431.0,"Lunch, Weekend treat",5,2-3× week,Cocktails,600,Earthy,Tequila,Maybe,>1 200,4,Maybe,3,Free delivery
+18-24,Pune,96428.0,Omni,0,3,2000.0,Lunch,5,1-2× month,Cocktails,600,Smoky,"Gin, Whisky",Yes definitely,>1 200,3,Maybe,3,Nutrition consult
+25-34,Delhi,20000.0,Omni,0,2,1134.0,"Dinner, Lunch",5,1× week,Equal,400,"Herbal, Smoky","Tequila, Vodka",Maybe,800-1 000,4,Yes,5,Points
+55+,Bengaluru,33495.0,Omni,0,1,1564.0,"Lunch, Post-work drinks, Weekend treat",5,1× week,Mocktails,400,Fruity,"Rum, Vodka",Yes definitely,1 000-1 200,2,Maybe,2,Free delivery
+35-44,Mumbai,20000.0,Omni,2,0,1106.0,Post-work drinks,5,1-2× month,Mocktails,400,Fruity,"Gin, Tequila, Vodka, Whisky",Unlikely,<800,4,Yes,5,Cocktail upgrade
+18-24,Hyderabad,24059.0,Vegetarian,3,2,1085.0,Weekend treat,3,1-2× month,Cocktails,600,Smoky,Whisky,Maybe,1 000-1 200,3,Yes,4,Cocktail upgrade
+45-54,Bengaluru,20613.0,Vegan,0,5,2040.0,"Post-work drinks, Weekend treat",4,1-2× month,Equal,400,Smoky,Gin,Maybe,1 000-1 200,3,Yes,4,Cocktail upgrade
+18-24,Mumbai,20000.0,Omni,3,4,966.0,"Post-work drinks, Weekend treat",3,Never,Mocktails,500,Spicy,None,Yes definitely,<800,2,Yes,4,Cocktail upgrade
+45-54,Bengaluru,20000.0,Omni,4,2,847.0,Dinner,5,2-3× week,Cocktails,500,"Citrus, Fruity, Spicy",Vodka,Yes definitely,800-1 000,4,Yes,5,Points
+35-44,Delhi,29947.0,Omni,0,2,1503.0,Post-work drinks,5,1× week,Equal,500,"Fruity, Smoky, Spicy","Gin, Rum, Tequila",Yes definitely,<800,3,Maybe,2,Points
+25-34,Mumbai,22826.0,Omni,0,0,1077.0,Dinner,5,1-2× month,Avoid all,500,"Fruity, Herbal, Spicy","Tequila, Whisky",Maybe,800-1 000,1,No,2,Points
+25-34,Hyderabad,64145.0,Omni,0,2,2000.0,Weekend treat,4,2-3× week,Cocktails,600,"Earthy, Fruity, Herbal, Smoky",Gin,Yes definitely,800-1 000,3,Yes,3,Points
+25-34,Kolkata,25645.0,Omni,5,2,1414.0,Post-work drinks,4,1-2× month,Equal,400,Citrus,Vodka,Never,<800,5,Yes,4,Points
+18-24,Mumbai,41581.0,Omni,0,1,1751.0,Post-work drinks,5,1× week,Cocktails,400,Herbal,Whisky,Never,800-1 000,5,No,2,Nutrition consult
+25-34,Delhi,20000.0,Omni,2,1,964.0,"Dinner, Lunch, Post-work drinks",4,1-2× month,Mocktails,600,"Earthy, Herbal",Whisky,Yes definitely,800-1 000,3,Maybe,4,Cocktail upgrade
+18-24,Hyderabad,82393.0,Vegan,0,0,2000.0,"Dinner, Weekend treat",5,1-2× month,Cocktails,500,"Earthy, Herbal, Spicy",Gin,Maybe,<800,3,Yes,4,Points
+18-24,Pune,20000.0,Keto,4,3,1006.0,Dinner,5,Never,Mocktails,500,Herbal,None,Yes definitely,1 000-1 200,3,Yes,5,Nutrition consult
+35-44,Hyderabad,20000.0,Omni,0,1,909.0,Post-work drinks,3,1-2× month,Equal,400,"Citrus, Fruity, Smoky, Spicy",Tequila,Unlikely,1 000-1 200,2,No,2,Free delivery
+35-44,Mumbai,24299.0,Vegetarian,0,2,1293.0,Post-work drinks,5,1-2× month,Mocktails,500,"Fruity, Spicy",Whisky,Unlikely,1 000-1 200,5,Maybe,2,Cocktail upgrade
+25-34,Bengaluru,20017.0,Vegetarian,0,0,1113.0,"Post-work drinks, Weekend treat",5,Never,Mocktails,500,"Citrus, Fruity, Herbal, Smoky, Spicy",None,Yes definitely,>1 200,4,No,1,Nutrition consult
+25-34,Mumbai,24859.0,Other,3,3,1178.0,Dinner,4,1-2× month,Cocktails,500,Fruity,"Gin, Rum",Maybe,1 000-1 200,3,No,1,Points
+25-34,Bengaluru,20000.0,Omni,4,3,1190.0,"Dinner, Post-work drinks",5,Never,Mocktails,600,"Herbal, Smoky",None,Yes definitely,1 000-1 200,4,Yes,4,Free delivery
+35-44,Hyderabad,24479.0,Vegetarian,7,2,1289.0,Lunch,5,Never,Mocktails,500,"Citrus, Earthy",None,Yes definitely,800-1 000,4,Maybe,3,Cocktail upgrade
+35-44,Mumbai,68587.0,Vegetarian,2,1,2000.0,"Dinner, Weekend treat",5,1× week,Cocktails,500,Citrus,Tequila,Unlikely,800-1 000,3,Maybe,3,Nutrition consult
+25-34,Mumbai,22002.0,Vegetarian,3,5,1130.0,"Dinner, Post-work drinks",4,1× week,Cocktails,500,Smoky,Tequila,Never,1 000-1 200,3,Yes,5,Cocktail upgrade
+18-24,Delhi,23666.0,Omni,2,3,1201.0,Dinner,2,2-3× week,Equal,500,Fruity,Tequila,Unlikely,800-1 000,4,Maybe,2,Points
+25-34,Delhi,28980.0,Omni,0,3,1327.0,"Lunch, Post-work drinks",5,1-2× month,Cocktails,600,"Earthy, Fruity, Herbal",Rum,Maybe,800-1 000,5,Yes,3,Free delivery
+55+,Delhi,21124.0,Keto,2,1,985.0,"Dinner, Lunch, Weekend treat",5,1-2× month,Cocktails,500,"Earthy, Herbal",Gin,Maybe,800-1 000,5,Yes,4,Points
+45-54,Delhi,20000.0,Omni,0,1,1081.0,"Dinner, Lunch, Weekend treat",3,Never,Mocktails,600,"Citrus, Fruity, Herbal, Smoky, Spicy",None,Yes definitely,<800,4,Yes,4,Free delivery
+35-44,Kolkata,23009.0,Vegetarian,1,0,1196.0,Dinner,4,1-2× month,Cocktails,500,"Citrus, Earthy, Fruity","Rum, Vodka",Unlikely,1 000-1 200,2,Maybe,4,Free delivery
+35-44,Hyderabad,25938.0,Omni,3,1,1202.0,"Lunch, Post-work drinks",4,2-3× week,Equal,700,"Citrus, Earthy, Smoky",Vodka,Never,<800,4,Yes,5,Points
+35-44,Mumbai,36772.0,Omni,4,0,1601.0,Post-work drinks,5,1-2× month,Mocktails,600,"Citrus, Fruity, Herbal, Smoky, Spicy","Gin, Tequila, Vodka",Maybe,<800,2,Maybe,3,Points
+25-34,Mumbai,21966.0,Vegetarian,5,1,1159.0,Dinner,2,Never,Mocktails,500,Herbal,None,Yes definitely,>1 200,5,Yes,3,Points
+35-44,Mumbai,35104.0,Omni,3,1,1659.0,"Dinner, Post-work drinks",1,Never,Mocktails,400,"Herbal, Smoky",None,Yes definitely,800-1 000,4,Maybe,2,Points
+25-34,Delhi,33362.0,Vegan,2,0,1593.0,"Dinner, Weekend treat",5,Never,Mocktails,500,"Earthy, Fruity, Herbal, Smoky, Spicy",None,Yes definitely,<800,5,Yes,5,Nutrition consult
+35-44,Kolkata,58696.0,Omni,6,2,2000.0,Dinner,5,2-3× week,Equal,500,Smoky,Whisky,Yes definitely,1 000-1 200,5,Maybe,2,Points
+35-44,Mumbai,29358.0,Omni,1,1,1490.0,Post-work drinks,4,Never,Mocktails,400,"Earthy, Herbal",None,Yes definitely,1 000-1 200,3,Yes,4,Points
+35-44,Hyderabad,20000.0,Vegetarian,2,1,876.0,"Dinner, Lunch, Post-work drinks",3,Never,Mocktails,500,"Earthy, Smoky",None,Yes definitely,800-1 000,4,Yes,4,Points
+55+,Delhi,20000.0,Vegetarian,0,5,1019.0,Weekend treat,5,2-3× week,Equal,500,Herbal,"Gin, Tequila",Maybe,>1 200,5,Yes,5,Points
+18-24,Mumbai,27822.0,Omni,2,6,1151.0,Post-work drinks,4,1-2× month,Cocktails,400,"Citrus, Earthy, Herbal","Rum, Tequila",Unlikely,1 000-1 200,5,Yes,4,Free delivery
+18-24,Delhi,20000.0,Omni,2,0,961.0,Weekend treat,5,Daily,Cocktails,500,"Citrus, Herbal",Vodka,Yes definitely,1 000-1 200,4,Yes,4,Free delivery
+35-44,Bengaluru,38654.0,Omni,3,1,1855.0,Dinner,5,Never,Mocktails,600,"Citrus, Earthy, Herbal",None,Yes definitely,800-1 000,5,Yes,5,Cocktail upgrade
+55+,Delhi,43275.0,Omni,0,1,1660.0,Weekend treat,3,1-2× month,Cocktails,600,Fruity,"Gin, Rum",Unlikely,<800,4,Maybe,2,Cocktail upgrade
+45-54,Chennai,23212.0,Omni,0,0,1146.0,Dinner,5,Never,Mocktails,500,"Herbal, Smoky",None,Yes definitely,>1 200,3,No,1,Points
+25-34,Delhi,34900.0,Omni,2,4,1526.0,"Dinner, Lunch",3,Never,Mocktails,600,"Fruity, Smoky, Spicy",None,Yes definitely,1 000-1 200,5,Yes,4,Points
+45-54,Bengaluru,20000.0,Omni,2,0,974.0,Post-work drinks,4,2-3× week,Mocktails,600,"Citrus, Fruity",Gin,Never,<800,4,Maybe,3,Cocktail upgrade
+25-34,Kolkata,70229.0,Vegan,3,1,2000.0,Lunch,4,2-3× week,Cocktails,500,Smoky,Tequila,Yes definitely,>1 200,2,Maybe,3,Free delivery
+25-34,Chennai,21812.0,Keto,3,4,1110.0,Lunch,4,1× week,Equal,600,"Citrus, Fruity, Herbal","Gin, Vodka, Whisky",Maybe,800-1 000,4,Yes,4,Free delivery
+35-44,Mumbai,20365.0,Omni,4,4,997.0,"Dinner, Lunch",4,1-2× month,Mocktails,600,"Earthy, Fruity, Herbal","Gin, Rum",Unlikely,1 000-1 200,5,Maybe,3,Nutrition consult
+25-34,Bengaluru,31560.0,Vegetarian,1,3,1247.0,Post-work drinks,5,Never,Mocktails,500,"Citrus, Earthy, Smoky",None,Yes definitely,800-1 000,5,Yes,4,Cocktail upgrade
+55+,Mumbai,52107.0,Omni,3,1,2000.0,Post-work drinks,5,1-2× month,Mocktails,600,"Earthy, Smoky","Gin, Vodka",Yes definitely,<800,4,Yes,5,Points
+35-44,Kolkata,20000.0,Omni,2,1,1890.0,"Dinner, Post-work drinks",4,Never,Mocktails,600,"Earthy, Smoky",None,Yes definitely,800-1 000,3,Yes,4,Points
+25-34,Mumbai,20000.0,Omni,2,2,852.0,Post-work drinks,4,1× week,Cocktails,500,"Earthy, Spicy",Gin,Unlikely,>1 200,3,Yes,4,Free delivery
+35-44,Bengaluru,20605.0,Vegetarian,1,2,1070.0,Post-work drinks,4,Never,Mocktails,500,Spicy,None,Yes definitely,800-1 000,4,Maybe,2,Points
+55+,Hyderabad,108170.0,Keto,5,1,2000.0,Weekend treat,4,1-2× month,Mocktails,600,Smoky,"Gin, Rum",Maybe,<800,5,Maybe,3,Cocktail upgrade
+45-54,Bengaluru,39597.0,Omni,1,3,1819.0,Weekend treat,3,1-2× month,Equal,600,"Earthy, Herbal, Spicy",Gin,Maybe,800-1 000,4,Yes,3,Points
+25-34,Pune,20000.0,Omni,2,2,981.0,Lunch,4,1-2× month,Cocktails,500,"Fruity, Herbal, Spicy",Rum,Maybe,<800,2,Yes,3,Free delivery
+18-24,Pune,21454.0,Omni,0,2,1112.0,"Dinner, Post-work drinks",1,1× week,Mocktails,600,"Citrus, Herbal, Smoky","Rum, Tequila",Yes definitely,1 000-1 200,5,Yes,4,Free delivery
+25-34,Delhi,20000.0,Omni,5,1,1116.0,"Dinner, Lunch",5,1× week,Mocktails,500,"Herbal, Spicy",Whisky,Unlikely,<800,4,No,2,Points
+25-34,Mumbai,20000.0,Omni,4,1,1002.0,Lunch,5,Daily,Mocktails,600,"Citrus, Earthy, Fruity","Gin, Rum",Maybe,1 000-1 200,1,Yes,4,Points
+35-44,Chennai,20000.0,Vegetarian,1,0,1108.0,Lunch,5,Never,Mocktails,400,"Citrus, Smoky",None,Yes definitely,>1 200,3,Maybe,3,Points
+25-34,Chennai,39340.0,Omni,2,2,1775.0,Post-work drinks,5,Never,Mocktails,500,"Citrus, Fruity, Smoky",None,Yes definitely,>1 200,3,No,2,Nutrition consult
+25-34,Mumbai,26052.0,Omni,3,2,1325.0,Weekend treat,2,Never,Mocktails,400,"Earthy, Smoky",None,Yes definitely,1 000-1 200,4,Maybe,4,Free delivery
+35-44,Delhi,78156.0,Omni,6,0,2000.0,Lunch,5,Never,Mocktails,700,"Herbal, Spicy",None,Yes definitely,<800,2,Yes,4,Points
+18-24,Delhi,37177.0,Vegetarian,3,1,1783.0,Dinner,2,1-2× month,Equal,700,"Citrus, Smoky",Whisky,Maybe,<800,3,Yes,4,Points
+45-54,Chennai,37274.0,Vegetarian,3,2,1833.0,Post-work drinks,4,Daily,Equal,600,Spicy,"Tequila, Whisky",Unlikely,800-1 000,2,Yes,4,Points
+25-34,Mumbai,50290.0,Omni,2,2,2000.0,Weekend treat,3,Never,Mocktails,700,"Herbal, Smoky, Spicy",None,Yes definitely,800-1 000,3,Yes,4,Free delivery
+45-54,Delhi,21727.0,Omni,5,3,876.0,Weekend treat,5,2-3× week,Equal,700,Smoky,Whisky,Yes definitely,1 000-1 200,3,Maybe,3,Points
+35-44,Kolkata,47931.0,Omni,2,2,2000.0,Weekend treat,1,1× week,Mocktails,500,Smoky,"Rum, Vodka, Whisky",Unlikely,1 000-1 200,2,Yes,4,Points
+25-34,Delhi,43539.0,Omni,4,2,2000.0,Dinner,5,1× week,Cocktails,600,"Citrus, Earthy, Fruity, Herbal, Spicy","Gin, Tequila, Vodka, Whisky",Maybe,>1 200,5,Maybe,2,Points
+25-34,Bengaluru,27700.0,Vegetarian,2,2,1395.0,Lunch,4,1-2× month,Mocktails,500,"Herbal, Smoky",Whisky,Maybe,800-1 000,4,Yes,3,Free delivery
+35-44,Mumbai,20000.0,Vegan,2,1,1088.0,Weekend treat,4,1-2× month,Mocktails,400,Herbal,Gin,Never,800-1 000,4,Maybe,4,Nutrition consult
+18-24,Kolkata,80000.0,Omni,1,5,2000.0,Weekend treat,3,1-2× month,Cocktails,500,"Earthy, Fruity","Vodka, Whisky",Maybe,>1 200,4,Maybe,2,Points
+45-54,Kolkata,20000.0,Omni,6,3,931.0,Post-work drinks,5,1-2× month,Mocktails,500,"Citrus, Earthy, Herbal, Spicy","Rum, Vodka",Maybe,1 000-1 200,1,Yes,5,Points
+25-34,Chennai,39246.0,Vegetarian,0,1,1844.0,Lunch,4,1-2× month,Equal,500,Herbal,Vodka,Yes definitely,800-1 000,5,Yes,4,Points
+35-44,Bengaluru,21713.0,Omni,6,1,1137.0,Weekend treat,5,2-3× week,Cocktails,600,"Citrus, Smoky, Spicy",Vodka,Yes definitely,800-1 000,3,Maybe,3,Points
+25-34,Bengaluru,23023.0,Vegetarian,7,4,918.0,Lunch,5,2-3× week,Mocktails,600,"Citrus, Fruity",Rum,Unlikely,800-1 000,5,Yes,4,Free delivery
+35-44,Bengaluru,43572.0,Vegetarian,3,1,1870.0,Weekend treat,4,1× week,Cocktails,500,Fruity,Rum,Never,1 000-1 200,5,Yes,4,Points
+25-34,Bengaluru,26726.0,Omni,0,5,1157.0,Dinner,4,1× week,Cocktails,600,"Herbal, Smoky, Spicy","Gin, Tequila",Maybe,1 000-1 200,4,No,1,Free delivery
+25-34,Delhi,24259.0,Omni,0,3,1135.0,"Post-work drinks, Weekend treat",4,Never,Mocktails,500,"Citrus, Smoky",None,Yes definitely,800-1 000,2,Maybe,3,Free delivery
+45-54,Kolkata,39956.0,Keto,2,2,3960.0,Weekend treat,4,2-3× week,Cocktails,500,"Fruity, Smoky, Spicy","Gin, Vodka",Unlikely,1 000-1 200,4,No,1,Free delivery
+25-34,Bengaluru,43482.0,Omni,5,3,2000.0,Post-work drinks,5,2-3× week,Cocktails,600,Earthy,Vodka,Maybe,<800,5,Yes,5,Free delivery
+25-34,Hyderabad,53495.0,Vegetarian,3,2,2000.0,"Dinner, Lunch, Weekend treat",5,1-2× month,Mocktails,500,Citrus,Vodka,Maybe,<800,4,Yes,4,Free delivery
+18-24,Chennai,24991.0,Omni,3,2,1092.0,"Dinner, Post-work drinks",5,Never,Mocktails,500,"Earthy, Herbal",None,Yes definitely,800-1 000,3,Yes,4,Points
+35-44,Delhi,32710.0,Omni,0,1,1327.0,"Dinner, Weekend treat",5,1× week,Cocktails,600,"Herbal, Smoky",Gin,Unlikely,1 000-1 200,5,Yes,4,Points
+25-34,Pune,23173.0,Omni,5,2,1081.0,"Dinner, Post-work drinks",5,Never,Mocktails,500,Fruity,None,Yes definitely,1 000-1 200,3,Yes,4,Points
+25-34,Mumbai,20403.0,Vegetarian,4,1,1134.0,Weekend treat,5,1× week,Cocktails,500,"Citrus, Earthy, Herbal, Spicy","Tequila, Whisky",Never,1 000-1 200,3,Yes,5,Points
+35-44,Delhi,36652.0,Other,1,2,1544.0,"Dinner, Lunch",5,1× week,Equal,600,"Earthy, Smoky",Vodka,Yes definitely,>1 200,5,No,1,Points
+45-54,Mumbai,22610.0,Vegan,3,2,1136.0,Lunch,5,1-2× month,Cocktails,500,"Citrus, Fruity, Smoky, Spicy",Tequila,Maybe,1 000-1 200,5,Maybe,4,Free delivery
+45-54,Mumbai,42147.0,Omni,5,1,1780.0,"Post-work drinks, Weekend treat",2,1-2× month,Mocktails,500,Smoky,"Gin, Tequila, Whisky",Maybe,>1 200,5,Yes,4,Cocktail upgrade
+25-34,Chennai,26610.0,Omni,0,3,1240.0,Dinner,3,1× week,Cocktails,400,"Citrus, Fruity, Smoky, Spicy",Vodka,Maybe,800-1 000,4,Yes,4,Nutrition consult
+18-24,Bengaluru,29365.0,Omni,2,2,1305.0,"Dinner, Lunch, Post-work drinks",5,1× week,Mocktails,500,Fruity,"Gin, Rum, Vodka",Never,1 000-1 200,3,Maybe,4,Free delivery
+35-44,Delhi,20000.0,Vegetarian,0,0,895.0,Dinner,5,Never,Mocktails,400,"Herbal, Smoky, Spicy",None,Yes definitely,800-1 000,4,Yes,3,Points
+25-34,Bengaluru,20000.0,Omni,5,1,1036.0,Post-work drinks,5,2-3× week,Mocktails,500,"Earthy, Fruity",Gin,Unlikely,<800,5,Yes,5,Cocktail upgrade
+25-34,Delhi,77283.0,Keto,0,4,2000.0,Post-work drinks,5,Daily,Equal,500,Earthy,"Tequila, Vodka",Yes definitely,<800,3,Maybe,4,Free delivery
+18-24,Mumbai,27238.0,Omni,1,0,1062.0,Dinner,5,1-2× month,Mocktails,500,Fruity,"Tequila, Whisky",Never,800-1 000,4,Maybe,4,Points
+18-24,Hyderabad,20000.0,Omni,2,0,950.0,Lunch,5,1× week,Cocktails,500,"Herbal, Smoky","Gin, Tequila",Unlikely,1 000-1 200,4,Yes,4,Free delivery
+25-34,Kolkata,24287.0,Vegan,1,1,1230.0,Post-work drinks,5,1× week,Cocktails,500,Herbal,"Vodka, Whisky",Yes definitely,800-1 000,4,Yes,4,Free delivery
+25-34,Pune,41656.0,Vegetarian,5,0,2000.0,Post-work drinks,5,1× week,Mocktails,600,"Citrus, Fruity, Herbal, Spicy",Whisky,Yes definitely,1 000-1 200,4,Yes,4,Points
+35-44,Delhi,24906.0,Omni,3,3,1144.0,"Dinner, Lunch",2,Never,Mocktails,500,Spicy,None,Yes definitely,1 000-1 200,3,Yes,5,Points
+25-34,Chennai,20000.0,Vegetarian,1,1,1003.0,"Lunch, Weekend treat",4,1-2× month,Cocktails,500,"Citrus, Fruity","Gin, Vodka",Maybe,<800,5,Yes,3,Cocktail upgrade
+25-34,Mumbai,43899.0,Omni,6,0,2000.0,Post-work drinks,5,2-3× week,Mocktails,700,"Citrus, Fruity",Vodka,Unlikely,800-1 000,4,Yes,4,Points
+25-34,Kolkata,25062.0,Omni,3,0,1152.0,"Dinner, Weekend treat",5,1-2× month,Cocktails,700,"Herbal, Smoky",Tequila,Yes definitely,800-1 000,1,Yes,4,Points
+35-44,Chennai,102885.0,Omni,1,0,2000.0,"Dinner, Lunch",3,Never,Mocktails,500,Spicy,None,Yes definitely,1 000-1 200,5,Yes,4,Free delivery
+25-34,Mumbai,48538.0,Omni,0,3,2000.0,Dinner,5,1-2× month,Mocktails,500,Spicy,Tequila,Yes definitely,800-1 000,4,No,1,Points
+18-24,Delhi,30343.0,Omni,1,1,1543.0,Weekend treat,4,2-3× week,Avoid all,500,"Citrus, Earthy, Herbal",Vodka,Maybe,1 000-1 200,4,Maybe,3,Cocktail upgrade
+35-44,Mumbai,43970.0,Omni,0,0,2000.0,Lunch,4,1-2× month,Mocktails,500,"Citrus, Earthy, Fruity, Herbal",Whisky,Unlikely,800-1 000,3,Yes,4,Free delivery
+35-44,Chennai,72313.0,Vegetarian,0,5,2000.0,Dinner,5,Never,Mocktails,500,"Fruity, Herbal",None,Yes definitely,<800,3,Maybe,4,Points
+35-44,Mumbai,47449.0,Omni,0,4,1957.0,Lunch,5,1-2× month,Mocktails,600,"Earthy, Fruity, Herbal","Rum, Tequila",Maybe,<800,5,Yes,3,Free delivery
+25-34,Mumbai,40715.0,Omni,7,4,1842.0,Post-work drinks,5,Never,Mocktails,600,"Citrus, Herbal, Spicy",None,Yes definitely,1 000-1 200,5,Yes,5,Points
+35-44,Bengaluru,29463.0,Omni,3,1,1380.0,Weekend treat,4,1× week,Equal,500,"Earthy, Spicy",Gin,Unlikely,<800,3,Maybe,2,Free delivery
+25-34,Bengaluru,40722.0,Vegetarian,1,5,1842.0,"Dinner, Lunch",5,Never,Mocktails,400,Smoky,None,Yes definitely,1 000-1 200,4,Maybe,3,Points
+18-24,Kolkata,42004.0,Other,3,2,1808.0,Dinner,4,1-2× month,Cocktails,600,"Citrus, Fruity","Rum, Whisky",Unlikely,1 000-1 200,3,Yes,5,Nutrition consult
+35-44,Delhi,42256.0,Vegan,5,5,1799.0,Dinner,4,1× week,Cocktails,500,"Citrus, Smoky","Gin, Rum, Whisky",Unlikely,800-1 000,4,Maybe,4,Points
+45-54,Bengaluru,28644.0,Omni,0,4,1266.0,"Dinner, Weekend treat",4,2-3× week,Equal,600,"Fruity, Smoky",Tequila,Yes definitely,800-1 000,3,No,1,Free delivery
+18-24,Hyderabad,58760.0,Vegetarian,1,2,2000.0,Post-work drinks,4,2-3× week,Cocktails,600,"Citrus, Smoky","Gin, Rum",Unlikely,1 000-1 200,3,Yes,5,Nutrition consult
+35-44,Mumbai,45678.0,Vegan,0,0,2000.0,Post-work drinks,4,Never,Mocktails,500,Spicy,None,Yes definitely,>1 200,4,Maybe,2,Points
+45-54,Mumbai,20000.0,Keto,0,1,1219.0,Lunch,1,1-2× month,Cocktails,600,"Citrus, Earthy, Fruity, Smoky",Whisky,Maybe,1 000-1 200,4,Yes,4,Cocktail upgrade
+35-44,Mumbai,20000.0,Omni,3,4,967.0,Dinner,5,2-3× week,Cocktails,400,"Herbal, Smoky",Vodka,Unlikely,800-1 000,3,Yes,4,Points
+35-44,Delhi,20000.0,Omni,4,3,949.0,"Dinner, Lunch, Post-work drinks",5,Never,Mocktails,500,Citrus,None,Yes definitely,1 000-1 200,4,Maybe,3,Free delivery
+35-44,Mumbai,20000.0,Omni,5,4,976.0,Lunch,5,1-2× month,Mocktails,500,Smoky,"Gin, Rum",Never,>1 200,4,Yes,4,Points
+25-34,Bengaluru,24260.0,Vegan,5,4,1186.0,"Dinner, Post-work drinks, Weekend treat",5,Never,Mocktails,500,"Earthy, Herbal",None,Yes definitely,800-1 000,3,Maybe,4,Points
+35-44,Chennai,32347.0,Keto,1,2,1550.0,"Dinner, Post-work drinks",1,Never,Mocktails,500,"Earthy, Fruity, Smoky",None,Yes definitely,<800,3,Yes,3,Nutrition consult
+18-24,Pune,31743.0,Vegetarian,0,6,1546.0,"Lunch, Post-work drinks, Weekend treat",5,2-3× week,Mocktails,500,"Citrus, Fruity, Herbal",Tequila,Unlikely,800-1 000,4,Yes,5,Points
+35-44,Hyderabad,24439.0,Keto,1,2,1314.0,"Dinner, Post-work drinks",4,1-2× month,Equal,500,Fruity,"Gin, Vodka",Maybe,800-1 000,1,Maybe,2,Nutrition consult
+35-44,Bengaluru,35595.0,Omni,7,1,1739.0,Post-work drinks,4,1-2× month,Cocktails,700,"Earthy, Herbal","Rum, Whisky",Maybe,1 000-1 200,4,Yes,3,Points
+35-44,Mumbai,20000.0,Omni,5,2,954.0,"Dinner, Post-work drinks",5,1× week,Equal,500,"Herbal, Smoky",Tequila,Yes definitely,>1 200,4,No,1,Free delivery
+25-34,Delhi,20180.0,Omni,3,2,934.0,Post-work drinks,2,Never,Mocktails,400,"Fruity, Smoky",None,Yes definitely,1 000-1 200,2,Maybe,2,Nutrition consult
+18-24,Kolkata,52317.0,Vegetarian,3,6,2000.0,Lunch,3,1× week,Mocktails,400,"Fruity, Smoky","Rum, Tequila",Yes definitely,<800,4,Maybe,2,Cocktail upgrade
+25-34,Hyderabad,39062.0,Omni,5,1,1829.0,Weekend treat,5,Never,Mocktails,500,"Citrus, Spicy",None,Yes definitely,<800,5,Yes,4,Cocktail upgrade
+25-34,Hyderabad,20000.0,Keto,0,1,943.0,Post-work drinks,4,1-2× month,Mocktails,500,"Fruity, Spicy","Gin, Vodka",Yes definitely,1 000-1 200,3,Yes,3,Points
+35-44,Hyderabad,20000.0,Omni,3,2,938.0,"Lunch, Post-work drinks",5,2-3× week,Cocktails,400,Fruity,Tequila,Maybe,800-1 000,1,No,2,Nutrition consult
+18-24,Mumbai,20000.0,Omni,1,0,1008.0,Weekend treat,3,2-3× week,Cocktails,400,"Citrus, Fruity, Spicy",Whisky,Maybe,>1 200,4,Yes,4,Points
+25-34,Bengaluru,124882.0,Vegetarian,7,1,2000.0,Weekend treat,2,1× week,Equal,600,"Fruity, Herbal, Smoky, Spicy",Gin,Yes definitely,800-1 000,4,Yes,5,Points
+35-44,Delhi,20112.0,Omni,0,2,1082.0,"Dinner, Lunch, Post-work drinks",4,1-2× month,Avoid all,400,Earthy,"Gin, Tequila",Unlikely,>1 200,1,No,1,Cocktail upgrade
+18-24,Hyderabad,48747.0,Omni,3,3,2000.0,"Dinner, Post-work drinks",5,2-3× week,Equal,400,Earthy,Tequila,Maybe,800-1 000,3,Yes,4,Free delivery
+45-54,Bengaluru,49450.0,Omni,2,1,2000.0,Lunch,4,2-3× week,Equal,400,Herbal,Whisky,Yes definitely,800-1 000,2,Maybe,3,Points
+35-44,Bengaluru,21296.0,Vegan,6,2,1039.0,"Dinner, Lunch, Weekend treat",3,Daily,Cocktails,600,Smoky,"Rum, Whisky",Never,800-1 000,5,Yes,5,Free delivery
+35-44,Bengaluru,20000.0,Vegetarian,0,2,988.0,Weekend treat,3,2-3× week,Cocktails,500,"Citrus, Fruity, Spicy","Rum, Whisky",Yes definitely,800-1 000,3,Yes,5,Free delivery
+35-44,Mumbai,20000.0,Omni,1,4,1079.0,Dinner,2,1× week,Cocktails,600,Spicy,Tequila,Never,800-1 000,4,No,1,Nutrition consult
+18-24,Kolkata,20000.0,Vegetarian,1,0,989.0,Lunch,5,2-3× week,Equal,700,"Citrus, Earthy, Fruity","Rum, Vodka",Unlikely,<800,4,Maybe,3,Points
+45-54,Bengaluru,28416.0,Omni,0,2,1336.0,"Dinner, Post-work drinks, Weekend treat",5,1× week,Equal,600,Herbal,Whisky,Maybe,>1 200,5,Yes,3,Cocktail upgrade
+45-54,Bengaluru,38331.0,Omni,4,2,1941.0,"Dinner, Weekend treat",5,1-2× month,Mocktails,400,"Earthy, Smoky, Spicy","Gin, Tequila",Maybe,800-1 000,3,No,1,Points
+18-24,Chennai,20000.0,Omni,6,2,1074.0,"Lunch, Post-work drinks, Weekend treat",5,Never,Mocktails,500,"Herbal, Smoky",None,Yes definitely,1 000-1 200,3,Yes,4,Cocktail upgrade
+25-34,Kolkata,21206.0,Keto,1,1,1267.0,"Dinner, Post-work drinks",4,1-2× month,Cocktails,600,Spicy,"Rum, Tequila",Unlikely,>1 200,5,Yes,5,Points
+55+,Chennai,20000.0,Omni,0,2,973.0,Weekend treat,4,1-2× month,Avoid all,600,Spicy,"Gin, Tequila, Vodka, Whisky",Yes definitely,800-1 000,4,Maybe,3,Cocktail upgrade
+35-44,Mumbai,20227.0,Omni,0,2,1181.0,"Lunch, Post-work drinks, Weekend treat",4,1-2× month,Mocktails,600,"Earthy, Herbal, Smoky",Whisky,Yes definitely,<800,5,Yes,5,Free delivery
+18-24,Mumbai,31922.0,Omni,2,2,1376.0,Post-work drinks,3,Never,Mocktails,400,Herbal,None,Yes definitely,<800,5,Yes,5,Points
+35-44,Delhi,29243.0,Omni,2,2,2535.0,Lunch,4,1× week,Mocktails,600,Earthy,Whisky,Unlikely,1 000-1 200,5,No,2,Points
+18-24,Kolkata,28873.0,Omni,1,0,1296.0,Dinner,4,1-2× month,Cocktails,600,Smoky,Whisky,Unlikely,1 000-1 200,5,Yes,5,Free delivery
+25-34,Delhi,72707.0,Vegetarian,2,0,2000.0,"Dinner, Weekend treat",5,1-2× month,Avoid all,400,"Fruity, Spicy",Tequila,Never,<800,3,Yes,5,Cocktail upgrade
+25-34,Hyderabad,20695.0,Omni,6,3,1109.0,Lunch,5,2-3× week,Cocktails,600,"Citrus, Fruity, Spicy",Tequila,Maybe,>1 200,4,Maybe,3,Cocktail upgrade
+35-44,Mumbai,37091.0,Omni,1,4,1812.0,Dinner,5,1× week,Mocktails,400,"Citrus, Spicy",Gin,Maybe,800-1 000,3,Maybe,3,Points
+45-54,Chennai,28549.0,Vegetarian,0,1,1451.0,"Dinner, Post-work drinks",4,1-2× month,Equal,600,"Earthy, Fruity, Herbal, Smoky","Gin, Tequila, Vodka",Yes definitely,800-1 000,4,Yes,4,Nutrition consult
+35-44,Bengaluru,28793.0,Vegetarian,4,1,1206.0,"Dinner, Post-work drinks",5,1-2× month,Avoid all,500,Herbal,Whisky,Unlikely,1 000-1 200,3,Maybe,3,Free delivery
+18-24,Kolkata,34331.0,Vegan,5,2,1591.0,Weekend treat,5,2-3× week,Cocktails,500,"Earthy, Smoky",Whisky,Maybe,1 000-1 200,4,Yes,5,Free delivery
+18-24,Mumbai,20000.0,Keto,0,1,1030.0,Dinner,3,Never,Mocktails,600,Smoky,None,Yes definitely,>1 200,4,Yes,4,Free delivery
+35-44,Bengaluru,21587.0,Omni,4,1,880.0,"Dinner, Lunch",5,Never,Mocktails,700,"Fruity, Herbal, Spicy",None,Yes definitely,800-1 000,5,Maybe,3,Points
+18-24,Bengaluru,29835.0,Vegetarian,2,2,1308.0,Lunch,2,1× week,Cocktails,700,"Citrus, Earthy, Fruity","Gin, Rum, Tequila, Vodka, Whisky",Unlikely,>1 200,1,Yes,3,Nutrition consult
+25-34,Bengaluru,32393.0,Omni,1,2,1563.0,Dinner,3,1× week,Cocktails,600,Spicy,"Gin, Whisky",Unlikely,1 000-1 200,4,Yes,5,Free delivery
+18-24,Chennai,29257.0,Omni,2,4,1215.0,Lunch,5,1-2× month,Cocktails,500,Earthy,Tequila,Maybe,1 000-1 200,4,Yes,4,Points
+35-44,Mumbai,65980.0,Omni,4,2,2000.0,Post-work drinks,5,1-2× month,Mocktails,500,Fruity,Vodka,Maybe,1 000-1 200,4,Yes,4,Nutrition consult
+35-44,Mumbai,26949.0,Keto,3,3,1336.0,"Dinner, Post-work drinks, Weekend treat",2,Never,Mocktails,400,Spicy,None,Yes definitely,1 000-1 200,4,Maybe,4,Free delivery
+25-34,Delhi,52736.0,Omni,1,4,2000.0,"Dinner, Lunch, Post-work drinks",2,2-3× week,Avoid all,400,Citrus,Rum,Maybe,800-1 000,5,Maybe,4,Cocktail upgrade
+35-44,Bengaluru,32294.0,Omni,1,2,1556.0,Dinner,2,2-3× week,Cocktails,600,"Earthy, Fruity, Herbal",Vodka,Maybe,<800,5,No,1,Points
+25-34,Bengaluru,28046.0,Keto,3,2,1369.0,Lunch,5,1-2× month,Equal,500,"Citrus, Fruity",Gin,Yes definitely,>1 200,4,No,1,Points
+35-44,Chennai,34379.0,Vegetarian,0,3,1403.0,Post-work drinks,4,2-3× week,Cocktails,400,"Citrus, Earthy, Fruity",Vodka,Maybe,<800,5,Yes,5,Free delivery
+35-44,Hyderabad,34930.0,Omni,2,2,1572.0,Post-work drinks,2,2-3× week,Cocktails,400,Herbal,"Gin, Tequila",Maybe,1 000-1 200,4,Maybe,2,Free delivery
+45-54,Mumbai,21164.0,Vegetarian,0,0,1151.0,Post-work drinks,3,Never,Mocktails,500,"Earthy, Herbal, Spicy",None,Yes definitely,1 000-1 200,4,Maybe,3,Points
+25-34,Kolkata,20000.0,Keto,5,0,1058.0,Lunch,3,1-2× month,Mocktails,500,Fruity,Gin,Unlikely,1 000-1 200,4,Yes,5,Points
+25-34,Kolkata,22320.0,Omni,4,1,2378.0,Post-work drinks,4,2-3× week,Cocktails,400,"Citrus, Fruity",Tequila,Yes definitely,1 000-1 200,4,Yes,4,Free delivery
+45-54,Mumbai,20000.0,Omni,5,3,1071.0,"Post-work drinks, Weekend treat",5,1× week,Mocktails,600,Spicy,Tequila,Maybe,1 000-1 200,4,Yes,5,Points
+35-44,Mumbai,36665.0,Omni,3,3,1653.0,"Lunch, Weekend treat",4,2-3× week,Equal,500,Citrus,"Vodka, Whisky",Maybe,1 000-1 200,4,No,1,Free delivery
+18-24,Kolkata,50534.0,Vegetarian,5,2,2000.0,"Dinner, Post-work drinks",5,1-2× month,Equal,600,"Earthy, Herbal",Gin,Maybe,1 000-1 200,4,Yes,4,Cocktail upgrade
+35-44,Kolkata,20000.0,Omni,3,5,1138.0,Lunch,3,2-3× week,Equal,600,Citrus,Tequila,Never,800-1 000,5,Maybe,4,Points
+25-34,Mumbai,54145.0,Omni,1,0,2000.0,Post-work drinks,4,1× week,Equal,700,Earthy,"Gin, Vodka",Maybe,800-1 000,5,Maybe,3,Nutrition consult
+25-34,Chennai,101192.0,Omni,0,0,2000.0,"Dinner, Lunch, Post-work drinks, Weekend treat",3,1× week,Equal,700,Spicy,"Vodka, Whisky",Maybe,1 000-1 200,5,Yes,5,Cocktail upgrade
+35-44,Mumbai,28707.0,Omni,1,4,1138.0,"Dinner, Lunch, Post-work drinks",4,Never,Mocktails,500,"Citrus, Earthy",None,Yes definitely,1 000-1 200,4,Yes,3,Points
+25-34,Hyderabad,20000.0,Keto,2,2,1152.0,Lunch,5,2-3× week,Equal,400,"Fruity, Spicy",Gin,Maybe,1 000-1 200,3,Maybe,3,Free delivery
+45-54,Chennai,56408.0,Omni,4,2,2000.0,Post-work drinks,4,1× week,Mocktails,500,Earthy,"Rum, Tequila, Whisky",Yes definitely,800-1 000,4,No,2,Points
+35-44,Mumbai,59196.0,Omni,4,4,2000.0,"Lunch, Weekend treat",5,1-2× month,Equal,600,Citrus,Whisky,Maybe,800-1 000,5,Maybe,3,Nutrition consult
+55+,Chennai,22019.0,Omni,5,3,1283.0,"Dinner, Lunch, Post-work drinks",2,1× week,Cocktails,500,Earthy,"Vodka, Whisky",Unlikely,800-1 000,5,Yes,4,Points
+35-44,Chennai,33527.0,Omni,0,2,1340.0,Dinner,2,2-3× week,Equal,700,"Earthy, Fruity, Spicy","Rum, Vodka",Unlikely,>1 200,4,Maybe,3,Nutrition consult
+45-54,Chennai,70968.0,Other,0,2,2000.0,"Lunch, Weekend treat",3,1× week,Mocktails,400,"Citrus, Herbal","Rum, Vodka",Yes definitely,1 000-1 200,3,Yes,5,Cocktail upgrade
+25-34,Delhi,58753.0,Keto,6,2,2000.0,"Dinner, Weekend treat",4,Never,Mocktails,500,Fruity,None,Yes definitely,<800,5,Maybe,4,Points
+35-44,Delhi,20000.0,Omni,4,4,990.0,Lunch,5,1-2× month,Equal,700,Citrus,"Tequila, Vodka",Maybe,800-1 000,5,Maybe,3,Points
+25-34,Kolkata,20000.0,Omni,5,0,970.0,Weekend treat,5,Never,Mocktails,600,Herbal,None,Yes definitely,1 000-1 200,4,Yes,5,Cocktail upgrade
+45-54,Delhi,42395.0,Omni,1,1,1870.0,Dinner,4,1-2× month,Equal,600,Fruity,"Tequila, Vodka",Unlikely,800-1 000,5,Yes,3,Free delivery
+18-24,Delhi,40286.0,Vegan,4,1,1658.0,Post-work drinks,4,Daily,Cocktails,600,"Fruity, Herbal",Gin,Yes definitely,>1 200,4,Yes,5,Points
+35-44,Mumbai,26557.0,Omni,3,1,1235.0,Dinner,4,Never,Mocktails,500,"Herbal, Spicy",None,Yes definitely,<800,1,Yes,5,Free delivery
+18-24,Bengaluru,37979.0,Keto,4,2,1714.0,Dinner,5,1-2× month,Equal,600,"Citrus, Spicy","Gin, Rum, Whisky",Maybe,800-1 000,1,No,1,Cocktail upgrade
+18-24,Kolkata,20000.0,Vegetarian,1,0,1051.0,Lunch,5,1-2× month,Cocktails,400,"Citrus, Smoky",Tequila,Maybe,>1 200,4,No,1,Cocktail upgrade
+25-34,Mumbai,38828.0,Vegetarian,0,0,1599.0,Post-work drinks,5,1× week,Mocktails,600,"Earthy, Spicy",Tequila,Maybe,1 000-1 200,4,Yes,5,Points
+45-54,Pune,40337.0,Omni,6,2,1750.0,Post-work drinks,5,1-2× month,Cocktails,500,"Citrus, Smoky",Gin,Maybe,1 000-1 200,4,Maybe,3,Cocktail upgrade
+55+,Delhi,51122.0,Vegetarian,1,3,2000.0,"Lunch, Weekend treat",5,1-2× month,Mocktails,400,Earthy,Whisky,Maybe,>1 200,4,Maybe,2,Points
+25-34,Mumbai,20000.0,Omni,1,1,986.0,Weekend treat,5,1-2× month,Equal,500,Earthy,Tequila,Unlikely,800-1 000,5,Maybe,3,Nutrition consult
+18-24,Bengaluru,35209.0,Other,2,3,1490.0,Lunch,4,1-2× month,Equal,600,"Fruity, Smoky",Tequila,Unlikely,800-1 000,4,Yes,4,Cocktail upgrade
+25-34,Mumbai,23852.0,Vegetarian,0,1,2357.0,"Lunch, Post-work drinks",5,Never,Mocktails,500,"Citrus, Herbal, Smoky",None,Yes definitely,800-1 000,5,No,2,Points
+35-44,Mumbai,33535.0,Omni,5,0,2925.0,Dinner,4,Daily,Cocktails,600,"Earthy, Smoky, Spicy","Gin, Rum, Tequila",Yes definitely,1 000-1 200,5,Yes,5,Points
+25-34,Mumbai,20000.0,Omni,4,2,895.0,"Dinner, Post-work drinks",5,1-2× month,Cocktails,600,"Fruity, Spicy",Gin,Maybe,1 000-1 200,2,Yes,4,Cocktail upgrade
+35-44,Delhi,52525.0,Keto,0,1,2000.0,Post-work drinks,4,Never,Mocktails,500,"Earthy, Herbal, Smoky, Spicy",None,Yes definitely,>1 200,4,Maybe,3,Nutrition consult
+45-54,Hyderabad,28726.0,Vegetarian,0,4,1276.0,Post-work drinks,4,1× week,Avoid all,400,Citrus,Vodka,Never,<800,4,No,1,Nutrition consult
+35-44,Mumbai,25700.0,Omni,1,2,1366.0,Weekend treat,5,1× week,Avoid all,500,Fruity,Gin,Unlikely,1 000-1 200,5,No,2,Free delivery
+45-54,Delhi,36852.0,Omni,4,1,1636.0,Weekend treat,2,1-2× month,Cocktails,600,"Earthy, Herbal, Spicy",Rum,Maybe,800-1 000,2,Yes,5,Cocktail upgrade
+35-44,Kolkata,22873.0,Keto,3,2,1069.0,Post-work drinks,5,1-2× month,Cocktails,600,Earthy,"Vodka, Whisky",Unlikely,1 000-1 200,5,Yes,4,Points
+18-24,Mumbai,20000.0,Vegan,6,2,1157.0,Post-work drinks,5,2-3× week,Cocktails,400,"Earthy, Herbal, Smoky",Rum,Yes definitely,800-1 000,5,Yes,4,Nutrition consult
+25-34,Mumbai,20000.0,Omni,0,0,1039.0,Post-work drinks,2,1× week,Mocktails,500,Earthy,Tequila,Maybe,>1 200,5,Maybe,3,Points
+35-44,Bengaluru,29549.0,Vegan,2,3,1378.0,Dinner,3,Never,Mocktails,500,"Citrus, Earthy, Fruity, Smoky, Spicy",None,Yes definitely,800-1 000,1,Maybe,3,Free delivery
+45-54,Hyderabad,20000.0,Vegan,7,2,908.0,Dinner,5,2-3× week,Cocktails,500,Smoky,"Tequila, Whisky",Unlikely,1 000-1 200,1,Yes,3,Free delivery
+18-24,Delhi,38800.0,Omni,0,1,1980.0,Dinner,4,1-2× month,Equal,500,"Fruity, Smoky","Gin, Vodka, Whisky",Yes definitely,1 000-1 200,4,Maybe,3,Cocktail upgrade
+25-34,Delhi,41360.0,Keto,0,0,1848.0,Post-work drinks,4,Never,Mocktails,500,Smoky,None,Yes definitely,<800,4,No,1,Cocktail upgrade
+18-24,Hyderabad,20000.0,Omni,0,3,959.0,"Lunch, Weekend treat",3,1-2× month,Cocktails,600,"Citrus, Earthy",Rum,Maybe,1 000-1 200,4,Yes,3,Free delivery
+35-44,Mumbai,23487.0,Omni,3,2,947.0,"Dinner, Weekend treat",5,1× week,Cocktails,500,Smoky,Tequila,Maybe,800-1 000,5,Maybe,2,Free delivery
+18-24,Bengaluru,34102.0,Omni,1,2,1629.0,"Post-work drinks, Weekend treat",5,2-3× week,Equal,500,"Herbal, Smoky",Whisky,Unlikely,<800,4,Yes,4,Free delivery
+18-24,Mumbai,20000.0,Other,1,0,929.0,Post-work drinks,4,2-3× week,Mocktails,500,Smoky,Whisky,Maybe,1 000-1 200,5,Maybe,4,Points
+35-44,Kolkata,25109.0,Vegan,0,2,1071.0,Dinner,3,1-2× month,Cocktails,500,Earthy,Vodka,Maybe,>1 200,5,Yes,5,Free delivery
+55+,Pune,21017.0,Omni,2,2,1000.0,"Dinner, Lunch, Post-work drinks, Weekend treat",3,1× week,Cocktails,700,"Smoky, Spicy","Rum, Whisky",Unlikely,800-1 000,5,Maybe,3,Free delivery
+18-24,Bengaluru,37683.0,Keto,2,0,1775.0,"Dinner, Lunch, Post-work drinks",4,1× week,Cocktails,400,"Citrus, Smoky",Tequila,Yes definitely,1 000-1 200,5,Maybe,2,Cocktail upgrade
+25-34,Pune,37612.0,Keto,4,2,1671.0,Dinner,3,1× week,Cocktails,600,Smoky,"Gin, Tequila",Unlikely,>1 200,1,Maybe,4,Free delivery
+18-24,Hyderabad,20000.0,Vegetarian,5,4,900.0,"Lunch, Weekend treat",5,1-2× month,Mocktails,600,Fruity,Vodka,Maybe,800-1 000,3,Yes,5,Free delivery
+25-34,Delhi,21593.0,Omni,2,1,1079.0,Post-work drinks,3,Never,Mocktails,600,"Earthy, Smoky",None,Yes definitely,1 000-1 200,3,Yes,5,Nutrition consult
+35-44,Chennai,20000.0,Omni,6,2,917.0,Post-work drinks,4,2-3× week,Equal,700,"Fruity, Smoky, Spicy",Rum,Unlikely,>1 200,3,Maybe,2,Cocktail upgrade
+25-34,Kolkata,20000.0,Vegetarian,2,0,979.0,Weekend treat,3,1-2× month,Cocktails,600,"Citrus, Earthy","Rum, Tequila",Maybe,<800,4,Yes,3,Cocktail upgrade
+35-44,Delhi,32961.0,Vegetarian,7,0,1348.0,"Lunch, Post-work drinks",2,1× week,Equal,600,Citrus,Whisky,Unlikely,>1 200,4,No,1,Free delivery
+25-34,Bengaluru,43240.0,Omni,1,1,1847.0,"Dinner, Weekend treat",5,Never,Mocktails,600,Citrus,None,Yes definitely,800-1 000,5,Yes,4,Points
+18-24,Delhi,20000.0,Omni,4,5,1063.0,Dinner,3,Never,Mocktails,700,Spicy,None,Yes definitely,<800,5,Yes,5,Points
+35-44,Mumbai,41266.0,Omni,6,1,1777.0,Dinner,5,1-2× month,Avoid all,700,Smoky,Tequila,Maybe,>1 200,5,Maybe,2,Free delivery
+18-24,Delhi,49411.0,Other,2,0,2000.0,Weekend treat,5,1× week,Cocktails,500,"Herbal, Spicy",Gin,Maybe,800-1 000,5,Maybe,3,Cocktail upgrade
+25-34,Mumbai,20000.0,Vegan,2,3,1130.0,"Post-work drinks, Weekend treat",2,1-2× month,Avoid all,600,"Earthy, Herbal",Vodka,Yes definitely,800-1 000,4,No,1,Cocktail upgrade
+25-34,Mumbai,37313.0,Vegetarian,2,2,1701.0,Post-work drinks,5,1-2× month,Cocktails,700,"Citrus, Fruity",Tequila,Unlikely,800-1 000,4,Yes,3,Cocktail upgrade
+18-24,Bengaluru,74334.0,Omni,0,0,2000.0,"Dinner, Post-work drinks, Weekend treat",3,1× week,Mocktails,600,"Citrus, Fruity, Herbal",Whisky,Maybe,800-1 000,3,Yes,5,Free delivery
+45-54,Chennai,20000.0,Omni,7,2,1172.0,"Dinner, Weekend treat",5,2-3× week,Equal,500,Earthy,Tequila,Maybe,800-1 000,2,Maybe,4,Free delivery
+25-34,Kolkata,38917.0,Omni,2,2,1831.0,Dinner,5,1-2× month,Equal,500,"Citrus, Fruity",Tequila,Never,1 000-1 200,4,Maybe,2,Free delivery
+25-34,Chennai,20000.0,Vegan,3,5,1023.0,"Dinner, Weekend treat",5,Never,Mocktails,500,Smoky,None,Yes definitely,1 000-1 200,1,Yes,3,Points
+18-24,Hyderabad,80000.0,Omni,0,1,2000.0,"Dinner, Lunch, Post-work drinks, Weekend treat",3,1-2× month,Mocktails,500,"Earthy, Spicy",Whisky,Yes definitely,800-1 000,4,No,1,Points
+45-54,Mumbai,24614.0,Vegetarian,2,0,1191.0,"Lunch, Post-work drinks, Weekend treat",3,2-3× week,Mocktails,500,Earthy,Gin,Yes definitely,1 000-1 200,5,Maybe,3,Free delivery
+45-54,Hyderabad,20443.0,Vegan,0,1,830.0,Dinner,5,1-2× month,Equal,400,"Citrus, Herbal","Gin, Rum",Unlikely,<800,1,No,1,Points
+25-34,Pune,21003.0,Vegetarian,0,1,750.0,Dinner,2,Never,Mocktails,500,"Citrus, Earthy",None,Yes definitely,1 000-1 200,5,Yes,4,Free delivery
+35-44,Pune,23879.0,Omni,7,2,1126.0,Weekend treat,5,1-2× month,Avoid all,400,"Citrus, Fruity","Rum, Tequila",Yes definitely,>1 200,5,Yes,3,Free delivery
+55+,Hyderabad,39402.0,Omni,4,2,1846.0,"Lunch, Weekend treat",5,1× week,Mocktails,600,"Citrus, Earthy, Fruity, Herbal",Tequila,Never,800-1 000,5,Yes,5,Points
+35-44,Mumbai,29819.0,Omni,1,3,1432.0,Dinner,4,1× week,Cocktails,500,"Citrus, Earthy, Smoky",Gin,Never,800-1 000,4,Yes,5,Free delivery
+18-24,Delhi,29437.0,Omni,1,4,1374.0,"Post-work drinks, Weekend treat",4,1× week,Cocktails,500,"Herbal, Smoky, Spicy","Rum, Tequila, Vodka, Whisky",Never,1 000-1 200,4,Maybe,2,Cocktail upgrade
+18-24,Chennai,63376.0,Omni,1,3,2000.0,Lunch,3,1-2× month,Cocktails,400,"Earthy, Herbal, Spicy",Tequila,Never,800-1 000,5,Yes,4,Nutrition consult
+18-24,Pune,34544.0,Other,5,4,1459.0,Post-work drinks,5,Never,Mocktails,500,"Earthy, Herbal, Spicy",None,Yes definitely,1 000-1 200,5,Yes,4,Nutrition consult
+25-34,Kolkata,33867.0,Omni,0,2,1505.0,"Dinner, Post-work drinks",5,1-2× month,Cocktails,500,"Fruity, Herbal, Spicy","Gin, Rum, Tequila",Yes definitely,1 000-1 200,5,Yes,4,Points
+18-24,Hyderabad,31417.0,Omni,1,4,1427.0,"Lunch, Post-work drinks",2,1-2× month,Cocktails,500,Fruity,"Rum, Tequila, Whisky",Never,1 000-1 200,2,Maybe,4,Points
+25-34,Bengaluru,20000.0,Vegetarian,2,5,979.0,Dinner,3,1× week,Equal,600,"Earthy, Fruity, Herbal",Vodka,Unlikely,1 000-1 200,4,Maybe,3,Nutrition consult
+25-34,Delhi,23211.0,Other,0,0,1164.0,Post-work drinks,2,1× week,Equal,500,Citrus,"Gin, Tequila, Vodka",Never,800-1 000,3,Yes,4,Points
+25-34,Hyderabad,29335.0,Omni,6,2,1471.0,Weekend treat,5,Never,Mocktails,500,Fruity,None,Yes definitely,1 000-1 200,4,No,1,Points
+55+,Hyderabad,40201.0,Vegetarian,0,3,1771.0,Post-work drinks,4,Never,Mocktails,500,"Citrus, Earthy",None,Yes definitely,1 000-1 200,4,Yes,3,Nutrition consult
+25-34,Mumbai,20943.0,Vegetarian,3,3,1002.0,Post-work drinks,5,1-2× month,Cocktails,600,Spicy,Whisky,Maybe,800-1 000,4,Yes,3,Free delivery
+18-24,Chennai,20625.0,Omni,0,3,894.0,Lunch,5,Never,Mocktails,500,Earthy,None,Yes definitely,<800,2,No,2,Cocktail upgrade
+35-44,Mumbai,36024.0,Omni,7,2,1534.0,Weekend treat,5,Never,Mocktails,600,"Citrus, Earthy, Fruity, Herbal, Spicy",None,Yes definitely,800-1 000,5,Yes,4,Points
+55+,Delhi,20000.0,Vegan,3,1,1014.0,Post-work drinks,1,1× week,Cocktails,400,"Citrus, Spicy",Whisky,Maybe,800-1 000,3,Maybe,3,Points
+35-44,Chennai,22032.0,Omni,1,5,1060.0,Post-work drinks,3,1-2× month,Cocktails,600,Fruity,"Tequila, Vodka",Unlikely,1 000-1 200,5,Yes,3,Points
+25-34,Hyderabad,43224.0,Vegetarian,4,1,1960.0,Dinner,5,2-3× week,Cocktails,600,"Herbal, Smoky, Spicy",Vodka,Unlikely,<800,4,Yes,5,Free delivery
+25-34,Delhi,27602.0,Omni,0,3,1252.0,Weekend treat,5,1× week,Equal,500,Fruity,Rum,Maybe,800-1 000,5,No,2,Points
+25-34,Mumbai,70314.0,Vegetarian,1,2,2000.0,"Dinner, Post-work drinks, Weekend treat",4,1-2× month,Equal,500,Herbal,Rum,Maybe,>1 200,5,No,1,Free delivery
+45-54,Hyderabad,33374.0,Vegetarian,5,4,1432.0,Lunch,4,1-2× month,Cocktails,500,Citrus,Rum,Never,1 000-1 200,5,Yes,3,Nutrition consult
+18-24,Chennai,22061.0,Vegetarian,1,2,1210.0,"Dinner, Post-work drinks, Weekend treat",5,Daily,Cocktails,500,"Citrus, Herbal, Spicy","Rum, Tequila, Whisky",Yes definitely,800-1 000,5,No,1,Points
+25-34,Mumbai,59189.0,Omni,3,2,2000.0,Lunch,5,1-2× month,Cocktails,600,Herbal,"Gin, Tequila",Unlikely,800-1 000,2,Yes,3,Points
+35-44,Delhi,41355.0,Omni,4,3,1938.0,Lunch,5,Never,Mocktails,500,Smoky,None,Yes definitely,>1 200,4,Yes,4,Nutrition consult
+25-34,Kolkata,40986.0,Omni,5,4,1987.0,Lunch,4,1-2× month,Cocktails,600,"Citrus, Herbal, Smoky",Rum,Unlikely,<800,5,Yes,5,Free delivery
+18-24,Hyderabad,20000.0,Omni,0,3,1014.0,Dinner,5,Never,Mocktails,500,Fruity,None,Yes definitely,<800,5,No,2,Cocktail upgrade
+25-34,Delhi,20000.0,Vegetarian,0,1,890.0,"Lunch, Weekend treat",4,Never,Mocktails,500,"Citrus, Smoky",None,Yes definitely,>1 200,5,Maybe,3,Cocktail upgrade
+25-34,Mumbai,20000.0,Omni,0,0,1055.0,"Dinner, Lunch",3,Never,Mocktails,600,Spicy,None,Yes definitely,1 000-1 200,4,No,1,Points
+25-34,Hyderabad,31273.0,Vegetarian,6,1,1608.0,Dinner,5,1× week,Mocktails,400,"Citrus, Fruity",Vodka,Maybe,1 000-1 200,4,Yes,5,Nutrition consult
+45-54,Mumbai,31350.0,Vegetarian,0,6,1291.0,Post-work drinks,4,1-2× month,Cocktails,400,"Citrus, Spicy","Vodka, Whisky",Unlikely,>1 200,4,No,2,Points
+25-34,Mumbai,23048.0,Vegan,5,1,1134.0,"Lunch, Post-work drinks, Weekend treat",5,1-2× month,Mocktails,500,Fruity,"Rum, Vodka",Maybe,800-1 000,2,Yes,3,Points
+25-34,Mumbai,20000.0,Vegetarian,6,0,1016.0,"Dinner, Weekend treat",5,Never,Mocktails,500,"Citrus, Herbal, Smoky, Spicy",None,Yes definitely,<800,4,Yes,4,Nutrition consult
+45-54,Delhi,20000.0,Vegan,2,2,917.0,"Dinner, Lunch, Weekend treat",3,1-2× month,Cocktails,700,"Citrus, Earthy, Herbal","Tequila, Vodka",Unlikely,<800,4,Yes,4,Points
+18-24,Kolkata,20000.0,Omni,1,5,1226.0,Post-work drinks,4,1-2× month,Mocktails,600,Spicy,Gin,Maybe,800-1 000,4,Maybe,4,Free delivery
+45-54,Bengaluru,61692.0,Omni,0,3,2000.0,Dinner,5,1× week,Mocktails,400,Fruity,Rum,Yes definitely,800-1 000,3,No,1,Free delivery
+55+,Delhi,26675.0,Vegan,5,0,1169.0,"Lunch, Weekend treat",5,1-2× month,Cocktails,600,"Fruity, Spicy",Rum,Unlikely,1 000-1 200,4,Maybe,4,Cocktail upgrade
+55+,Mumbai,26894.0,Omni,3,0,1395.0,"Lunch, Post-work drinks",4,2-3× week,Cocktails,500,Citrus,Whisky,Never,800-1 000,4,Yes,4,Points
+35-44,Bengaluru,53396.0,Vegetarian,2,0,2000.0,"Dinner, Lunch, Post-work drinks",3,1-2× month,Cocktails,600,Smoky,"Gin, Vodka, Whisky",Yes definitely,1 000-1 200,3,Yes,4,Free delivery
+25-34,Kolkata,20000.0,Omni,3,5,1084.0,"Lunch, Weekend treat",5,1-2× month,Avoid all,400,Earthy,Tequila,Yes definitely,1 000-1 200,3,Yes,4,Points
+25-34,Bengaluru,22588.0,Omni,0,3,1119.0,Lunch,3,1-2× month,Cocktails,700,"Citrus, Fruity, Spicy",Whisky,Maybe,>1 200,5,Yes,4,Points
+18-24,Mumbai,37239.0,Vegetarian,5,1,1674.0,Dinner,2,Daily,Cocktails,700,"Earthy, Fruity, Herbal, Smoky",Gin,Maybe,<800,5,No,1,Points
+35-44,Chennai,46677.0,Omni,1,5,2000.0,Post-work drinks,4,2-3× week,Avoid all,600,Earthy,"Vodka, Whisky",Maybe,<800,1,Maybe,2,Points
+25-34,Mumbai,28473.0,Omni,2,2,1312.0,Lunch,5,1-2× month,Mocktails,700,Earthy,"Gin, Rum, Tequila",Unlikely,800-1 000,4,Yes,4,Cocktail upgrade
+25-34,Pune,20051.0,Vegetarian,1,0,1011.0,Weekend treat,5,1-2× month,Equal,500,"Citrus, Earthy, Spicy",Gin,Yes definitely,>1 200,4,Maybe,3,Nutrition consult
+25-34,Kolkata,118961.0,Other,3,3,4000.0,Weekend treat,5,2-3× week,Equal,500,Earthy,Gin,Yes definitely,1 000-1 200,5,Yes,3,Nutrition consult
+25-34,Mumbai,20000.0,Omni,6,5,954.0,"Dinner, Post-work drinks",4,Never,Mocktails,500,"Herbal, Smoky",None,Yes definitely,1 000-1 200,3,Yes,4,Points
+25-34,Pune,29074.0,Omni,2,2,1210.0,Post-work drinks,4,1-2× month,Mocktails,700,Spicy,Gin,Yes definitely,1 000-1 200,1,Yes,4,Free delivery
+25-34,Chennai,37570.0,Omni,3,1,1595.0,Weekend treat,5,Daily,Equal,400,Spicy,Rum,Unlikely,<800,5,Yes,4,Nutrition consult
+45-54,Hyderabad,45631.0,Omni,0,0,2000.0,Post-work drinks,4,Never,Mocktails,400,"Citrus, Herbal",None,Yes definitely,800-1 000,3,No,1,Points
+18-24,Delhi,25052.0,Omni,2,3,1146.0,Post-work drinks,4,1-2× month,Cocktails,600,"Herbal, Smoky",Whisky,Yes definitely,1 000-1 200,5,Yes,4,Free delivery
+18-24,Mumbai,52005.0,Omni,6,4,4000.0,"Dinner, Lunch",5,2-3× week,Cocktails,400,Herbal,Rum,Maybe,1 000-1 200,5,No,1,Free delivery
+25-34,Bengaluru,27178.0,Keto,3,4,1418.0,"Dinner, Weekend treat",3,2-3× week,Mocktails,400,"Citrus, Fruity, Smoky, Spicy","Gin, Tequila",Yes definitely,>1 200,1,Yes,4,Points
+25-34,Pune,30886.0,Omni,0,1,1453.0,Post-work drinks,5,Never,Mocktails,500,"Fruity, Herbal, Spicy",None,Yes definitely,<800,4,Maybe,3,Free delivery
+35-44,Pune,48059.0,Vegetarian,1,0,2000.0,Dinner,4,1-2× month,Equal,500,"Earthy, Fruity, Herbal","Rum, Whisky",Maybe,800-1 000,3,Yes,3,Free delivery
+35-44,Delhi,52738.0,Vegetarian,6,0,2000.0,Lunch,5,2-3× week,Equal,400,Spicy,"Gin, Vodka, Whisky",Maybe,800-1 000,4,Maybe,3,Points
+45-54,Chennai,29549.0,Omni,2,5,1321.0,Lunch,5,1-2× month,Cocktails,500,"Earthy, Herbal, Smoky",Rum,Maybe,<800,4,Yes,4,Nutrition consult
+25-34,Mumbai,20000.0,Omni,5,2,1009.0,Lunch,5,1× week,Equal,700,Fruity,"Tequila, Vodka",Maybe,800-1 000,4,Yes,4,Free delivery
+25-34,Kolkata,73654.0,Omni,2,1,2000.0,"Lunch, Weekend treat",5,Never,Mocktails,500,Spicy,None,Yes definitely,800-1 000,4,No,1,Cocktail upgrade
+25-34,Chennai,21181.0,Omni,1,4,1129.0,Post-work drinks,1,1-2× month,Mocktails,500,"Citrus, Smoky, Spicy","Gin, Tequila, Vodka",Maybe,1 000-1 200,3,Yes,4,Cocktail upgrade
+35-44,Mumbai,20000.0,Omni,1,1,913.0,Weekend treat,4,1× week,Cocktails,600,Spicy,Rum,Unlikely,1 000-1 200,5,Yes,3,Points
+45-54,Pune,54667.0,Omni,0,3,2000.0,Lunch,4,1-2× month,Cocktails,600,Fruity,"Tequila, Vodka",Yes definitely,1 000-1 200,3,Yes,4,Free delivery
+18-24,Bengaluru,20000.0,Omni,7,2,997.0,"Lunch, Post-work drinks, Weekend treat",5,1-2× month,Cocktails,500,Smoky,"Gin, Rum",Maybe,>1 200,3,Maybe,2,Free delivery
+45-54,Bengaluru,32365.0,Keto,0,4,1545.0,Dinner,5,2-3× week,Equal,500,Smoky,Rum,Unlikely,800-1 000,4,Yes,5,Points
+45-54,Delhi,35467.0,Omni,1,3,1658.0,"Lunch, Post-work drinks, Weekend treat",5,1× week,Cocktails,600,"Earthy, Fruity, Smoky",Tequila,Maybe,1 000-1 200,5,Yes,5,Free delivery
+25-34,Kolkata,54991.0,Vegetarian,2,2,2000.0,Dinner,5,Never,Mocktails,500,"Citrus, Earthy, Herbal",None,Yes definitely,800-1 000,4,Yes,4,Free delivery
+35-44,Delhi,33716.0,Omni,3,0,1626.0,"Dinner, Post-work drinks",5,Daily,Mocktails,600,Citrus,Tequila,Yes definitely,800-1 000,5,Yes,4,Points
+45-54,Mumbai,59201.0,Omni,3,0,2000.0,"Dinner, Weekend treat",2,Never,Mocktails,700,"Citrus, Earthy, Fruity, Smoky",None,Yes definitely,1 000-1 200,5,Yes,4,Nutrition consult
+35-44,Mumbai,20000.0,Keto,1,1,1243.0,Dinner,4,Never,Mocktails,400,Earthy,None,Yes definitely,>1 200,4,No,1,Free delivery
+45-54,Delhi,20000.0,Omni,1,1,915.0,"Dinner, Weekend treat",5,2-3× week,Cocktails,500,"Citrus, Fruity, Spicy",Gin,Unlikely,<800,5,Yes,4,Cocktail upgrade
+18-24,Delhi,56705.0,Omni,4,1,2000.0,"Dinner, Lunch, Post-work drinks",4,1× week,Cocktails,500,"Earthy, Fruity, Herbal, Smoky",Gin,Yes definitely,800-1 000,4,Maybe,3,Points
+45-54,Kolkata,27596.0,Omni,4,1,1379.0,"Dinner, Lunch, Post-work drinks, Weekend treat",5,Daily,Mocktails,400,"Fruity, Spicy",Vodka,Yes definitely,800-1 000,5,Yes,3,Free delivery
+25-34,Mumbai,41269.0,Vegan,2,1,1836.0,"Dinner, Lunch",4,Never,Mocktails,400,"Smoky, Spicy",None,Yes definitely,>1 200,3,Yes,4,Free delivery
+25-34,Hyderabad,21443.0,Vegetarian,5,1,1824.0,"Dinner, Post-work drinks",4,1-2× month,Equal,400,"Fruity, Smoky",Whisky,Maybe,<800,1,Yes,4,Points
+25-34,Bengaluru,53643.0,Vegan,4,1,2000.0,Lunch,5,1× week,Mocktails,500,"Earthy, Herbal",Tequila,Maybe,1 000-1 200,4,Maybe,3,Nutrition consult
+25-34,Mumbai,33339.0,Omni,1,1,1541.0,Post-work drinks,2,1× week,Cocktails,600,"Earthy, Smoky, Spicy",Gin,Unlikely,1 000-1 200,5,Yes,4,Free delivery
+18-24,Mumbai,20000.0,Keto,2,1,1095.0,Lunch,5,2-3× week,Equal,500,Spicy,Tequila,Unlikely,800-1 000,4,No,1,Free delivery
+35-44,Mumbai,20000.0,Keto,1,1,1023.0,Lunch,2,2-3× week,Equal,600,Citrus,"Tequila, Vodka, Whisky",Maybe,1 000-1 200,2,Maybe,4,Points
+18-24,Chennai,24270.0,Omni,2,3,1148.0,Post-work drinks,4,Never,Mocktails,500,"Citrus, Fruity, Spicy",None,Yes definitely,1 000-1 200,3,Yes,5,Cocktail upgrade
+18-24,Mumbai,20000.0,Other,4,3,888.0,"Dinner, Lunch",4,2-3× week,Equal,400,Spicy,Whisky,Unlikely,800-1 000,2,Maybe,2,Cocktail upgrade
+35-44,Chennai,20000.0,Omni,0,2,916.0,Lunch,4,2-3× week,Cocktails,500,"Earthy, Herbal, Smoky",Vodka,Yes definitely,1 000-1 200,2,No,1,Points
+35-44,Mumbai,54956.0,Vegetarian,4,4,2000.0,Lunch,5,1-2× month,Mocktails,600,"Smoky, Spicy",Rum,Unlikely,>1 200,1,Yes,4,Nutrition consult
+18-24,Chennai,20000.0,Omni,3,3,1083.0,Dinner,5,2-3× week,Avoid all,500,Fruity,"Rum, Vodka",Never,1 000-1 200,5,Yes,5,Free delivery
+25-34,Delhi,20000.0,Vegan,0,1,963.0,Post-work drinks,3,1× week,Cocktails,500,"Earthy, Fruity, Smoky",Vodka,Maybe,1 000-1 200,3,Yes,4,Points
+25-34,Bengaluru,20000.0,Omni,3,6,927.0,Lunch,4,1× week,Avoid all,600,Fruity,"Gin, Rum",Maybe,1 000-1 200,3,Maybe,2,Free delivery
+35-44,Bengaluru,80000.0,Omni,2,6,4000.0,Dinner,2,1-2× month,Equal,400,"Citrus, Herbal",Gin,Unlikely,1 000-1 200,4,Yes,4,Nutrition consult
+35-44,Chennai,39237.0,Omni,4,1,1628.0,Lunch,5,2-3× week,Cocktails,400,Fruity,Gin,Maybe,800-1 000,5,No,2,Free delivery
+25-34,Pune,38154.0,Vegetarian,5,1,1624.0,"Lunch, Post-work drinks",5,1× week,Mocktails,500,Earthy,Rum,Yes definitely,>1 200,3,Yes,5,Points
+25-34,Pune,36674.0,Omni,2,4,1623.0,"Dinner, Post-work drinks",4,1× week,Equal,600,"Earthy, Herbal, Spicy",Gin,Never,800-1 000,3,Yes,4,Free delivery
+18-24,Mumbai,32173.0,Omni,5,0,1605.0,Weekend treat,5,1× week,Cocktails,600,Citrus,Whisky,Unlikely,800-1 000,5,Yes,4,Free delivery
+45-54,Mumbai,49415.0,Keto,7,2,1929.0,"Dinner, Lunch, Weekend treat",5,2-3× week,Avoid all,600,"Citrus, Fruity","Gin, Whisky",Yes definitely,800-1 000,4,Maybe,3,Free delivery
+35-44,Chennai,28808.0,Omni,2,3,1512.0,Post-work drinks,5,2-3× week,Cocktails,500,"Smoky, Spicy","Gin, Tequila",Maybe,<800,3,Yes,5,Cocktail upgrade
+25-34,Mumbai,20000.0,Omni,0,2,964.0,"Dinner, Weekend treat",3,1-2× month,Equal,500,Citrus,"Rum, Vodka",Never,1 000-1 200,4,Maybe,2,Points
+35-44,Pune,59539.0,Omni,7,3,2000.0,Post-work drinks,5,1-2× month,Equal,500,Citrus,"Tequila, Vodka",Yes definitely,>1 200,1,No,1,Points
+18-24,Hyderabad,55252.0,Omni,0,0,2000.0,Weekend treat,4,2-3× week,Equal,500,Smoky,Vodka,Maybe,1 000-1 200,3,Yes,4,Free delivery
+35-44,Mumbai,20000.0,Omni,0,4,894.0,Post-work drinks,1,1× week,Cocktails,600,Spicy,"Gin, Whisky",Maybe,800-1 000,5,Yes,5,Nutrition consult
+55+,Bengaluru,65721.0,Keto,7,1,2000.0,"Lunch, Weekend treat",5,Never,Mocktails,500,Spicy,None,Yes definitely,800-1 000,4,No,1,Free delivery
+25-34,Bengaluru,35850.0,Other,0,0,1580.0,"Lunch, Post-work drinks",4,1× week,Cocktails,400,Earthy,"Gin, Whisky",Maybe,>1 200,4,Yes,5,Points
+55+,Hyderabad,31992.0,Vegetarian,1,1,1542.0,"Lunch, Weekend treat",5,1-2× month,Mocktails,500,Fruity,"Gin, Tequila, Vodka",Unlikely,<800,5,Maybe,3,Points
+25-34,Mumbai,20000.0,Vegetarian,1,2,1147.0,"Dinner, Post-work drinks",5,1× week,Cocktails,600,"Citrus, Fruity, Herbal, Spicy",Vodka,Maybe,<800,4,Yes,4,Points
+18-24,Hyderabad,20000.0,Vegetarian,2,2,1086.0,Dinner,4,1× week,Mocktails,500,"Earthy, Spicy","Gin, Tequila, Whisky",Yes definitely,800-1 000,4,No,2,Cocktail upgrade
+45-54,Hyderabad,22050.0,Omni,2,1,1100.0,Dinner,5,Never,Mocktails,500,"Earthy, Herbal, Spicy",None,Yes definitely,1 000-1 200,1,Maybe,4,Points
+25-34,Mumbai,21492.0,Omni,5,1,1035.0,"Dinner, Lunch",5,1-2× month,Mocktails,700,Herbal,Rum,Maybe,1 000-1 200,4,Yes,4,Free delivery
+18-24,Chennai,35163.0,Omni,5,2,3549.0,"Dinner, Post-work drinks",5,2-3× week,Mocktails,500,"Citrus, Earthy","Rum, Tequila",Unlikely,>1 200,1,Yes,5,Points
+18-24,Mumbai,20719.0,Omni,3,6,964.0,Dinner,4,1-2× month,Mocktails,500,"Citrus, Earthy, Smoky",Tequila,Maybe,<800,1,Yes,3,Cocktail upgrade
+45-54,Pune,25544.0,Omni,0,3,1240.0,Lunch,5,2-3× week,Cocktails,600,"Fruity, Smoky, Spicy",Gin,Yes definitely,<800,5,Yes,5,Points
+35-44,Kolkata,23524.0,Keto,0,0,1191.0,"Lunch, Post-work drinks",4,2-3× week,Mocktails,600,"Fruity, Herbal","Gin, Tequila",Unlikely,800-1 000,5,Yes,5,Points
+18-24,Delhi,20000.0,Omni,2,3,943.0,Weekend treat,4,2-3× week,Mocktails,600,Earthy,"Gin, Vodka, Whisky",Unlikely,800-1 000,5,Yes,5,Nutrition consult
+18-24,Mumbai,39806.0,Omni,2,3,1850.0,"Dinner, Weekend treat",3,1× week,Cocktails,500,"Earthy, Herbal",Rum,Maybe,1 000-1 200,3,Yes,4,Points
+35-44,Bengaluru,40320.0,Omni,0,4,1905.0,"Lunch, Post-work drinks",2,Never,Mocktails,400,"Earthy, Fruity, Smoky",None,Yes definitely,1 000-1 200,4,No,1,Free delivery
+18-24,Mumbai,20000.0,Other,2,6,894.0,"Dinner, Post-work drinks, Weekend treat",4,1-2× month,Cocktails,500,Herbal,Whisky,Yes definitely,>1 200,5,Yes,3,Points
+18-24,Bengaluru,20000.0,Omni,1,6,869.0,Weekend treat,4,2-3× week,Equal,700,"Citrus, Earthy",Whisky,Unlikely,1 000-1 200,5,Yes,4,Cocktail upgrade
+35-44,Kolkata,46662.0,Omni,6,2,2000.0,"Dinner, Post-work drinks",5,1× week,Cocktails,400,"Citrus, Earthy, Fruity, Herbal","Gin, Tequila",Never,1 000-1 200,3,Yes,5,Points
+25-34,Delhi,30524.0,Omni,2,4,1349.0,"Dinner, Lunch, Post-work drinks",1,1× week,Cocktails,400,"Earthy, Herbal, Spicy","Gin, Tequila",Maybe,<800,5,Maybe,2,Cocktail upgrade
+25-34,Bengaluru,34701.0,Omni,3,2,1714.0,Weekend treat,5,1× week,Avoid all,500,"Fruity, Herbal",Gin,Never,1 000-1 200,5,Yes,4,Free delivery
+25-34,Mumbai,23750.0,Vegetarian,2,2,1215.0,Weekend treat,4,1-2× month,Cocktails,400,"Fruity, Spicy",Whisky,Unlikely,800-1 000,4,No,2,Cocktail upgrade
+18-24,Bengaluru,25737.0,Omni,0,0,1259.0,Dinner,5,1× week,Avoid all,600,"Fruity, Herbal",Vodka,Yes definitely,<800,5,Maybe,4,Free delivery
+45-54,Pune,35913.0,Keto,7,1,1398.0,Post-work drinks,4,Never,Mocktails,500,"Citrus, Spicy",None,Yes definitely,<800,4,Yes,4,Free delivery
+25-34,Kolkata,20000.0,Omni,3,1,1071.0,"Lunch, Post-work drinks",5,1-2× month,Cocktails,500,Smoky,"Gin, Tequila, Vodka",Unlikely,>1 200,1,Maybe,3,Points
+45-54,Hyderabad,23682.0,Omni,0,2,1113.0,Dinner,4,2-3× week,Cocktails,600,Citrus,Tequila,Never,>1 200,3,Yes,4,Cocktail upgrade
+25-34,Bengaluru,63035.0,Omni,3,1,2000.0,Weekend treat,5,1-2× month,Cocktails,500,"Citrus, Smoky, Spicy",Tequila,Yes definitely,800-1 000,4,Yes,4,Nutrition consult
+25-34,Mumbai,37184.0,Omni,1,2,1731.0,"Dinner, Post-work drinks, Weekend treat",4,1× week,Cocktails,600,"Fruity, Smoky","Vodka, Whisky",Yes definitely,1 000-1 200,5,Yes,3,Nutrition consult
+25-34,Mumbai,27669.0,Vegan,1,1,1376.0,Dinner,5,1-2× month,Cocktails,500,Spicy,"Rum, Tequila",Maybe,<800,4,Yes,5,Free delivery
+25-34,Mumbai,30473.0,Omni,5,4,1549.0,Dinner,5,1-2× month,Avoid all,400,Herbal,"Tequila, Vodka, Whisky",Maybe,<800,3,No,2,Points
+35-44,Delhi,34880.0,Vegetarian,2,4,1686.0,Lunch,3,1-2× month,Equal,500,"Earthy, Fruity","Rum, Tequila, Vodka",Unlikely,800-1 000,4,No,1,Free delivery
+35-44,Mumbai,31556.0,Omni,3,2,1502.0,"Dinner, Lunch",3,1-2× month,Cocktails,600,"Earthy, Fruity, Smoky, Spicy","Gin, Tequila, Whisky",Maybe,1 000-1 200,5,Maybe,4,Cocktail upgrade
+35-44,Kolkata,20000.0,Omni,1,3,1024.0,Weekend treat,4,2-3× week,Mocktails,600,"Citrus, Earthy, Fruity, Herbal","Gin, Tequila",Yes definitely,>1 200,5,Maybe,3,Points
+18-24,Bengaluru,20000.0,Omni,5,0,1160.0,"Dinner, Weekend treat",5,Never,Mocktails,400,"Fruity, Herbal, Spicy",None,Yes definitely,800-1 000,5,Yes,5,Nutrition consult
+18-24,Chennai,20760.0,Vegetarian,6,1,929.0,Dinner,5,Never,Mocktails,600,"Earthy, Fruity",None,Yes definitely,1 000-1 200,3,Yes,3,Points
+55+,Mumbai,97067.0,Keto,2,2,2000.0,Dinner,4,1-2× month,Cocktails,500,Spicy,"Rum, Tequila, Whisky",Yes definitely,1 000-1 200,3,Maybe,4,Free delivery
+25-34,Hyderabad,23273.0,Omni,6,3,1058.0,"Dinner, Weekend treat",5,1-2× month,Equal,700,"Citrus, Herbal","Gin, Tequila",Never,<800,3,Maybe,2,Cocktail upgrade
+45-54,Delhi,30321.0,Vegan,1,0,1504.0,Weekend treat,4,1-2× month,Mocktails,400,"Citrus, Fruity, Herbal","Rum, Whisky",Never,800-1 000,3,Maybe,3,Points
+35-44,Chennai,27793.0,Keto,0,1,1272.0,Weekend treat,5,1-2× month,Mocktails,700,Spicy,"Rum, Vodka",Yes definitely,<800,5,No,2,Nutrition consult
+25-34,Mumbai,50556.0,Keto,6,3,2000.0,Dinner,5,1-2× month,Equal,600,"Citrus, Earthy, Herbal",Vodka,Maybe,<800,5,Yes,4,Free delivery
+35-44,Delhi,21913.0,Vegetarian,7,2,952.0,"Lunch, Post-work drinks",5,Never,Mocktails,400,"Earthy, Herbal, Spicy",None,Yes definitely,1 000-1 200,3,Maybe,4,Points
+25-34,Mumbai,20000.0,Omni,1,0,1211.0,Weekend treat,4,1-2× month,Cocktails,500,Fruity,"Gin, Vodka",Maybe,800-1 000,3,Maybe,3,Points
+25-34,Kolkata,69801.0,Omni,1,3,2000.0,Weekend treat,3,1-2× month,Cocktails,500,Herbal,Vodka,Yes definitely,1 000-1 200,5,Maybe,4,Points
+35-44,Chennai,20000.0,Omni,5,2,1062.0,"Dinner, Weekend treat",5,1× week,Equal,500,"Citrus, Earthy, Herbal",Vodka,Maybe,<800,5,Maybe,3,Free delivery
+25-34,Mumbai,20000.0,Vegetarian,4,2,868.0,"Lunch, Weekend treat",2,2-3× week,Mocktails,400,"Citrus, Smoky",Tequila,Unlikely,800-1 000,4,Yes,4,Free delivery
+45-54,Pune,22315.0,Omni,4,0,1288.0,"Post-work drinks, Weekend treat",3,1× week,Cocktails,400,Spicy,Tequila,Maybe,<800,3,Yes,4,Points
+25-34,Mumbai,25384.0,Omni,4,2,1197.0,Dinner,5,Never,Mocktails,600,"Earthy, Herbal, Spicy",None,Yes definitely,800-1 000,5,Maybe,4,Points
+25-34,Delhi,25886.0,Omni,2,0,1308.0,Weekend treat,4,1× week,Cocktails,400,"Herbal, Smoky",Gin,Never,1 000-1 200,5,Yes,5,Free delivery
+25-34,Mumbai,20000.0,Omni,2,0,787.0,Lunch,5,1-2× month,Mocktails,600,Spicy,Tequila,Unlikely,1 000-1 200,4,Yes,4,Free delivery
+25-34,Chennai,20000.0,Omni,3,6,924.0,Post-work drinks,4,Never,Mocktails,400,Herbal,None,Yes definitely,<800,4,Maybe,3,Free delivery
+25-34,Pune,55960.0,Omni,4,3,2000.0,Dinner,5,2-3× week,Equal,500,"Citrus, Earthy",Gin,Yes definitely,800-1 000,5,Maybe,2,Free delivery
+25-34,Chennai,20000.0,Omni,0,1,1012.0,"Post-work drinks, Weekend treat",4,1-2× month,Cocktails,400,Herbal,"Rum, Vodka, Whisky",Yes definitely,>1 200,4,No,2,Free delivery
+35-44,Delhi,22887.0,Keto,1,2,1136.0,Lunch,4,1-2× month,Mocktails,700,Smoky,Tequila,Yes definitely,>1 200,4,Maybe,3,Points
+25-34,Mumbai,135678.0,Vegetarian,2,0,2000.0,Dinner,4,1-2× month,Mocktails,600,"Earthy, Herbal","Gin, Tequila, Vodka",Unlikely,<800,5,Yes,5,Free delivery
+25-34,Mumbai,22044.0,Vegetarian,0,2,1058.0,Dinner,3,2-3× week,Equal,500,"Citrus, Herbal, Smoky","Gin, Vodka, Whisky",Maybe,<800,5,Maybe,3,Points
+35-44,Bengaluru,20000.0,Omni,0,3,972.0,"Lunch, Post-work drinks, Weekend treat",3,1× week,Cocktails,500,"Citrus, Fruity","Rum, Tequila",Maybe,1 000-1 200,4,Maybe,3,Nutrition consult
+18-24,Bengaluru,48652.0,Keto,0,1,2000.0,"Lunch, Post-work drinks",4,Never,Mocktails,600,"Fruity, Herbal",None,Yes definitely,1 000-1 200,5,Yes,4,Cocktail upgrade
+18-24,Hyderabad,20470.0,Omni,3,0,1026.0,"Dinner, Lunch",3,1× week,Mocktails,600,Citrus,Whisky,Maybe,800-1 000,5,No,1,Free delivery
+25-34,Delhi,36807.0,Other,3,1,1759.0,"Dinner, Post-work drinks",5,Daily,Equal,600,"Citrus, Earthy","Gin, Whisky",Never,<800,5,No,1,Nutrition consult
+25-34,Hyderabad,20000.0,Omni,2,1,880.0,Lunch,4,1-2× month,Cocktails,400,Herbal,Whisky,Yes definitely,1 000-1 200,5,Yes,3,Cocktail upgrade
+35-44,Delhi,30154.0,Omni,0,0,1222.0,Dinner,5,1-2× month,Cocktails,600,"Citrus, Spicy",Gin,Maybe,1 000-1 200,3,Maybe,2,Free delivery
+25-34,Delhi,30089.0,Vegetarian,2,1,1262.0,"Dinner, Weekend treat",3,1-2× month,Cocktails,600,Herbal,Gin,Unlikely,<800,2,No,1,Points
+25-34,Kolkata,23766.0,Omni,5,4,1116.0,"Lunch, Post-work drinks, Weekend treat",5,2-3× week,Cocktails,400,Fruity,Rum,Yes definitely,800-1 000,5,No,2,Points
+18-24,Bengaluru,51336.0,Omni,0,6,2000.0,Lunch,4,1-2× month,Avoid all,400,"Earthy, Spicy",Vodka,Yes definitely,1 000-1 200,3,No,1,Free delivery
+35-44,Hyderabad,35375.0,Vegetarian,3,4,1562.0,"Dinner, Lunch, Weekend treat",4,1-2× month,Mocktails,500,Citrus,Gin,Yes definitely,1 000-1 200,3,Yes,3,Nutrition consult
+25-34,Bengaluru,69851.0,Omni,7,4,2000.0,"Dinner, Post-work drinks",5,2-3× week,Cocktails,500,Smoky,Gin,Unlikely,1 000-1 200,5,Maybe,3,Nutrition consult
+35-44,Delhi,30186.0,Omni,3,1,1422.0,"Dinner, Post-work drinks, Weekend treat",5,1-2× month,Cocktails,500,Earthy,Gin,Unlikely,<800,4,No,2,Nutrition consult
+18-24,Mumbai,32555.0,Omni,0,3,1469.0,"Dinner, Lunch",4,2-3× week,Equal,400,"Citrus, Earthy, Fruity, Herbal, Smoky",Vodka,Unlikely,800-1 000,4,Maybe,4,Free delivery
+45-54,Hyderabad,30692.0,Vegan,0,1,1617.0,"Lunch, Post-work drinks, Weekend treat",4,Never,Mocktails,600,"Citrus, Earthy",None,Yes definitely,800-1 000,3,Yes,5,Points
+25-34,Hyderabad,26796.0,Vegetarian,6,1,1241.0,Post-work drinks,5,1× week,Equal,500,"Fruity, Smoky, Spicy","Gin, Rum",Maybe,>1 200,1,Yes,3,Cocktail upgrade
+25-34,Mumbai,20000.0,Vegetarian,3,2,961.0,Lunch,1,1× week,Equal,600,Herbal,"Vodka, Whisky",Unlikely,800-1 000,5,Yes,3,Nutrition consult
+25-34,Delhi,45253.0,Omni,5,1,2000.0,Post-work drinks,5,2-3× week,Cocktails,500,Herbal,"Vodka, Whisky",Unlikely,1 000-1 200,5,Maybe,4,Cocktail upgrade
+25-34,Chennai,20000.0,Omni,4,2,884.0,Post-work drinks,5,1-2× month,Mocktails,600,"Citrus, Herbal",Rum,Yes definitely,800-1 000,4,Yes,4,Nutrition consult
+45-54,Bengaluru,20000.0,Vegan,1,2,1017.0,Post-work drinks,5,1× week,Equal,500,Spicy,"Rum, Tequila",Yes definitely,1 000-1 200,1,Maybe,4,Points
+25-34,Bengaluru,21353.0,Omni,2,1,846.0,"Dinner, Lunch, Post-work drinks, Weekend treat",4,Never,Mocktails,700,"Citrus, Herbal",None,Yes definitely,1 000-1 200,3,Yes,5,Points
+18-24,Kolkata,20000.0,Vegan,3,4,909.0,"Lunch, Weekend treat",5,1× week,Equal,400,"Fruity, Smoky",Rum,Unlikely,1 000-1 200,2,Maybe,3,Cocktail upgrade
+18-24,Hyderabad,35581.0,Vegetarian,4,3,1495.0,Post-work drinks,5,Never,Mocktails,500,"Fruity, Smoky, Spicy",None,Yes definitely,1 000-1 200,4,Yes,4,Cocktail upgrade
+25-34,Mumbai,27684.0,Omni,6,2,1320.0,Weekend treat,5,1× week,Cocktails,500,"Earthy, Herbal","Rum, Vodka, Whisky",Yes definitely,800-1 000,5,No,1,Free delivery
+25-34,Bengaluru,28730.0,Omni,4,3,1468.0,"Dinner, Lunch",5,1-2× month,Cocktails,600,"Citrus, Fruity, Herbal, Spicy","Gin, Rum",Never,<800,3,No,1,Points
+25-34,Delhi,42144.0,Vegetarian,0,0,2000.0,Dinner,5,1-2× month,Cocktails,400,Smoky,"Gin, Rum, Tequila, Vodka",Yes definitely,800-1 000,5,No,2,Points
+18-24,Chennai,20000.0,Omni,2,1,914.0,"Post-work drinks, Weekend treat",3,1-2× month,Equal,500,"Fruity, Smoky, Spicy",Rum,Unlikely,800-1 000,3,Maybe,3,Nutrition consult
+45-54,Delhi,30798.0,Omni,1,1,1290.0,"Dinner, Weekend treat",4,Never,Mocktails,400,Smoky,None,Yes definitely,1 000-1 200,4,Maybe,2,Free delivery
+45-54,Chennai,20000.0,Other,2,3,890.0,"Lunch, Weekend treat",3,Never,Mocktails,600,"Citrus, Herbal, Smoky",None,Yes definitely,1 000-1 200,5,Maybe,3,Points
+45-54,Delhi,73472.0,Other,2,1,2000.0,"Dinner, Weekend treat",5,2-3× week,Equal,500,Citrus,Rum,Maybe,1 000-1 200,5,No,1,Cocktail upgrade
+35-44,Delhi,27766.0,Omni,5,2,1269.0,Post-work drinks,5,1-2× month,Equal,500,"Smoky, Spicy",Rum,Yes definitely,>1 200,5,Maybe,2,Free delivery
+35-44,Mumbai,20000.0,Omni,7,1,1085.0,"Dinner, Weekend treat",5,1-2× month,Cocktails,500,Fruity,"Rum, Vodka",Maybe,1 000-1 200,5,Maybe,3,Points
+35-44,Mumbai,20000.0,Vegetarian,6,1,1094.0,"Lunch, Post-work drinks, Weekend treat",5,Never,Mocktails,400,"Citrus, Earthy",None,Yes definitely,1 000-1 200,5,Maybe,2,Cocktail upgrade
+18-24,Hyderabad,20000.0,Omni,2,4,1006.0,"Lunch, Weekend treat",5,1× week,Mocktails,500,Spicy,Vodka,Yes definitely,800-1 000,1,Yes,4,Points
+25-34,Mumbai,20000.0,Vegetarian,1,0,1129.0,Weekend treat,5,Never,Mocktails,700,"Fruity, Spicy",None,Yes definitely,<800,4,Maybe,2,Nutrition consult
+45-54,Delhi,20000.0,Omni,4,1,1010.0,Weekend treat,5,1-2× month,Equal,600,"Citrus, Herbal",Tequila,Unlikely,1 000-1 200,5,Maybe,2,Points
+35-44,Delhi,41151.0,Vegan,3,1,1824.0,Post-work drinks,2,Never,Mocktails,400,Earthy,None,Yes definitely,800-1 000,4,Yes,3,Points
+25-34,Delhi,20000.0,Omni,5,4,975.0,Weekend treat,5,2-3× week,Mocktails,400,"Earthy, Fruity",Tequila,Never,<800,5,Yes,4,Free delivery
+25-34,Delhi,20000.0,Vegan,0,1,981.0,Post-work drinks,4,2-3× week,Cocktails,400,"Earthy, Fruity, Spicy",Vodka,Maybe,800-1 000,4,Yes,4,Cocktail upgrade
+45-54,Mumbai,62281.0,Omni,3,3,2000.0,Weekend treat,5,Never,Mocktails,500,"Citrus, Smoky, Spicy",None,Yes definitely,<800,5,Maybe,2,Free delivery
+25-34,Delhi,29437.0,Omni,2,0,1347.0,Lunch,5,1× week,Equal,500,Fruity,"Vodka, Whisky",Never,>1 200,4,No,1,Points
+35-44,Chennai,24306.0,Omni,3,0,1056.0,"Dinner, Lunch, Weekend treat",5,Never,Mocktails,500,"Citrus, Fruity, Smoky, Spicy",None,Yes definitely,>1 200,4,Yes,4,Points
+25-34,Bengaluru,20000.0,Omni,3,2,883.0,Dinner,4,2-3× week,Cocktails,400,Fruity,"Vodka, Whisky",Yes definitely,800-1 000,1,Maybe,2,Free delivery
+35-44,Delhi,40685.0,Omni,2,4,1829.0,"Dinner, Post-work drinks",4,1-2× month,Cocktails,600,"Citrus, Herbal, Spicy","Gin, Vodka",Unlikely,<800,2,Yes,4,Free delivery
+18-24,Pune,22114.0,Omni,6,2,1042.0,Dinner,5,Never,Mocktails,600,Earthy,None,Yes definitely,800-1 000,3,Maybe,4,Cocktail upgrade
+25-34,Delhi,27023.0,Omni,1,0,1280.0,Dinner,4,2-3× week,Cocktails,500,Citrus,Tequila,Yes definitely,800-1 000,3,Yes,5,Points
+18-24,Delhi,20000.0,Vegetarian,2,3,1028.0,Weekend treat,5,Never,Mocktails,500,"Citrus, Spicy",None,Yes definitely,800-1 000,3,Maybe,3,Free delivery
+25-34,Chennai,20000.0,Vegetarian,1,2,1051.0,"Dinner, Weekend treat",4,1-2× month,Equal,600,"Citrus, Herbal, Smoky, Spicy","Gin, Rum",Yes definitely,>1 200,4,Maybe,3,Free delivery
+18-24,Hyderabad,33293.0,Omni,7,1,1750.0,Weekend treat,5,1× week,Mocktails,500,"Citrus, Herbal","Rum, Tequila",Never,1 000-1 200,5,Yes,4,Cocktail upgrade
+18-24,Mumbai,20621.0,Other,0,2,1022.0,Dinner,2,1-2× month,Cocktails,400,"Citrus, Earthy",Whisky,Maybe,800-1 000,5,Yes,4,Cocktail upgrade
+55+,Bengaluru,20000.0,Omni,4,2,1033.0,"Lunch, Post-work drinks, Weekend treat",5,1× week,Cocktails,600,Earthy,"Gin, Rum",Maybe,800-1 000,5,Yes,5,Cocktail upgrade
+25-34,Delhi,227284.0,Keto,0,2,2000.0,"Post-work drinks, Weekend treat",5,1× week,Mocktails,600,Fruity,"Gin, Vodka",Unlikely,1 000-1 200,5,Yes,5,Points
+18-24,Mumbai,24981.0,Vegetarian,0,1,1193.0,Weekend treat,2,Never,Mocktails,500,"Earthy, Herbal, Smoky, Spicy",None,Yes definitely,1 000-1 200,5,No,1,Free delivery
+35-44,Mumbai,20000.0,Omni,7,2,1036.0,Weekend treat,5,1× week,Equal,600,"Fruity, Spicy",Rum,Never,800-1 000,4,Maybe,4,Points
+25-34,Bengaluru,33458.0,Omni,2,0,1634.0,"Dinner, Post-work drinks",5,1-2× month,Mocktails,600,"Earthy, Herbal","Gin, Whisky",Yes definitely,800-1 000,4,Yes,4,Cocktail upgrade
+45-54,Delhi,20000.0,Vegan,3,1,923.0,Lunch,4,1-2× month,Mocktails,600,Citrus,Gin,Maybe,>1 200,4,Maybe,4,Free delivery
+25-34,Bengaluru,35461.0,Omni,2,0,1634.0,Lunch,5,Daily,Mocktails,400,Herbal,"Gin, Rum, Vodka",Unlikely,1 000-1 200,4,No,1,Free delivery
+25-34,Bengaluru,21537.0,Omni,0,2,1043.0,Weekend treat,4,1× week,Cocktails,500,"Citrus, Fruity, Herbal, Spicy","Rum, Vodka",Unlikely,1 000-1 200,5,Yes,4,Cocktail upgrade
+45-54,Pune,36921.0,Omni,2,0,1511.0,Weekend treat,5,2-3× week,Cocktails,500,"Earthy, Smoky",Vodka,Yes definitely,1 000-1 200,3,No,1,Free delivery
+45-54,Hyderabad,27117.0,Vegetarian,0,2,1304.0,Dinner,5,1× week,Equal,500,Smoky,"Gin, Whisky",Never,>1 200,2,No,1,Cocktail upgrade
+18-24,Bengaluru,20000.0,Vegetarian,0,3,924.0,"Lunch, Weekend treat",5,2-3× week,Equal,500,"Citrus, Herbal, Spicy","Gin, Rum",Maybe,1 000-1 200,1,No,1,Cocktail upgrade
+18-24,Mumbai,20000.0,Vegetarian,2,0,1098.0,Dinner,5,1-2× month,Equal,500,Earthy,"Gin, Vodka, Whisky",Maybe,800-1 000,3,Maybe,3,Nutrition consult
+18-24,Delhi,20000.0,Omni,0,6,981.0,"Dinner, Weekend treat",5,Never,Mocktails,400,"Fruity, Herbal",None,Yes definitely,1 000-1 200,4,Maybe,3,Nutrition consult
+45-54,Hyderabad,20000.0,Omni,4,4,1126.0,Post-work drinks,5,2-3× week,Cocktails,500,Herbal,Vodka,Maybe,800-1 000,4,Yes,5,Free delivery
+35-44,Pune,21718.0,Omni,1,0,1079.0,Post-work drinks,5,2-3× week,Cocktails,500,"Fruity, Herbal","Gin, Vodka",Yes definitely,>1 200,4,Maybe,3,Points
+35-44,Hyderabad,20000.0,Omni,1,2,954.0,Post-work drinks,5,Never,Mocktails,500,Spicy,None,Yes definitely,800-1 000,4,Yes,5,Cocktail upgrade
+45-54,Pune,30751.0,Omni,0,0,1446.0,Dinner,5,2-3× week,Cocktails,600,"Earthy, Spicy",Gin,Unlikely,>1 200,4,No,1,Points
+18-24,Chennai,42413.0,Omni,2,1,1981.0,Lunch,1,1× week,Cocktails,400,Earthy,Whisky,Unlikely,<800,5,Maybe,2,Points
+45-54,Delhi,38328.0,Omni,0,1,1690.0,Post-work drinks,5,1-2× month,Cocktails,400,"Fruity, Smoky",Gin,Maybe,1 000-1 200,4,Yes,3,Points
+25-34,Pune,29465.0,Omni,2,4,1308.0,"Dinner, Lunch, Post-work drinks, Weekend treat",3,Never,Mocktails,600,Citrus,None,Yes definitely,800-1 000,1,Yes,4,Points
+25-34,Bengaluru,28509.0,Vegetarian,2,2,1398.0,"Dinner, Post-work drinks",5,2-3× week,Cocktails,500,"Earthy, Herbal, Smoky",Whisky,Maybe,>1 200,4,Maybe,4,Points
+55+,Hyderabad,20000.0,Vegetarian,1,1,1128.0,"Dinner, Lunch, Post-work drinks, Weekend treat",5,1-2× month,Mocktails,500,"Citrus, Herbal","Rum, Tequila, Whisky",Maybe,800-1 000,4,Yes,5,Points
+35-44,Hyderabad,47530.0,Omni,1,1,2000.0,Weekend treat,3,1× week,Cocktails,700,"Citrus, Smoky",Whisky,Unlikely,>1 200,5,Yes,5,Nutrition consult
+18-24,Pune,50542.0,Omni,3,0,2000.0,Lunch,5,Never,Mocktails,600,Citrus,None,Yes definitely,800-1 000,2,Yes,3,Points
+25-34,Delhi,51077.0,Omni,0,1,2000.0,Lunch,4,1× week,Cocktails,600,"Earthy, Fruity, Smoky",Vodka,Yes definitely,800-1 000,4,Maybe,3,Points
+18-24,Mumbai,20000.0,Omni,2,1,908.0,Dinner,2,1-2× month,Equal,500,"Citrus, Earthy, Herbal, Spicy",Whisky,Unlikely,1 000-1 200,4,Yes,4,Free delivery
+18-24,Kolkata,82816.0,Omni,5,2,4000.0,Lunch,5,2-3× week,Equal,400,Citrus,Gin,Yes definitely,1 000-1 200,5,Maybe,3,Nutrition consult
+18-24,Pune,39578.0,Omni,0,1,1917.0,Lunch,5,1× week,Cocktails,600,"Earthy, Spicy",Vodka,Unlikely,<800,4,Maybe,3,Cocktail upgrade
+18-24,Bengaluru,20000.0,Other,6,1,964.0,"Dinner, Lunch",5,1× week,Equal,600,"Citrus, Herbal, Smoky, Spicy","Rum, Tequila, Vodka, Whisky",Yes definitely,1 000-1 200,5,Maybe,4,Points
+55+,Delhi,20000.0,Keto,4,0,945.0,Lunch,5,1× week,Equal,400,"Earthy, Herbal",Rum,Maybe,1 000-1 200,4,Maybe,3,Free delivery
+25-34,Mumbai,20000.0,Vegan,3,1,849.0,Lunch,5,Never,Mocktails,500,"Earthy, Fruity, Spicy",None,Yes definitely,1 000-1 200,4,Maybe,3,Cocktail upgrade
+18-24,Bengaluru,28594.0,Omni,2,1,1201.0,"Dinner, Lunch, Post-work drinks",1,1× week,Cocktails,500,"Earthy, Fruity","Rum, Vodka",Maybe,<800,5,Maybe,3,Points
+25-34,Bengaluru,34787.0,Omni,0,2,1755.0,Dinner,4,Never,Mocktails,500,Fruity,None,Yes definitely,1 000-1 200,5,Yes,4,Free delivery
+45-54,Bengaluru,34231.0,Keto,1,0,1569.0,"Dinner, Weekend treat",4,Never,Mocktails,400,"Smoky, Spicy",None,Yes definitely,800-1 000,5,No,1,Free delivery
+18-24,Chennai,20000.0,Omni,3,4,1066.0,Lunch,5,1-2× month,Mocktails,500,"Earthy, Smoky, Spicy",Tequila,Never,1 000-1 200,4,Yes,4,Points
+45-54,Hyderabad,20000.0,Omni,2,2,918.0,Lunch,4,1× week,Cocktails,600,"Citrus, Earthy, Spicy",Rum,Yes definitely,1 000-1 200,4,Maybe,3,Cocktail upgrade
+18-24,Mumbai,64117.0,Omni,6,4,2000.0,"Dinner, Weekend treat",5,1-2× month,Equal,500,"Citrus, Fruity","Rum, Tequila",Maybe,>1 200,5,No,1,Points
+25-34,Delhi,56400.0,Vegetarian,4,0,2000.0,Dinner,2,2-3× week,Mocktails,500,"Fruity, Smoky",Whisky,Yes definitely,800-1 000,4,No,1,Cocktail upgrade
+25-34,Bengaluru,27972.0,Keto,0,2,1329.0,Lunch,5,Never,Mocktails,600,"Earthy, Herbal, Spicy",None,Yes definitely,800-1 000,5,Maybe,3,Points
+25-34,Kolkata,47782.0,Omni,6,0,2000.0,Post-work drinks,5,2-3× week,Cocktails,500,"Citrus, Fruity","Rum, Vodka, Whisky",Yes definitely,1 000-1 200,4,No,2,Points
+25-34,Hyderabad,24492.0,Omni,1,1,1263.0,Weekend treat,2,1-2× month,Mocktails,500,"Earthy, Herbal, Smoky","Gin, Rum, Whisky",Maybe,1 000-1 200,5,No,2,Nutrition consult
+25-34,Mumbai,23864.0,Omni,6,2,1131.0,Lunch,5,2-3× week,Equal,600,"Citrus, Fruity, Smoky, Spicy",Vodka,Never,800-1 000,5,Maybe,3,Cocktail upgrade
+25-34,Hyderabad,27445.0,Vegan,0,2,1225.0,Dinner,3,Never,Mocktails,500,Citrus,None,Yes definitely,<800,4,Yes,3,Free delivery
+25-34,Kolkata,20000.0,Vegetarian,3,0,1040.0,Lunch,5,2-3× week,Equal,600,Fruity,"Gin, Tequila, Vodka",Unlikely,1 000-1 200,5,Maybe,3,Cocktail upgrade
+18-24,Hyderabad,27347.0,Other,3,0,1300.0,"Dinner, Lunch",5,1-2× month,Cocktails,500,Herbal,Gin,Maybe,800-1 000,4,Maybe,2,Nutrition consult
+35-44,Pune,97068.0,Omni,2,1,2000.0,Dinner,3,1-2× month,Equal,600,"Citrus, Earthy","Rum, Whisky",Maybe,1 000-1 200,4,No,1,Points
+25-34,Mumbai,35999.0,Vegetarian,0,1,1726.0,"Dinner, Weekend treat",5,2-3× week,Cocktails,400,"Earthy, Fruity, Herbal, Smoky","Gin, Vodka, Whisky",Maybe,800-1 000,5,No,2,Free delivery
+45-54,Hyderabad,26683.0,Omni,1,5,1209.0,"Dinner, Lunch",5,1× week,Cocktails,600,"Smoky, Spicy","Gin, Rum, Tequila",Unlikely,800-1 000,5,Yes,4,Points
+25-34,Mumbai,20000.0,Omni,5,2,970.0,Weekend treat,5,Never,Mocktails,500,"Herbal, Spicy",None,Yes definitely,1 000-1 200,3,Yes,5,Points
+45-54,Mumbai,30321.0,Other,2,0,1419.0,Post-work drinks,3,2-3× week,Equal,600,Smoky,"Gin, Vodka",Unlikely,1 000-1 200,4,Maybe,3,Nutrition consult
+25-34,Delhi,37934.0,Keto,0,2,1813.0,"Lunch, Weekend treat",3,2-3× week,Cocktails,600,Earthy,Gin,Unlikely,800-1 000,5,No,1,Free delivery
+45-54,Pune,26151.0,Omni,0,1,1169.0,"Lunch, Weekend treat",4,1× week,Mocktails,600,"Citrus, Earthy, Smoky, Spicy","Tequila, Vodka",Yes definitely,1 000-1 200,5,No,2,Points
+25-34,Pune,32936.0,Vegetarian,3,0,1536.0,Weekend treat,3,Daily,Cocktails,400,Herbal,"Gin, Vodka, Whisky",Unlikely,1 000-1 200,3,Yes,4,Points
+45-54,Kolkata,20000.0,Omni,2,1,1117.0,Weekend treat,5,1-2× month,Equal,400,Spicy,"Tequila, Whisky",Yes definitely,>1 200,4,Maybe,2,Free delivery
+25-34,Bengaluru,27721.0,Omni,2,0,1395.0,Dinner,3,Never,Mocktails,500,Earthy,None,Yes definitely,<800,4,No,1,Nutrition consult
+45-54,Mumbai,31050.0,Omni,6,2,1574.0,Post-work drinks,5,1-2× month,Mocktails,600,Earthy,Tequila,Maybe,1 000-1 200,3,Yes,4,Points
+35-44,Mumbai,29197.0,Vegetarian,4,1,1456.0,Lunch,5,Daily,Cocktails,600,"Herbal, Smoky, Spicy",Gin,Never,800-1 000,5,No,1,Free delivery
+35-44,Kolkata,20000.0,Omni,4,3,1129.0,"Dinner, Post-work drinks",5,1× week,Equal,600,"Citrus, Earthy",Rum,Maybe,800-1 000,5,Maybe,2,Points
+25-34,Mumbai,20000.0,Vegan,2,2,1011.0,Dinner,3,1-2× month,Cocktails,600,"Herbal, Spicy",Whisky,Unlikely,800-1 000,4,Yes,5,Nutrition consult
+35-44,Chennai,68895.0,Vegan,3,3,2000.0,Lunch,3,1-2× month,Cocktails,500,Herbal,"Gin, Vodka",Maybe,>1 200,4,Maybe,4,Nutrition consult
+25-34,Bengaluru,51447.0,Keto,5,4,2000.0,"Post-work drinks, Weekend treat",5,Daily,Equal,500,"Earthy, Herbal, Smoky",Rum,Maybe,800-1 000,1,Yes,3,Points
+35-44,Kolkata,27667.0,Omni,1,1,1324.0,"Lunch, Weekend treat",3,1-2× month,Avoid all,400,Herbal,Rum,Yes definitely,800-1 000,5,Maybe,2,Free delivery
+25-34,Mumbai,32106.0,Vegetarian,1,1,3249.0,Post-work drinks,2,1-2× month,Mocktails,500,Smoky,Gin,Unlikely,1 000-1 200,5,Yes,4,Points
+18-24,Kolkata,20000.0,Omni,2,4,1123.0,Post-work drinks,4,Daily,Cocktails,500,Citrus,"Gin, Vodka",Unlikely,1 000-1 200,2,Maybe,3,Nutrition consult
+35-44,Mumbai,57615.0,Other,0,2,2000.0,Dinner,4,Never,Mocktails,500,Spicy,None,Yes definitely,1 000-1 200,1,Maybe,4,Points
+25-34,Delhi,59338.0,Omni,7,2,2000.0,Dinner,5,1× week,Cocktails,600,"Citrus, Fruity, Smoky",Tequila,Maybe,>1 200,3,Yes,4,Points
+45-54,Bengaluru,20000.0,Omni,2,3,929.0,"Dinner, Lunch",2,Never,Mocktails,500,Fruity,None,Yes definitely,800-1 000,4,Maybe,3,Free delivery
+35-44,Bengaluru,56310.0,Omni,5,2,2000.0,"Lunch, Weekend treat",5,2-3× week,Equal,600,Fruity,Gin,Unlikely,800-1 000,4,Yes,3,Free delivery
+35-44,Mumbai,38027.0,Vegetarian,4,2,1558.0,"Dinner, Lunch",5,1× week,Mocktails,600,"Citrus, Spicy",Vodka,Unlikely,800-1 000,4,Yes,4,Cocktail upgrade
+25-34,Delhi,20000.0,Vegetarian,3,0,2173.0,"Dinner, Lunch",5,Never,Mocktails,700,"Citrus, Fruity, Spicy",None,Yes definitely,<800,3,Yes,3,Nutrition consult
+25-34,Bengaluru,20000.0,Vegetarian,3,0,1194.0,"Dinner, Post-work drinks",5,1× week,Mocktails,400,Earthy,"Gin, Rum, Whisky",Maybe,800-1 000,3,Yes,5,Free delivery
+45-54,Mumbai,20000.0,Omni,1,0,1063.0,Dinner,5,1-2× month,Equal,500,"Earthy, Herbal","Gin, Rum, Vodka",Maybe,>1 200,3,Maybe,2,Points
+35-44,Hyderabad,61915.0,Omni,4,4,2000.0,Post-work drinks,5,2-3× week,Cocktails,700,"Fruity, Herbal, Smoky","Gin, Rum, Tequila, Vodka, Whisky",Maybe,1 000-1 200,3,No,1,Nutrition consult
+35-44,Hyderabad,25567.0,Omni,2,1,1036.0,Weekend treat,4,Never,Mocktails,500,"Citrus, Earthy",None,Yes definitely,<800,5,Maybe,3,Cocktail upgrade
+18-24,Delhi,25995.0,Omni,0,0,1263.0,Dinner,5,1-2× month,Equal,700,"Earthy, Fruity, Herbal","Tequila, Whisky",Maybe,<800,2,Yes,4,Cocktail upgrade
+25-34,Hyderabad,22072.0,Omni,2,1,1058.0,"Post-work drinks, Weekend treat",4,Daily,Cocktails,500,"Citrus, Earthy, Herbal",Gin,Yes definitely,800-1 000,4,No,1,Free delivery
+25-34,Hyderabad,26013.0,Vegetarian,1,0,1166.0,Lunch,5,1-2× month,Equal,500,"Fruity, Spicy",Vodka,Maybe,800-1 000,4,Yes,4,Free delivery
+25-34,Kolkata,20000.0,Vegan,1,2,1046.0,"Dinner, Lunch, Post-work drinks, Weekend treat",4,2-3× week,Equal,700,Fruity,"Gin, Rum, Vodka, Whisky",Yes definitely,>1 200,2,Yes,4,Points
+45-54,Mumbai,33109.0,Omni,3,3,1504.0,"Dinner, Post-work drinks",4,1× week,Cocktails,600,Earthy,Whisky,Yes definitely,800-1 000,2,Maybe,4,Points
+45-54,Bengaluru,83144.0,Omni,5,0,2000.0,"Dinner, Post-work drinks",5,1× week,Equal,600,"Citrus, Fruity",Tequila,Maybe,1 000-1 200,4,Yes,5,Free delivery
+45-54,Pune,31739.0,Vegetarian,2,6,1246.0,"Dinner, Post-work drinks",4,1× week,Equal,500,Earthy,Rum,Unlikely,1 000-1 200,4,Yes,4,Free delivery
+25-34,Mumbai,28623.0,Vegetarian,3,2,1350.0,"Dinner, Lunch, Weekend treat",2,1× week,Mocktails,600,Earthy,Vodka,Unlikely,1 000-1 200,5,No,1,Points
+35-44,Mumbai,27035.0,Omni,0,3,1457.0,"Lunch, Post-work drinks, Weekend treat",4,1-2× month,Mocktails,500,"Fruity, Herbal, Smoky",Whisky,Maybe,1 000-1 200,3,Maybe,2,Nutrition consult
+18-24,Mumbai,34730.0,Omni,3,0,1646.0,"Dinner, Lunch, Post-work drinks",4,Never,Mocktails,500,"Citrus, Earthy, Herbal",None,Yes definitely,<800,4,Yes,4,Nutrition consult
+25-34,Chennai,20000.0,Vegetarian,6,0,812.0,"Lunch, Post-work drinks",2,1× week,Equal,700,Spicy,"Vodka, Whisky",Maybe,1 000-1 200,4,Maybe,4,Points
+25-34,Hyderabad,20000.0,Omni,0,2,790.0,Lunch,5,1-2× month,Mocktails,500,"Fruity, Herbal",Vodka,Yes definitely,>1 200,5,Yes,5,Points
+25-34,Bengaluru,21399.0,Vegetarian,0,4,1101.0,Lunch,2,2-3× week,Mocktails,500,Earthy,Gin,Never,>1 200,4,Yes,4,Points
+18-24,Chennai,20000.0,Vegetarian,2,3,1035.0,Dinner,2,1× week,Cocktails,500,"Fruity, Herbal",Rum,Unlikely,1 000-1 200,2,Maybe,2,Nutrition consult
+35-44,Delhi,35900.0,Omni,0,2,1609.0,Post-work drinks,2,2-3× week,Mocktails,600,Earthy,Vodka,Unlikely,<800,4,Maybe,4,Free delivery
+45-54,Mumbai,34025.0,Vegan,2,1,1496.0,Post-work drinks,4,1-2× month,Cocktails,500,"Citrus, Earthy",Tequila,Maybe,>1 200,3,Yes,5,Free delivery
+18-24,Bengaluru,21442.0,Vegetarian,0,2,1296.0,"Lunch, Post-work drinks",5,1-2× month,Mocktails,500,Spicy,Tequila,Maybe,800-1 000,4,Yes,4,Free delivery
+55+,Delhi,22573.0,Vegetarian,1,2,1011.0,Lunch,4,Never,Mocktails,500,Earthy,None,Yes definitely,1 000-1 200,4,Yes,3,Points
+25-34,Mumbai,20239.0,Vegan,3,3,1150.0,"Dinner, Lunch",3,Never,Mocktails,700,"Herbal, Smoky",None,Yes definitely,1 000-1 200,5,Yes,4,Points
+25-34,Mumbai,20000.0,Omni,3,1,904.0,Weekend treat,3,2-3× week,Mocktails,500,"Citrus, Smoky",Tequila,Unlikely,>1 200,1,Yes,4,Cocktail upgrade
+45-54,Delhi,20000.0,Vegetarian,1,1,980.0,Dinner,5,Never,Mocktails,400,Earthy,None,Yes definitely,800-1 000,4,Yes,4,Free delivery
+35-44,Mumbai,20000.0,Omni,3,1,1183.0,Dinner,3,1-2× month,Mocktails,500,"Herbal, Smoky, Spicy",Gin,Yes definitely,<800,4,Yes,4,Nutrition consult
+35-44,Kolkata,24222.0,Omni,1,4,1003.0,Dinner,5,Daily,Mocktails,500,"Earthy, Herbal, Spicy","Tequila, Whisky",Yes definitely,>1 200,4,Maybe,3,Free delivery
+25-34,Mumbai,23629.0,Omni,1,0,1096.0,Dinner,5,2-3× week,Cocktails,600,"Citrus, Fruity, Herbal, Spicy","Gin, Whisky",Maybe,800-1 000,3,Yes,4,Points
+35-44,Mumbai,20000.0,Omni,4,3,1036.0,"Lunch, Post-work drinks, Weekend treat",5,1× week,Equal,600,"Citrus, Earthy, Smoky",Gin,Yes definitely,1 000-1 200,2,No,1,Points
+45-54,Mumbai,40953.0,Omni,1,2,1834.0,Lunch,4,Never,Mocktails,400,"Earthy, Smoky, Spicy",None,Yes definitely,1 000-1 200,5,Yes,4,Free delivery
+45-54,Mumbai,28316.0,Vegetarian,1,3,1400.0,Lunch,3,Never,Mocktails,500,"Citrus, Fruity",None,Yes definitely,>1 200,5,Maybe,2,Nutrition consult
+35-44,Bengaluru,20000.0,Vegetarian,2,1,2292.0,Dinner,4,1-2× month,Mocktails,500,Citrus,Tequila,Maybe,1 000-1 200,4,Yes,4,Points
+45-54,Mumbai,26524.0,Omni,2,3,1242.0,Post-work drinks,5,1-2× month,Cocktails,400,"Citrus, Earthy, Fruity, Smoky",Gin,Yes definitely,1 000-1 200,2,Maybe,2,Free delivery
+25-34,Chennai,20000.0,Vegetarian,0,3,987.0,Weekend treat,4,1-2× month,Equal,600,"Fruity, Spicy","Gin, Vodka",Yes definitely,800-1 000,5,Yes,4,Nutrition consult
+35-44,Hyderabad,35167.0,Omni,2,3,1714.0,Post-work drinks,5,1-2× month,Cocktails,700,"Fruity, Smoky, Spicy",Rum,Maybe,800-1 000,4,No,1,Cocktail upgrade
+25-34,Kolkata,20833.0,Omni,1,3,1015.0,Post-work drinks,5,1× week,Equal,500,"Earthy, Smoky","Rum, Vodka",Unlikely,1 000-1 200,5,Maybe,3,Cocktail upgrade
+45-54,Bengaluru,47972.0,Vegetarian,2,4,2000.0,"Dinner, Lunch",4,Never,Mocktails,600,"Citrus, Earthy, Herbal, Spicy",None,Yes definitely,1 000-1 200,5,Yes,3,Cocktail upgrade
+35-44,Chennai,33150.0,Keto,1,1,1442.0,Lunch,4,Never,Mocktails,600,Smoky,None,Yes definitely,>1 200,5,Maybe,2,Points
+45-54,Kolkata,32378.0,Omni,0,2,1604.0,Dinner,4,1-2× month,Mocktails,600,"Citrus, Fruity",Gin,Unlikely,1 000-1 200,4,Yes,4,Points
+18-24,Delhi,68003.0,Omni,6,1,2000.0,Weekend treat,2,Never,Mocktails,500,"Citrus, Fruity",None,Yes definitely,<800,1,Yes,4,Points
+18-24,Bengaluru,20000.0,Omni,1,4,1013.0,"Dinner, Lunch",5,2-3× week,Equal,700,"Fruity, Spicy",Gin,Unlikely,1 000-1 200,4,Yes,4,Nutrition consult
+25-34,Bengaluru,28976.0,Omni,4,4,1097.0,"Post-work drinks, Weekend treat",5,Never,Mocktails,600,Smoky,None,Yes definitely,800-1 000,3,Maybe,2,Nutrition consult
+25-34,Hyderabad,53314.0,Keto,2,0,2000.0,Weekend treat,4,1-2× month,Equal,400,"Citrus, Earthy, Herbal, Smoky, Spicy","Tequila, Vodka",Maybe,1 000-1 200,5,Maybe,4,Points
+55+,Bengaluru,20000.0,Vegetarian,6,0,907.0,Dinner,3,2-3× week,Equal,500,Spicy,Gin,Maybe,1 000-1 200,4,No,1,Free delivery
+18-24,Mumbai,20000.0,Keto,1,2,1050.0,"Dinner, Lunch, Post-work drinks",3,Never,Mocktails,500,"Citrus, Spicy",None,Yes definitely,1 000-1 200,5,Maybe,3,Points
+55+,Kolkata,25386.0,Vegetarian,4,2,1189.0,"Lunch, Post-work drinks",5,1-2× month,Cocktails,400,Fruity,"Gin, Vodka",Maybe,1 000-1 200,4,Maybe,2,Points
+35-44,Kolkata,23259.0,Omni,4,3,1159.0,"Post-work drinks, Weekend treat",5,Never,Mocktails,500,"Herbal, Smoky",None,Yes definitely,1 000-1 200,5,Yes,3,Free delivery
+18-24,Delhi,20000.0,Omni,0,1,1114.0,"Post-work drinks, Weekend treat",5,Never,Mocktails,500,Earthy,None,Yes definitely,<800,3,Yes,3,Cocktail upgrade
+18-24,Mumbai,47842.0,Omni,1,1,2000.0,Weekend treat,2,2-3× week,Mocktails,600,Herbal,Whisky,Unlikely,1 000-1 200,2,Maybe,3,Nutrition consult
+35-44,Hyderabad,21422.0,Omni,3,5,962.0,Weekend treat,3,Never,Mocktails,500,"Earthy, Spicy",None,Yes definitely,>1 200,4,Yes,5,Cocktail upgrade
+25-34,Delhi,53462.0,Vegetarian,0,5,2000.0,Dinner,3,1× week,Mocktails,500,"Citrus, Fruity",Vodka,Yes definitely,>1 200,4,Maybe,3,Free delivery
+25-34,Kolkata,20000.0,Keto,4,0,984.0,Post-work drinks,5,1× week,Cocktails,500,Citrus,Vodka,Unlikely,1 000-1 200,3,Yes,4,Free delivery
+35-44,Chennai,20000.0,Omni,1,5,1002.0,Lunch,5,Never,Mocktails,500,Spicy,None,Yes definitely,1 000-1 200,4,Yes,5,Cocktail upgrade
+35-44,Chennai,36188.0,Vegetarian,6,0,1615.0,Weekend treat,5,Never,Mocktails,500,"Earthy, Fruity",None,Yes definitely,800-1 000,3,Yes,4,Points
+18-24,Pune,20000.0,Vegan,3,3,876.0,Weekend treat,5,2-3× week,Cocktails,700,Herbal,Rum,Unlikely,1 000-1 200,4,Maybe,2,Points
+25-34,Chennai,22581.0,Vegetarian,4,0,1105.0,"Dinner, Weekend treat",5,Never,Mocktails,500,"Citrus, Earthy, Spicy",None,Yes definitely,<800,4,Yes,4,Nutrition consult
+25-34,Pune,20000.0,Omni,5,3,1012.0,"Lunch, Post-work drinks, Weekend treat",5,1× week,Mocktails,700,"Citrus, Earthy","Gin, Tequila",Never,>1 200,5,No,2,Cocktail upgrade
+25-34,Mumbai,66640.0,Omni,1,2,2000.0,"Dinner, Weekend treat",4,1-2× month,Cocktails,700,Spicy,Rum,Unlikely,<800,5,Maybe,3,Points
+35-44,Delhi,41969.0,Omni,1,1,1783.0,Weekend treat,3,1-2× month,Cocktails,500,"Citrus, Spicy",Rum,Unlikely,<800,5,Yes,4,Points
+18-24,Kolkata,20000.0,Omni,4,2,1032.0,Dinner,3,1-2× month,Cocktails,500,"Herbal, Spicy","Tequila, Whisky",Unlikely,800-1 000,4,No,1,Points
+25-34,Delhi,30779.0,Omni,0,1,1595.0,Post-work drinks,5,1-2× month,Equal,400,Herbal,Vodka,Maybe,1 000-1 200,4,No,1,Free delivery
+35-44,Delhi,20000.0,Vegetarian,4,2,1154.0,Lunch,5,Never,Mocktails,500,"Earthy, Fruity",None,Yes definitely,1 000-1 200,4,No,1,Nutrition consult
+25-34,Mumbai,20000.0,Omni,2,5,979.0,"Dinner, Weekend treat",4,2-3× week,Cocktails,500,Earthy,Vodka,Maybe,1 000-1 200,1,Yes,4,Points
+18-24,Kolkata,47372.0,Vegetarian,7,2,2000.0,"Lunch, Post-work drinks",5,1-2× month,Mocktails,500,Herbal,Rum,Maybe,>1 200,2,No,1,Points
+55+,Mumbai,68582.0,Keto,4,2,2000.0,"Dinner, Lunch, Post-work drinks, Weekend treat",3,1-2× month,Cocktails,600,"Citrus, Earthy, Fruity, Herbal",Rum,Unlikely,1 000-1 200,4,Maybe,3,Nutrition consult
+18-24,Chennai,21587.0,Omni,1,1,1253.0,"Lunch, Post-work drinks",5,Never,Mocktails,600,"Earthy, Fruity, Spicy",None,Yes definitely,1 000-1 200,3,Maybe,3,Free delivery
+25-34,Delhi,155221.0,Keto,0,0,4000.0,Post-work drinks,5,1-2× month,Cocktails,500,Spicy,"Gin, Tequila",Yes definitely,1 000-1 200,4,Maybe,2,Points
+45-54,Mumbai,80000.0,Vegetarian,3,2,2000.0,"Lunch, Weekend treat",5,1-2× month,Cocktails,600,Herbal,Whisky,Maybe,800-1 000,4,No,1,Cocktail upgrade
+35-44,Pune,48433.0,Vegetarian,1,2,2000.0,Dinner,5,1-2× month,Equal,600,Spicy,Whisky,Unlikely,1 000-1 200,4,Yes,5,Points
+18-24,Hyderabad,20000.0,Other,4,3,917.0,Weekend treat,5,2-3× week,Equal,500,"Citrus, Herbal","Gin, Tequila, Vodka",Never,800-1 000,5,Yes,4,Points
+55+,Pune,25660.0,Other,2,4,1253.0,"Dinner, Weekend treat",3,1-2× month,Avoid all,700,"Earthy, Spicy",Gin,Unlikely,1 000-1 200,3,No,1,Free delivery
+35-44,Mumbai,20000.0,Vegetarian,3,3,951.0,"Dinner, Weekend treat",4,1-2× month,Cocktails,600,"Fruity, Herbal, Spicy","Tequila, Whisky",Maybe,800-1 000,5,Yes,5,Free delivery
+25-34,Delhi,54787.0,Vegetarian,7,2,2000.0,Weekend treat,3,1× week,Mocktails,400,"Fruity, Smoky","Gin, Rum",Maybe,>1 200,5,Maybe,4,Free delivery
+18-24,Mumbai,27189.0,Vegan,5,2,1136.0,Dinner,5,1-2× month,Equal,500,"Citrus, Earthy, Fruity, Spicy",Vodka,Maybe,>1 200,4,Maybe,3,Free delivery
+45-54,Mumbai,20000.0,Vegetarian,0,2,956.0,"Post-work drinks, Weekend treat",3,Never,Mocktails,600,"Citrus, Smoky",None,Yes definitely,800-1 000,3,Yes,4,Free delivery
+25-34,Delhi,30741.0,Vegetarian,1,3,1462.0,Dinner,5,1× week,Equal,600,Spicy,Tequila,Maybe,800-1 000,5,Yes,5,Points
+18-24,Mumbai,35620.0,Vegetarian,0,5,1657.0,"Lunch, Weekend treat",5,1-2× month,Mocktails,600,"Fruity, Herbal","Gin, Rum",Unlikely,>1 200,2,Maybe,4,Cocktail upgrade
+25-34,Kolkata,20000.0,Omni,4,6,830.0,"Lunch, Post-work drinks",4,Never,Mocktails,600,"Citrus, Earthy",None,Yes definitely,1 000-1 200,5,Yes,3,Free delivery
+18-24,Mumbai,21182.0,Keto,3,2,876.0,Post-work drinks,5,2-3× week,Equal,600,Smoky,Vodka,Unlikely,1 000-1 200,3,No,1,Points
+45-54,Mumbai,29475.0,Vegetarian,5,2,1479.0,"Dinner, Weekend treat",5,Daily,Mocktails,700,"Fruity, Herbal",Whisky,Yes definitely,<800,4,Yes,5,Points
+25-34,Delhi,20000.0,Omni,4,0,1012.0,Dinner,4,2-3× week,Cocktails,500,"Herbal, Spicy",Gin,Yes definitely,800-1 000,5,Yes,5,Cocktail upgrade
+25-34,Mumbai,20000.0,Vegan,3,1,1113.0,Post-work drinks,5,2-3× week,Cocktails,500,Fruity,"Rum, Vodka, Whisky",Maybe,1 000-1 200,4,Yes,4,Free delivery
+25-34,Delhi,169283.0,Omni,0,1,2000.0,Lunch,5,2-3× week,Mocktails,500,"Citrus, Herbal",Vodka,Maybe,1 000-1 200,5,Maybe,3,Cocktail upgrade
+25-34,Pune,20000.0,Vegetarian,0,1,993.0,Post-work drinks,4,1× week,Mocktails,400,"Citrus, Earthy, Fruity, Herbal, Spicy","Rum, Tequila, Whisky",Maybe,800-1 000,5,Yes,5,Nutrition consult
+45-54,Mumbai,76707.0,Omni,1,5,4000.0,Dinner,4,Daily,Cocktails,600,"Citrus, Earthy, Smoky",Vodka,Maybe,1 000-1 200,5,Yes,5,Cocktail upgrade
+25-34,Kolkata,48064.0,Vegetarian,0,2,2000.0,Lunch,3,1-2× month,Cocktails,400,"Citrus, Earthy, Herbal",Gin,Yes definitely,1 000-1 200,4,Maybe,3,Points
+45-54,Hyderabad,20000.0,Omni,5,2,1096.0,Lunch,3,1-2× month,Mocktails,600,Spicy,Vodka,Unlikely,<800,4,Yes,4,Points
+45-54,Mumbai,20000.0,Omni,4,1,915.0,"Dinner, Post-work drinks",4,Never,Mocktails,400,Fruity,None,Yes definitely,1 000-1 200,4,Maybe,2,Nutrition consult
+35-44,Delhi,21202.0,Omni,0,4,903.0,"Dinner, Lunch",4,2-3× week,Cocktails,600,"Earthy, Herbal, Spicy",Vodka,Yes definitely,1 000-1 200,3,Yes,5,Points
+25-34,Delhi,36547.0,Keto,0,3,1836.0,"Dinner, Lunch, Weekend treat",4,Never,Mocktails,500,"Earthy, Spicy",None,Yes definitely,1 000-1 200,3,Yes,4,Free delivery
+18-24,Pune,26529.0,Other,3,0,1330.0,"Dinner, Weekend treat",2,2-3× week,Mocktails,600,"Citrus, Fruity, Spicy","Tequila, Whisky",Unlikely,800-1 000,1,Yes,3,Free delivery
